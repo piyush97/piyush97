@@ -1,4 +1,4 @@
-<h1 align="center">Piyush Mehta </h1>
+<h1 align="center"> Piyush Mehta </h1>
 
 [![Website](https://img.shields.io/website?label=piyushmehta.com&style=for-the-badge&url=https%3A%2F%2Fpiyushmehta.com)](https://piyushmehta.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/PiyushMehtas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPiyushMehtasr&screen_name=PiyushMehtas)
@@ -8,7 +8,7 @@
 ## I'm a Flight Simmer, Trumpet Player and a Professional Full Stack Dev
 
 - 🔭 I’m currently working in a startup [Nuclei](https://gonuclei.com)!
-- 🌱 I’m currently learning JAM Stack 🤣
+- 🌱 I’m currently learning JAM Stack 🔥
 - 👯 I’m looking to collaborate with other Open Source Developers
 - ⚡ Fun fact: I love to pass my time learning about finance 💸
 
