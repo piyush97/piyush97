@@ -68,4 +68,4 @@
 [twitter]: https://twitter.com/PiyushMehtas
 [instagram]: https://instagram.com/pyushhh
 [linkedin]: https://linkedin.com/in/piyushmehta24
-[webdev]: https://www.piyushmehta.com
+[webdev]: https://piyushmehta.com
