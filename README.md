@@ -1,7 +1,7 @@
 <h1 align="center"> Piyush Mehta </h1>
 
-[![Website](https://img.shields.io/website?label=piyushmehta.com&style=?style=flat-square&logo=appveyor&url=https%3A%2F%2Fpiyushmehta.com)](https://piyushmehta.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/PiyushMehtas?color=1DA1F2&logo=twitter&style=?style=flat-square&logo=appveyor)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPiyushMehtasr&screen_name=PiyushMehtas)
+[![Website](https://img.shields.io/website?label=piyushmehta.com&style=?style=flat-square&logo=upwork&url=https%3A%2F%2Fpiyushmehta.com)](https://piyushmehta.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PiyushMehtas?color=1DA1F2&logo=twitter&style=?style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPiyushMehtasr&screen_name=PiyushMehtas)
 ![](https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet)
 
 ## I'm a Flight Simmer, Trumpet Player and a Professional Full Stack Dev
