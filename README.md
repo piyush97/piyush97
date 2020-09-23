@@ -7,7 +7,7 @@
 ## I'm a Flight Simmer, Trumpet Player and a Professional Full Stack Dev
 
 - 🔭 I’m currently working for [Nuclei](https://gonuclei.com)!
-- 🌱 I’m currently working on JAM Stack🔥
+- 🌱 Current Tech stack JAM 🔥
 - 👯 I’m looking to collaborate with other Open Source Developers
 - ⚡ Fun fact: I love to pass my time learning about finance 💸
 
