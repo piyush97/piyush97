@@ -49,7 +49,7 @@
 - [What the hell is microfrontend](https://piyushmehta.com/blog/micro-frontend-react)
 - [Create a website uptime CI bot](https://piyushmehta.com/blog/ci-uptime-monitor)
 - [How do I stop feeling inferior](https://piyushmehta.com/blog/stop-feeling-inferior)
-- [All about Kuberenetes and Docker](https://piyushmehta.com/blog/kubernetes-docker)
+- [All about Kubernetes and Docker](https://piyushmehta.com/blog/kubernetes-docker)
 - [How to maintain Protobufs](https://piyushmehta.com/blog/maintain-protobuf-nuclei)
 <!-- BLOG-POST-LIST:END -->
 
