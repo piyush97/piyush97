@@ -5,11 +5,14 @@
 ![](https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet)
 
 ## I'm a Flight Simmer, Trumpet Player and a Professional Full Stack Dev
+ <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
 
 - 🔭 I’m currently working for [Nuclei](https://gonuclei.com)!
-- 🌱 Current Tech stack JAM 🔥
+- 🌱 Current Tech stack JAM Stack 🔥
 - 👯 I’m looking to collaborate with other Open Source Developers
 - ⚡ Fun fact: I love to pass my time learning about finance 💸
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@PiyushMehtas](https://twitter.com/PiyushMehtas);
 
 ### Connect with me:
 
