@@ -58,9 +58,16 @@
 ---
 
 <details>
+  <summary>:zap: Languages I code</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook)](https://github.com/piyush97)
+
+</details>
+
+<details>
   <summary>:zap: Github Stats</summary>
 
-![Piyush97's github stats](https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true)
+![Piyush97's github stats](https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true&show_icons=true)
 
 </details>
 
