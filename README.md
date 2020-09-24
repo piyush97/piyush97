@@ -1,7 +1,11 @@
 <h1 align="center"> Piyush Mehta </h1>
 
-[![Website](https://img.shields.io/website?label=piyushmehta.com&style=?style=flat-square&logo=upwork&url=https%3A%2F%2Fpiyushmehta.com)](https://piyushmehta.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/PiyushMehtas?color=1DA1F2&logo=twitter&style=?style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPiyushMehtasr&screen_name=PiyushMehtas)
+[![Linkedin Badge](https://img.shields.io/badge/-piyush24-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush24/)](https://www.linkedin.com/in/piyush24/)
+[![Medium Badge](https://img.shields.io/badge/-pmcool97-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@pmcool97)](https://medium.com/@pmcool97)
+[![Website Badge](https://img.shields.io/badge/-piyushmehta.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://piyushmehta.com)](https://piyushmehta.com)
+[![Twitter Badge](https://img.shields.io/badge/-@PiyushMehtas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PiyushMehtas)](https://twitter.com/PiyushMehtas)
+[![Instagram Badge](https://img.shields.io/badge/-@pyushhh-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pyushhh/)](https://instagram.com/pyushhh)
+[![Gmail Badge](https://img.shields.io/badge/-piyushmehta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@piyushmehta.com)](mailto:me@piyushmehta.com)
 ![](https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet)
 
 ## I'm a Flight Simmer, Trumpet Player and a Professional Full Stack Dev
@@ -11,8 +15,8 @@
 - 🌱 Current Tech stack JAM Stack 🔥
 - 👯 I’m looking to collaborate with other Open Source Developers
 - ⚡ Fun fact: I love to pass my time learning about finance 💸
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@PiyushMehtas](https://twitter.com/PiyushMehtas);
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@PiyushMehtas](https://twitter.com/PiyushMehtas)
 
 ### Connect with me:
 
