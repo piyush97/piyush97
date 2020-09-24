@@ -99,6 +99,13 @@ No Activity tracked this Week
 
 </details>
 
+<details>
+ <summary>:sweat_smile: Want to read a tech joke? </summary>
+ 
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ </details>
+
 [website]: https://piyushmehta.com
 [twitter]: https://twitter.com/PiyushMehtas
 [instagram]: https://instagram.com/pyushhh
