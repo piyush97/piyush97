@@ -1,4 +1,6 @@
-<h1 align="center"> Piyush Mehta </h1>
+<h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> 
+ नमस्ते (Namaste)🙏🏻, I'm Piyush Mehta 
+ </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-piyush24-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush24/)](https://www.linkedin.com/in/piyush24/)
 [![Medium Badge](https://img.shields.io/badge/-pmcool97-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@pmcool97)](https://medium.com/@pmcool97)
