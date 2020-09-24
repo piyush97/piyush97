@@ -54,6 +54,11 @@ No Activity tracked this Week
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#26](https://github.com//piyush97/PiyushMehta.com/pull/26) in [piyush97/PiyushMehta.com](https://github.com//piyush97/PiyushMehta.com)
+2. ❌ Closed PR [#25](https://github.com//piyush97/PiyushMehta.com/pull/25) in [piyush97/PiyushMehta.com](https://github.com//piyush97/PiyushMehta.com)
+3. ❌ Closed PR [#24](https://github.com//piyush97/PiyushMehta.com/pull/24) in [piyush97/PiyushMehta.com](https://github.com//piyush97/PiyushMehta.com)
+4. ❌ Closed PR [#23](https://github.com//piyush97/PiyushMehta.com/pull/23) in [piyush97/PiyushMehta.com](https://github.com//piyush97/PiyushMehta.com)
+5. ❌ Closed PR [#22](https://github.com//piyush97/PiyushMehta.com/pull/22) in [piyush97/PiyushMehta.com](https://github.com//piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
 
