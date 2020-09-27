@@ -74,11 +74,11 @@ No Activity tracked this Week
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What the hell is microfrontend](https://piyushmehta.com/blog/micro-frontend-react)
-- [Create a website uptime CI bot](https://piyushmehta.com/blog/ci-uptime-monitor)
-- [How do I stop feeling inferior](https://piyushmehta.com/blog/stop-feeling-inferior)
-- [All about Kubernetes and Docker](https://piyushmehta.com/blog/kubernetes-docker)
-- [How to maintain Protobufs](https://piyushmehta.com/blog/maintain-protobuf-nuclei)
+- [What is Event Loop in JavaScript](https://piyushmehta.comwhat-is-event-loop-in-javascript)
+- [What the Hell is microfrontend?](https://piyushmehta.commicro-frontend-react)
+- [Monitor Website Uptime using GitHub Actions](https://piyushmehta.comci-uptime-monitor)
+- [How Do I Stop Feeling Inferior?](https://piyushmehta.comstop-feeling-inferior)
+- [Will you be the Kubernetes to My Docker?](https://piyushmehta.comkubernetes-docker)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://piyushmehta.com)
