@@ -63,11 +63,11 @@ No Activity tracked this Week
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/piyush97/Netflix-React-Clone/pull/8) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-2. 💪 Opened PR [#8](https://github.com/piyush97/Netflix-React-Clone/pull/8) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-3. 🎉 Merged PR [#7](https://github.com/piyush97/Netflix-React-Clone/pull/7) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-4. 💪 Opened PR [#7](https://github.com/piyush97/Netflix-React-Clone/pull/7) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-5. 🎉 Merged PR [#6](https://github.com/piyush97/Netflix-React-Clone/pull/6) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+1. 🎉 Merged PR [#48](https://github.com/piyush97/PiyushMehta.com/pull/48) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. 💪 Opened PR [#48](https://github.com/piyush97/PiyushMehta.com/pull/48) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. 🎉 Merged PR [#8](https://github.com/piyush97/Netflix-React-Clone/pull/8) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+4. 💪 Opened PR [#8](https://github.com/piyush97/Netflix-React-Clone/pull/8) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+5. 🎉 Merged PR [#7](https://github.com/piyush97/Netflix-React-Clone/pull/7) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
 <!--END_SECTION:activity-->
 
 
