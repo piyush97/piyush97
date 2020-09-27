@@ -63,11 +63,11 @@ No Activity tracked this Week
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/piyush97/Netflix-React-Clone/pull/5) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-2. 💪 Opened PR [#5](https://github.com/piyush97/Netflix-React-Clone/pull/5) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-3. 🎉 Merged PR [#28](https://github.com/piyush97/PiyushMehta.com/pull/28) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-4. 🎉 Merged PR [#4](https://github.com/piyush97/Netflix-React-Clone/pull/4) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-5. 💪 Opened PR [#4](https://github.com/piyush97/Netflix-React-Clone/pull/4) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+1. 🎉 Merged PR [#6](https://github.com/piyush97/Netflix-React-Clone/pull/6) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+2. 💪 Opened PR [#6](https://github.com/piyush97/Netflix-React-Clone/pull/6) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+3. 🗣 Commented on [#22](https://github.com/imskr/gatsby-starter-plasma/issues/22) in [imskr/gatsby-starter-plasma](https://github.com/imskr/gatsby-starter-plasma)
+4. 🎉 Merged PR [#5](https://github.com/piyush97/Netflix-React-Clone/pull/5) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+5. 💪 Opened PR [#5](https://github.com/piyush97/Netflix-React-Clone/pull/5) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
 <!--END_SECTION:activity-->
 
 
