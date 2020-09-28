@@ -55,9 +55,6 @@
 ### :books: My weekly coding stats
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
