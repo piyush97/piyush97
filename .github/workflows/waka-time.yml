@@ -7,11 +7,12 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
- update-readme:
-    name: Update Readme with Metrics
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH }}
+          SHOW_TITLE: true
