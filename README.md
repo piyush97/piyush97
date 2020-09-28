@@ -55,6 +55,15 @@
 ### :books: My weekly coding stats
 
 <!--START_SECTION:waka-->
+```text
+Week: 20 September, 2020 - 27 September, 2020
+
+JavaScript   10 hrs 10 mins  ████████▓░░░░░░░░░░░░░░░░   34.61 % 
+Other        8 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TypeScript   7 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 % 
+SCSS         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+JSX          30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+```
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
