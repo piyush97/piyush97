@@ -69,11 +69,11 @@ SCSS         1 hr 17 mins    ▓░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/piyush97/Netflix-React-Clone/pull/10) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-2. 💪 Opened PR [#10](https://github.com/piyush97/Netflix-React-Clone/pull/10) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-3. 💪 Opened PR [#9](https://github.com/piyush97/Netflix-React-Clone/pull/9) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-4. 🎉 Merged PR [#48](https://github.com/piyush97/PiyushMehta.com/pull/48) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-5. 💪 Opened PR [#48](https://github.com/piyush97/PiyushMehta.com/pull/48) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 🎉 Merged PR [#11](https://github.com/piyush97/Netflix-React-Clone/pull/11) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+2. 💪 Opened PR [#11](https://github.com/piyush97/Netflix-React-Clone/pull/11) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+3. 🎉 Merged PR [#10](https://github.com/piyush97/Netflix-React-Clone/pull/10) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+4. 💪 Opened PR [#10](https://github.com/piyush97/Netflix-React-Clone/pull/10) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+5. 💪 Opened PR [#9](https://github.com/piyush97/Netflix-React-Clone/pull/9) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
 <!--END_SECTION:activity-->
 
 
