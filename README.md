@@ -56,13 +56,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2020 - 28 September, 2020
+Week: 22 September, 2020 - 29 September, 2020
 
-JavaScript   10 hrs 48 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.98 % 
-Other        9 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.24 % 
-TypeScript   9 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.99 % 
-HTML         8 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-SCSS         1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Other        15 hrs 39 mins  ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+JavaScript   14 hrs 22 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.91 % 
+TypeScript   10 hrs 48 mins  █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+HTML         9 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.41 % 
+SCSS         2 hrs 49 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 ```
 <!--END_SECTION:waka-->
 
