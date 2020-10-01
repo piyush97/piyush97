@@ -80,6 +80,7 @@ SCSS         2 hrs 49 mins   █░░░░░░░░░░░░░░░░
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥 A Beginner’s Guide to Hacktoberfest & Winning the schwag 👕](https://piyushmehta.com/blog/hacktoberfest)
 - [What is Event Loop in JavaScript](https://piyushmehta.com/blog/what-is-event-loop-in-javascript)
 - [What the Hell is microfrontend?](https://piyushmehta.com/blog/micro-frontend-react)
 - [Monitor Website Uptime using GitHub Actions](https://piyushmehta.com/blog/ci-uptime-monitor)
