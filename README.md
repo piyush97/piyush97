@@ -69,11 +69,11 @@ SCSS         2 hrs 49 mins   █░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/piyush97/PiyushMehta.com/issues/51) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. 🗣 Commented on [#56](https://github.com/piyush97/PiyushMehta.com/issues/56) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. 🎉 Merged PR [#55](https://github.com/piyush97/PiyushMehta.com/pull/55) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-4. 🎉 Merged PR [#54](https://github.com/piyush97/PiyushMehta.com/pull/54) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-5. ❗️ Opened issue [#56](https://github.com/piyush97/PiyushMehta.com/issues/56) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. ❗️ Opened issue [#57](https://github.com/piyush97/PiyushMehta.com/issues/57) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. 🗣 Commented on [#51](https://github.com/piyush97/PiyushMehta.com/issues/51) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. 🗣 Commented on [#56](https://github.com/piyush97/PiyushMehta.com/issues/56) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+4. 🎉 Merged PR [#55](https://github.com/piyush97/PiyushMehta.com/pull/55) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+5. 🎉 Merged PR [#54](https://github.com/piyush97/PiyushMehta.com/pull/54) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
 
