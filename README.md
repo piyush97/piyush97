@@ -69,11 +69,11 @@ SCSS         2 hrs 49 mins   █░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#52](https://github.com/piyush97/PiyushMehta.com/issues/52) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. 🎉 Merged PR [#15](https://github.com/piyush97/Netflix-React-Clone/pull/15) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-3. 💪 Opened PR [#15](https://github.com/piyush97/Netflix-React-Clone/pull/15) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-4. 🎉 Merged PR [#14](https://github.com/piyush97/Netflix-React-Clone/pull/14) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-5. 💪 Opened PR [#14](https://github.com/piyush97/Netflix-React-Clone/pull/14) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+1. 🎉 Merged PR [#53](https://github.com/piyush97/PiyushMehta.com/pull/53) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. 💪 Opened PR [#53](https://github.com/piyush97/PiyushMehta.com/pull/53) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. 🗣 Commented on [#52](https://github.com/piyush97/PiyushMehta.com/issues/52) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+4. ❗️ Opened issue [#52](https://github.com/piyush97/PiyushMehta.com/issues/52) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+5. 🎉 Merged PR [#15](https://github.com/piyush97/Netflix-React-Clone/pull/15) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
 <!--END_SECTION:activity-->
 
 
