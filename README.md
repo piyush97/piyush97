@@ -69,11 +69,11 @@ SCSS         2 hrs 49 mins   █░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/piyush97/piyush97/issues/1) in [piyush97/piyush97](https://github.com/piyush97/piyush97)
-2. 🗣 Commented on [#69](https://github.com/piyush97/PiyushMehta.com/issues/69) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. ❗️ Opened issue [#69](https://github.com/piyush97/PiyushMehta.com/issues/69) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-4. 🎉 Merged PR [#68](https://github.com/piyush97/PiyushMehta.com/pull/68) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-5. 🗣 Commented on [#57](https://github.com/piyush97/PiyushMehta.com/issues/57) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 🎉 Merged PR [#16](https://github.com/piyush97/Netflix-React-Clone/pull/16) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+2. ❌ Closed PR [#79](https://github.com/piyush97/PiyushMehta.com/pull/79) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. ❌ Closed PR [#74](https://github.com/piyush97/PiyushMehta.com/pull/74) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+4. 🗣 Commented on [#1](https://github.com/piyush97/piyush97/issues/1) in [piyush97/piyush97](https://github.com/piyush97/piyush97)
+5. ❗️ Opened issue [#1](https://github.com/piyush97/piyush97/issues/1) in [piyush97/piyush97](https://github.com/piyush97/piyush97)
 <!--END_SECTION:activity-->
 
 
