@@ -56,8 +56,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2020 - 03 October, 2020
-
 Other        18 hrs 46 mins  █████████▒░░░░░░░░░░░░░░░   37.69 % 
 HTML         13 hrs 53 mins  ███████░░░░░░░░░░░░░░░░░░   27.89 % 
 JavaScript   6 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 % 
