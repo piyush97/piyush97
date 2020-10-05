@@ -58,11 +58,11 @@
 ```text
 Week: 27 September, 2020 - 04 October, 2020
 
-Other        18 hrs 44 mins  █████████░░░░░░░░░░░░░░░░   35.99 % 
-HTML         13 hrs 53 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.69 % 
-JavaScript   10 hrs 43 mins  █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-TypeScript   4 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Markdown     1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Other        22 hrs          ██████████▒░░░░░░░░░░░░░░   41.46 % 
+JavaScript   18 hrs 20 mins  ████████▓░░░░░░░░░░░░░░░░   34.54 % 
+HTML         5 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+TypeScript   2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+SCSS         1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 <!--END_SECTION:waka-->
 
