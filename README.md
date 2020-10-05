@@ -67,11 +67,11 @@ Markdown     1 hr 35 mins    ▓░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/piyush97/PiyushMehta.com/issues/101) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. 🎉 Merged PR [#104](https://github.com/piyush97/PiyushMehta.com/pull/104) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. 💪 Opened PR [#104](https://github.com/piyush97/PiyushMehta.com/pull/104) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-4. 🗣 Commented on [#101](https://github.com/piyush97/PiyushMehta.com/issues/101) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-5. ❗️ Closed issue [#102](https://github.com/piyush97/PiyushMehta.com/issues/102) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. ❌ Closed PR [#105](https://github.com/piyush97/PiyushMehta.com/pull/105) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. ❌ Closed PR [#103](https://github.com/piyush97/PiyushMehta.com/pull/103) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. ❌ Closed PR [#93](https://github.com/piyush97/PiyushMehta.com/pull/93) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+4. ❌ Closed PR [#92](https://github.com/piyush97/PiyushMehta.com/pull/92) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+5. ❌ Closed PR [#91](https://github.com/piyush97/PiyushMehta.com/pull/91) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
 
