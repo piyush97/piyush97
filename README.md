@@ -56,7 +56,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2020 - 04 October, 2020
+Week: 28 September, 2020 - 05 October, 2020
 
 Other        22 hrs          ██████████▒░░░░░░░░░░░░░░   41.46 % 
 JavaScript   18 hrs 20 mins  ████████▓░░░░░░░░░░░░░░░░   34.54 % 
