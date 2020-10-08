@@ -56,11 +56,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        20 hrs 47 mins  ██████████▒░░░░░░░░░░░░░░   40.67 % 
-JavaScript   19 hrs 31 mins  █████████▓░░░░░░░░░░░░░░░   38.19 % 
-HTML         4 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-SCSS         2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Markdown     1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Week: 30 September, 2020 - 07 October, 2020
+
+JavaScript   26 hrs 37 mins  ███████████▓░░░░░░░░░░░░░   46.90 % 
+Other        21 hrs 50 mins  █████████▓░░░░░░░░░░░░░░░   38.48 % 
+JSON         3 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+SCSS         2 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Markdown     1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 <!--END_SECTION:waka-->
 
