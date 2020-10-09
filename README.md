@@ -52,6 +52,15 @@
 <br />
 <br />
 
+### 🚀 Resume
+
+<details>
+  <summary>:zap: Open It</summary>
+
+![Piyush's Resume](_resume_.gif)
+
+</details>
+
 ### :books: My weekly coding stats
 
 <!--START_SECTION:waka-->
@@ -96,6 +105,7 @@ Markdown     1 hr 34 mins    ▓░░░░░░░░░░░░░░░░
 ### 🎶 What I'm listening to right now!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31m3plxtqcdp2cgsk4cony7ddliy&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=31m3plxtqcdp2cgsk4cony7ddliy&redirect=true)
+
 
 
 <details>
