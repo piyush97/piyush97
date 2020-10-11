@@ -65,7 +65,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2020 - 09 October, 2020
+Week: 03 October, 2020 - 10 October, 2020
 
 JavaScript   38 hrs 27 mins  █████████████▒░░░░░░░░░░░   53.65 % 
 Other        19 hrs 49 mins  ███████░░░░░░░░░░░░░░░░░░   27.66 % 
