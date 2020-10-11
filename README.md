@@ -61,7 +61,7 @@
 
 </details>
 
-### :books: My weekly coding stats
+### :books: My Coding Stats
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -171,5 +171,5 @@ TypeScript               6 repos             █░░░░░░░░░░�
 [website]: https://piyushmehta.com
 [twitter]: https://twitter.com/PiyushMehtas
 [instagram]: https://instagram.com/pyushhh
-[linkedin]: https://linkedin.com/in/piyushmehta24
+[linkedin]: https://linkedin.com/in/piyush24
 [webdev]: https://piyushmehta.com
