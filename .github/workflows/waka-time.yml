@@ -24,3 +24,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_OS: "False"
+          LOCALE: "en"
