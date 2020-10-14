@@ -60,6 +60,12 @@
 
 ### :books: My Coding Stats
 
+<div>
+<img src="https://wakatime.com/share/@piyush97/45fc79fd-9f27-4e60-b777-a2143000a0ba.png" align="left" width="400"/>
+<img src="https://wakatime.com/share/@piyush97/b809684b-ced7-42f9-a27f-baebac423df9.png" width="400"/>
+</div>
+
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
