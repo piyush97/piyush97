@@ -133,6 +133,7 @@ TypeScript               6 repos             █░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make your own blog like this website!](https://piyushmehta.com/blog/how-to-make-your-own-blog)
 - [🔥 A Beginner’s Guide to Hacktoberfest & Winning the schwag 👕](https://piyushmehta.com/blog/hacktoberfest)
 - [What is Event Loop in JavaScript](https://piyushmehta.com/blog/what-is-event-loop-in-javascript)
 - [What the Hell is microfrontend?](https://piyushmehta.com/blog/micro-frontend-react)
