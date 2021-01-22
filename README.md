@@ -122,8 +122,8 @@ TypeScript               6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/piyush97/Netflix-React-Clone/pull/17) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
-2. 💪 Opened PR [#17](https://github.com/piyush97/Netflix-React-Clone/pull/17) in [piyush97/Netflix-React-Clone](https://github.com/piyush97/Netflix-React-Clone)
+1. ❗️ Opened issue [#114](https://github.com/reactjs/hi.reactjs.org/issues/114) in [reactjs/hi.reactjs.org](https://github.com/reactjs/hi.reactjs.org)
+2. ❗️ Opened issue [#113](https://github.com/reactjs/hi.reactjs.org/issues/113) in [reactjs/hi.reactjs.org](https://github.com/reactjs/hi.reactjs.org)
 3. ❌ Closed PR [#2](https://github.com/piyush97/piyush97/pull/2) in [piyush97/piyush97](https://github.com/piyush97/piyush97)
 4. 🎉 Merged PR [#106](https://github.com/piyush97/PiyushMehta.com/pull/106) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 5. 💪 Opened PR [#106](https://github.com/piyush97/PiyushMehta.com/pull/106) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
