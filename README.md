@@ -122,10 +122,10 @@ TypeScript               6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#114](https://github.com/reactjs/hi.reactjs.org/issues/114) in [reactjs/hi.reactjs.org](https://github.com/reactjs/hi.reactjs.org)
-2. ❗️ Opened issue [#113](https://github.com/reactjs/hi.reactjs.org/issues/113) in [reactjs/hi.reactjs.org](https://github.com/reactjs/hi.reactjs.org)
-3. ❌ Closed PR [#2](https://github.com/piyush97/piyush97/pull/2) in [piyush97/piyush97](https://github.com/piyush97/piyush97)
-4. 🎉 Merged PR [#106](https://github.com/piyush97/PiyushMehta.com/pull/106) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 🎉 Merged PR [#1](https://github.com/piyush97/Social-Shout/pull/1) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
+2. 💪 Opened PR [#1](https://github.com/piyush97/Social-Shout/pull/1) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
+3. ❗️ Opened issue [#114](https://github.com/reactjs/hi.reactjs.org/issues/114) in [reactjs/hi.reactjs.org](https://github.com/reactjs/hi.reactjs.org)
+4. ❗️ Opened issue [#113](https://github.com/reactjs/hi.reactjs.org/issues/113) in [reactjs/hi.reactjs.org](https://github.com/reactjs/hi.reactjs.org)
 5. 💪 Opened PR [#106](https://github.com/piyush97/PiyushMehta.com/pull/106) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
