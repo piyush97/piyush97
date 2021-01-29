@@ -122,11 +122,11 @@ TypeScript               6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/piyush97/Social-Shout/pull/8) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
-2. 💪 Opened PR [#8](https://github.com/piyush97/Social-Shout/pull/8) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
-3. 🎉 Merged PR [#7](https://github.com/piyush97/Social-Shout/pull/7) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
-4. 💪 Opened PR [#7](https://github.com/piyush97/Social-Shout/pull/7) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
-5. 🎉 Merged PR [#6](https://github.com/piyush97/Social-Shout/pull/6) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
+1. 🎉 Merged PR [#9](https://github.com/piyush97/Social-Shout/pull/9) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
+2. 💪 Opened PR [#9](https://github.com/piyush97/Social-Shout/pull/9) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
+3. 🎉 Merged PR [#8](https://github.com/piyush97/Social-Shout/pull/8) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
+4. 💪 Opened PR [#8](https://github.com/piyush97/Social-Shout/pull/8) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
+5. 🎉 Merged PR [#7](https://github.com/piyush97/Social-Shout/pull/7) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
 <!--END_SECTION:activity-->
 
 
