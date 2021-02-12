@@ -122,11 +122,11 @@ TypeScript               6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1135](https://github.com/grpc/grpc-swift/issues/1135) in [grpc/grpc-swift](https://github.com/grpc/grpc-swift)
-2. ❗️ Opened issue [#2](https://github.com/piyush97/comments/issues/2) in [piyush97/comments](https://github.com/piyush97/comments)
-3. ❗️ Opened issue [#1](https://github.com/piyush97/comments/issues/1) in [piyush97/comments](https://github.com/piyush97/comments)
-4. ❗️ Opened issue [#7329](https://github.com/typeorm/typeorm/issues/7329) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
-5. 🎉 Merged PR [#15](https://github.com/piyush97/Social-Shout/pull/15) in [piyush97/Social-Shout](https://github.com/piyush97/Social-Shout)
+1. 🗣 Commented on [#1135](https://github.com/grpc/grpc-swift/issues/1135) in [grpc/grpc-swift](https://github.com/grpc/grpc-swift)
+2. ❗️ Opened issue [#1135](https://github.com/grpc/grpc-swift/issues/1135) in [grpc/grpc-swift](https://github.com/grpc/grpc-swift)
+3. ❗️ Opened issue [#2](https://github.com/piyush97/comments/issues/2) in [piyush97/comments](https://github.com/piyush97/comments)
+4. ❗️ Opened issue [#1](https://github.com/piyush97/comments/issues/1) in [piyush97/comments](https://github.com/piyush97/comments)
+5. ❗️ Opened issue [#7329](https://github.com/typeorm/typeorm/issues/7329) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
 <!--END_SECTION:activity-->
 
 
