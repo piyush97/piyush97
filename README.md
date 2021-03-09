@@ -122,11 +122,11 @@ TypeScript               6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/piyush97/ClickAway/pull/2) in [piyush97/ClickAway](https://github.com/piyush97/ClickAway)
-2. 🎉 Merged PR [#1](https://github.com/piyush97/ClickAway/pull/1) in [piyush97/ClickAway](https://github.com/piyush97/ClickAway)
-3. 💪 Opened PR [#1](https://github.com/piyush97/ClickAway/pull/1) in [piyush97/ClickAway](https://github.com/piyush97/ClickAway)
-4. ❗️ Closed issue [#7329](https://github.com/typeorm/typeorm/issues/7329) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
-5. 🗣 Commented on [#7329](https://github.com/typeorm/typeorm/issues/7329) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
+1. 💪 Opened PR [#3](https://github.com/piyush97/ClickAway/pull/3) in [piyush97/ClickAway](https://github.com/piyush97/ClickAway)
+2. 🎉 Merged PR [#2](https://github.com/piyush97/ClickAway/pull/2) in [piyush97/ClickAway](https://github.com/piyush97/ClickAway)
+3. 🎉 Merged PR [#1](https://github.com/piyush97/ClickAway/pull/1) in [piyush97/ClickAway](https://github.com/piyush97/ClickAway)
+4. 💪 Opened PR [#1](https://github.com/piyush97/ClickAway/pull/1) in [piyush97/ClickAway](https://github.com/piyush97/ClickAway)
+5. ❗️ Closed issue [#7329](https://github.com/typeorm/typeorm/issues/7329) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
 <!--END_SECTION:activity-->
 
 
