@@ -149,10 +149,10 @@ Java                     7 repos             ██░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/succour-xyz/succour.xyz-server/pull/6) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
-2. 🎉 Merged PR [#7](https://github.com/succour-xyz/succour.xyz-server/pull/7) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
-3. 💪 Opened PR [#7](https://github.com/succour-xyz/succour.xyz-server/pull/7) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
-4. 💪 Opened PR [#1](https://github.com/piyush97/ClickAway/pull/1) in [piyush97/ClickAway](https://github.com/piyush97/ClickAway)
+1. 💪 Opened PR [#8](https://github.com/succour-xyz/succour.xyz-server/pull/8) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+2. 🎉 Merged PR [#6](https://github.com/succour-xyz/succour.xyz-server/pull/6) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+3. 🎉 Merged PR [#7](https://github.com/succour-xyz/succour.xyz-server/pull/7) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+4. 💪 Opened PR [#7](https://github.com/succour-xyz/succour.xyz-server/pull/7) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
 5. ❗️ Closed issue [#7329](https://github.com/typeorm/typeorm/issues/7329) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
 <!--END_SECTION:activity-->
 
