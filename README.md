@@ -1,14 +1,17 @@
 <h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> 
  नमस्ते (Namaste)🙏🏻, I'm Piyush Mehta 
- </h1>
+<hr/>
+<p><a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/-piyush24-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/piyush24/" alt="Linkedin Badge"></a>
+<a href="https://medium.com/@pmcool97"><img src="https://img.shields.io/badge/-pmcool97-black?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@pmcool97" alt="Medium Badge"></a>
+<a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/-piyushmehta.com-47CCCC?style=flat&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://piyushmehta.com" alt="Website Badge"></a>
+<a href="https://twitter.com/PiyushMehtas"><img src="https://img.shields.io/badge/-@PiyushMehtas-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/PiyushMehtas" alt="Twitter Badge"></a>
+<a href="https://instagram.com/pyushhh"><img src="https://img.shields.io/badge/-@pyushhh-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/pyushhh/" alt="Instagram Badge"></a>
+<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/-piyushmehta-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:me@piyushmehta.com" alt="Gmail Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=piyush97&amp;style=flat-square&amp;color=blueviolet" alt=""></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-piyush24-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush24/)](https://www.linkedin.com/in/piyush24/)
-[![Medium Badge](https://img.shields.io/badge/-pmcool97-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@pmcool97)](https://medium.com/@pmcool97)
-[![Website Badge](https://img.shields.io/badge/-piyushmehta.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://piyushmehta.com)](https://piyushmehta.com)
-[![Twitter Badge](https://img.shields.io/badge/-@PiyushMehtas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PiyushMehtas)](https://twitter.com/PiyushMehtas)
-[![Instagram Badge](https://img.shields.io/badge/-@pyushhh-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pyushhh/)](https://instagram.com/pyushhh)
-[![Gmail Badge](https://img.shields.io/badge/-piyushmehta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@piyushmehta.com)](mailto:me@piyushmehta.com)
-![](https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet)
+
+<img src="https://github-profile-trophy.vercel.app/?username=piyush97&theme=radical&row=1&no-bg=true&no-frame=true"/>
+</h1>
 
 ## I'm a Flight Simmer, Trumpet Player and a Professional Full Stack Dev
  <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
