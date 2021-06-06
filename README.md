@@ -152,11 +152,11 @@ Java                     7 repos             ██░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/succour-xyz/succour.xyz-server/pull/10) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
-2. 💪 Opened PR [#10](https://github.com/succour-xyz/succour.xyz-server/pull/10) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
-3. 🎉 Merged PR [#8](https://github.com/succour-xyz/succour.xyz-server/pull/8) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
-4. 💪 Opened PR [#8](https://github.com/succour-xyz/succour.xyz-server/pull/8) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
-5. 🎉 Merged PR [#6](https://github.com/succour-xyz/succour.xyz-server/pull/6) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+1. 🎉 Merged PR [#11](https://github.com/succour-xyz/succour.xyz-server/pull/11) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+2. 💪 Opened PR [#11](https://github.com/succour-xyz/succour.xyz-server/pull/11) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+3. ❌ Closed PR [#9](https://github.com/succour-xyz/succour.xyz-server/pull/9) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+4. 🎉 Merged PR [#10](https://github.com/succour-xyz/succour.xyz-server/pull/10) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+5. 💪 Opened PR [#10](https://github.com/succour-xyz/succour.xyz-server/pull/10) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
 <!--END_SECTION:activity-->
 
 
