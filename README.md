@@ -28,11 +28,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="piyushmehta.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="piyushmehta.com" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.png" />][website]
 
-[<img align="left" alt="piyushmehta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="piyushmehta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="piyushmehta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="piyushmehta | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
+[<img align="left" alt="piyushmehta | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />][linkedin]
+[<img align="left" alt="piyushmehta | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
 <br />
 
