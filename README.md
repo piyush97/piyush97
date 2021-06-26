@@ -152,11 +152,11 @@ Java                     7 repos             ██░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/succour-xyz/succour.xyz-server/pull/12) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
-2. 🎉 Merged PR [#11](https://github.com/succour-xyz/succour.xyz-server/pull/11) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
-3. 💪 Opened PR [#11](https://github.com/succour-xyz/succour.xyz-server/pull/11) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
-4. ❌ Closed PR [#9](https://github.com/succour-xyz/succour.xyz-server/pull/9) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
-5. 🎉 Merged PR [#10](https://github.com/succour-xyz/succour.xyz-server/pull/10) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+1. 🎉 Merged PR [#3](https://github.com/piyush97/piyush97/pull/3) in [piyush97/piyush97](https://github.com/piyush97/piyush97)
+2. 🗣 Commented on [#3](https://github.com/piyush97/piyush97/issues/3) in [piyush97/piyush97](https://github.com/piyush97/piyush97)
+3. 💪 Opened PR [#12](https://github.com/succour-xyz/succour.xyz-server/pull/12) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+4. 🎉 Merged PR [#11](https://github.com/succour-xyz/succour.xyz-server/pull/11) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+5. 💪 Opened PR [#11](https://github.com/succour-xyz/succour.xyz-server/pull/11) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
 <!--END_SECTION:activity-->
 
 
