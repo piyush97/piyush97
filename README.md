@@ -13,10 +13,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=piyush97&theme=radical&row=1&no-bg=true&no-frame=true"/>
 </h1>
 
-## I'm a Flight Simmer, Trumpet Player and a Professional Full Stack Dev
+## I'm a Flight Simmer, Trumpet Player, a Professional Full Stack Dev and a youtuber
  <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
 
 - 🔭 Building Succour.XYZ for world 🌐 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📹 I teach people web development on Youtube 
 - 😉 Known for converting your markdown to markup!
 - 🌱 Current Tech stack: JAM Stack 🔥
 - 📱 Currently working on iOS development too
