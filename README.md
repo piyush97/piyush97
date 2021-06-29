@@ -29,10 +29,11 @@
 ### Connect with me:
 
 [<img align="left" alt="piyushmehta.com" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.png" />][website]
-
 [<img align="left" alt="piyushmehta | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
 [<img align="left" alt="piyushmehta | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />][linkedin]
 [<img align="left" alt="piyushmehta | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="piyushmehta | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
+
 
 <br />
 
@@ -209,3 +210,4 @@ Java                     7 repos             ██░░░░░░░░░�
 [instagram]: https://instagram.com/pyushhh
 [linkedin]: https://linkedin.com/in/piyush24
 [webdev]: https://piyushmehta.com
+[youtube]: https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw
