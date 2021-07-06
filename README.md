@@ -6,7 +6,7 @@
 <a href="https://medium.com/@pmcool97"><img src="https://img.shields.io/badge/-pmcool97-black?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@pmcool97" alt="Medium Badge"></a>
 <a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/-piyushmehta.com-47CCCC?style=flat&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://piyushmehta.com" alt="Website Badge"></a>
 <a href="https://twitter.com/PiyushMehtas"><img src="https://img.shields.io/badge/-@PiyushMehtas-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/PiyushMehtas" alt="Twitter Badge"></a>
-<a href="https://instagram.com/pyushhh"><img src="https://img.shields.io/badge/-@coderwhoknows-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/coderwhoknows/" alt="Instagram Badge"></a>
+<a href="https://instagram.com/coderwhoknows"><img src="https://img.shields.io/badge/-@coderwhoknows-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/coderwhoknows/" alt="Instagram Badge"></a>
 <a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/-piyushmehta-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:me@piyushmehta.com" alt="Gmail Badge"></a>
 <img src="https://komarev.com/ghpvc/?username=piyush97&amp;style=flat-square&amp;color=blueviolet" alt=""></p>
 
@@ -207,7 +207,7 @@ Java                     7 repos             ██░░░░░░░░░�
 
 [website]: https://piyushmehta.com
 [twitter]: https://twitter.com/PiyushMehtas
-[instagram]: https://instagram.com/pyushhh
+[instagram]: https://instagram.com/coderwhoknows
 [linkedin]: https://linkedin.com/in/piyush24
 [webdev]: https://piyushmehta.com
 [youtube]: https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw
