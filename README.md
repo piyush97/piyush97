@@ -154,11 +154,11 @@ Java                     7 repos             ██░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/piyush97/PiyushMehta.com/pull/108) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. 💪 Opened PR [#108](https://github.com/piyush97/PiyushMehta.com/pull/108) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. 🎉 Merged PR [#3](https://github.com/piyush97/piyush97/pull/3) in [piyush97/piyush97](https://github.com/piyush97/piyush97)
-4. 🗣 Commented on [#3](https://github.com/piyush97/piyush97/issues/3) in [piyush97/piyush97](https://github.com/piyush97/piyush97)
-5. 💪 Opened PR [#11](https://github.com/succour-xyz/succour.xyz-server/pull/11) in [succour-xyz/succour.xyz-server](https://github.com/succour-xyz/succour.xyz-server)
+1. 🎉 Merged PR [#107](https://github.com/piyush97/PiyushMehta.com/pull/107) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. 🎉 Merged PR [#108](https://github.com/piyush97/PiyushMehta.com/pull/108) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. 💪 Opened PR [#108](https://github.com/piyush97/PiyushMehta.com/pull/108) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+4. 🎉 Merged PR [#3](https://github.com/piyush97/piyush97/pull/3) in [piyush97/piyush97](https://github.com/piyush97/piyush97)
+5. 🗣 Commented on [#3](https://github.com/piyush97/piyush97/issues/3) in [piyush97/piyush97](https://github.com/piyush97/piyush97)
 <!--END_SECTION:activity-->
 
 
