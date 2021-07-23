@@ -155,11 +155,11 @@ CSS                      6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/piyush97/saas-startup/pull/3) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
-2. 🎉 Merged PR [#5](https://github.com/piyush97/saas-startup/pull/5) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
-3. 🎉 Merged PR [#4](https://github.com/piyush97/saas-startup/pull/4) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
-4. 💪 Opened PR [#4](https://github.com/piyush97/saas-startup/pull/4) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
-5. 🎉 Merged PR [#2](https://github.com/piyush97/saas-startup/pull/2) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
+1. 💪 Opened PR [#6](https://github.com/piyush97/saas-startup/pull/6) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
+2. ❌ Closed PR [#3](https://github.com/piyush97/saas-startup/pull/3) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
+3. 🎉 Merged PR [#5](https://github.com/piyush97/saas-startup/pull/5) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
+4. 🎉 Merged PR [#4](https://github.com/piyush97/saas-startup/pull/4) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
+5. 💪 Opened PR [#4](https://github.com/piyush97/saas-startup/pull/4) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
 <!--END_SECTION:activity-->
 
 
