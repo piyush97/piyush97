@@ -213,4 +213,4 @@ Python                   6 repos             █░░░░░░░░░░�
 [instagram]: https://instagram.com/coderwhoknows
 [linkedin]: https://linkedin.com/in/piyush24
 [webdev]: https://piyushmehta.com
-[youtube]: https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw
+[youtube]: https://www.youtube.com/c/CoderWhoKnows
