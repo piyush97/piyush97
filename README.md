@@ -156,11 +156,11 @@ Python                   6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#13](https://github.com/piyush97/saas-startup/pull/13) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
-2. ❌ Closed PR [#13](https://github.com/piyush97/saas-startup/pull/13) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
-3. 💪 Opened PR [#13](https://github.com/piyush97/saas-startup/pull/13) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
-4. 🎉 Merged PR [#12](https://github.com/piyush97/saas-startup/pull/12) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
-5. 💪 Opened PR [#12](https://github.com/piyush97/saas-startup/pull/12) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
+1. 🎉 Merged PR [#1](https://github.com/piyush97/Competitive-Coding-tutorial/pull/1) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
+2. 💪 Opened PR [#1](https://github.com/piyush97/Competitive-Coding-tutorial/pull/1) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
+3. ❌ Reopened PR [#13](https://github.com/piyush97/saas-startup/pull/13) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
+4. ❌ Closed PR [#13](https://github.com/piyush97/saas-startup/pull/13) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
+5. 💪 Opened PR [#13](https://github.com/piyush97/saas-startup/pull/13) in [piyush97/saas-startup](https://github.com/piyush97/saas-startup)
 <!--END_SECTION:activity-->
 
 
