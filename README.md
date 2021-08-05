@@ -156,11 +156,11 @@ Python                   6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/piyush97/Competitive-Coding-tutorial/pull/5) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
-2. ❗️ Opened issue [#4](https://github.com/piyush97/Competitive-Coding-tutorial/issues/4) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
-3. 🎉 Merged PR [#2](https://github.com/piyush97/Competitive-Coding-tutorial/pull/2) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
-4. 🎉 Merged PR [#109](https://github.com/piyush97/PiyushMehta.com/pull/109) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-5. 💪 Opened PR [#109](https://github.com/piyush97/PiyushMehta.com/pull/109) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 🎉 Merged PR [#5](https://github.com/piyush97/Competitive-Coding-tutorial/pull/5) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
+2. 💪 Opened PR [#5](https://github.com/piyush97/Competitive-Coding-tutorial/pull/5) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
+3. ❗️ Opened issue [#4](https://github.com/piyush97/Competitive-Coding-tutorial/issues/4) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
+4. 🎉 Merged PR [#2](https://github.com/piyush97/Competitive-Coding-tutorial/pull/2) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
+5. 🎉 Merged PR [#109](https://github.com/piyush97/PiyushMehta.com/pull/109) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
 
