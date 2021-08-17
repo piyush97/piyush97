@@ -156,11 +156,11 @@ Python                   6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/piyush97/awesome-portfolio/pull/14) in [piyush97/awesome-portfolio](https://github.com/piyush97/awesome-portfolio)
-2. 🎉 Merged PR [#5](https://github.com/piyush97/Competitive-Coding-tutorial/pull/5) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
-3. 💪 Opened PR [#5](https://github.com/piyush97/Competitive-Coding-tutorial/pull/5) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
-4. ❗️ Opened issue [#4](https://github.com/piyush97/Competitive-Coding-tutorial/issues/4) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
-5. 🎉 Merged PR [#2](https://github.com/piyush97/Competitive-Coding-tutorial/pull/2) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
+1. 🎉 Merged PR [#111](https://github.com/piyush97/PiyushMehta.com/pull/111) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. 💪 Opened PR [#111](https://github.com/piyush97/PiyushMehta.com/pull/111) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. 🎉 Merged PR [#14](https://github.com/piyush97/awesome-portfolio/pull/14) in [piyush97/awesome-portfolio](https://github.com/piyush97/awesome-portfolio)
+4. 🎉 Merged PR [#5](https://github.com/piyush97/Competitive-Coding-tutorial/pull/5) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
+5. 💪 Opened PR [#5](https://github.com/piyush97/Competitive-Coding-tutorial/pull/5) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
 <!--END_SECTION:activity-->
 
 
