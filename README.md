@@ -75,13 +75,13 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,122 Contributions in the Year 2021
+> 🏆 1,123 Contributions in the Year 2021
  > 
 > 📦 2.1 MB Used in Github's Storage 
  > 
@@ -104,10 +104,10 @@
 
 ```text
 Monday       164 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-Tuesday      180 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Tuesday      181 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
 Wednesday    148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
 Thursday     231 commits    █████░░░░░░░░░░░░░░░░░░░░   19.61% 
-Friday       142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
+Friday       141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
 Saturday     155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
 Sunday       158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.41%
 
@@ -142,7 +142,7 @@ Python                   6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2021
+ Last Updated on 01/09/2021
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
