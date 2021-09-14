@@ -1,4 +1,4 @@
-<img src="https://media-exp3.licdn.com/dms/image/C5616AQEHHy1vwxvXAQ/profile-displaybackgroundimage-shrink_350_1400/0/1625473246082?e=1631145600&v=beta&t=t5GL4K-sXQyf8Kja7UFCx3sCMxf-j_3bBaAdoz92CCc"/>
+<img width="100%" src="https://i.ibb.co/9HyWqyb/social-2.jpg"/>
 <h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> 
  नमस्ते (Namaste)🙏🏻, I'm Piyush Mehta 
 <hr/>
