@@ -22,9 +22,8 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 - 📹 I teach people web development on <a href="https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw">Youtube </a>
 - 😉 Known for converting your markdown to markup!
 - 🌱 Current Tech stack: JAM Stack 🔥
-- 📱 Currently working on iOS development too
 - 👯 I’m looking to collaborate with other Open Source Developers
-- ⚡ Fun fact: I love to pass my time learning about finance 💸
+- ⚡ Fun fact: I love to pass my time learning about economics 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@PiyushMehtas](https://twitter.com/PiyushMehtas)
 
