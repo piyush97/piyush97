@@ -75,13 +75,13 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,155 Contributions in the Year 2021
+> 🏆 1,156 Contributions in the Year 2021
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -103,9 +103,9 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
+Monday       164 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
 Tuesday      180 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-Wednesday    147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+Wednesday    148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
 Thursday     231 commits    █████░░░░░░░░░░░░░░░░░░░░   19.73% 
 Friday       141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
 Saturday     150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
@@ -118,10 +118,10 @@ Sunday       157 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    27 hrs 47 mins      █████████████████████████   100.0%
+Other                    22 hrs 32 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Competitive-Coding-tutori27 hrs 47 mins      █████████████████████████   100.0%
+Competitive-Coding-tutori22 hrs 32 mins      █████████████████████████   100.0%
 
 ```
 
@@ -142,7 +142,7 @@ Python                   6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/09/2021
+ Last Updated on 30/09/2021
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
