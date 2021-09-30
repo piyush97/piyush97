@@ -1,6 +1,6 @@
 <img width="100%" src="https://i.ibb.co/9HyWqyb/social-2.jpg"/>
 <h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> 
- नमस्ते (Namaste)🙏🏻, I'm Piyush Mehta 
+Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canada 🇨🇦
 <hr/>
 <p><a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/-piyush24-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/piyush24/" alt="Linkedin Badge"></a>
 <a href="https://medium.com/@pmcool97"><img src="https://img.shields.io/badge/-pmcool97-black?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@pmcool97" alt="Medium Badge"></a>
@@ -17,6 +17,7 @@
 ## I'm a Flight Simmer, Trumpet Player, a Professional Full Stack Dev and a youtuber
  <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
 
+- 📚 I'm currently a Master's of Computer Science student at UofW
 - 🔭 Building Succour.XYZ for world 🌐 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📹 I teach people web development on <a href="https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw">Youtube </a>
 - 😉 Known for converting your markdown to markup!
