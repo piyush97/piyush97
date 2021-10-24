@@ -154,11 +154,11 @@ CSS                      5 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/piyush97/PiyushMehta.com/pull/111) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. 💪 Opened PR [#111](https://github.com/piyush97/PiyushMehta.com/pull/111) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. 🎉 Merged PR [#14](https://github.com/piyush97/awesome-portfolio/pull/14) in [piyush97/awesome-portfolio](https://github.com/piyush97/awesome-portfolio)
-4. 🎉 Merged PR [#5](https://github.com/piyush97/Competitive-Coding-tutorial/pull/5) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
-5. 💪 Opened PR [#5](https://github.com/piyush97/Competitive-Coding-tutorial/pull/5) in [piyush97/Competitive-Coding-tutorial](https://github.com/piyush97/Competitive-Coding-tutorial)
+1. ❗️ Opened issue [#2](https://github.com/piyush97/divvy/issues/2) in [piyush97/divvy](https://github.com/piyush97/divvy)
+2. 🎉 Merged PR [#3](https://github.com/sawan-dry-fruits/auth-service/pull/3) in [sawan-dry-fruits/auth-service](https://github.com/sawan-dry-fruits/auth-service)
+3. ❗️ Closed issue [#4](https://github.com/sawan-dry-fruits/auth-service/issues/4) in [sawan-dry-fruits/auth-service](https://github.com/sawan-dry-fruits/auth-service)
+4. 🗣 Commented on [#4](https://github.com/sawan-dry-fruits/auth-service/issues/4) in [sawan-dry-fruits/auth-service](https://github.com/sawan-dry-fruits/auth-service)
+5. ❗️ Opened issue [#4](https://github.com/sawan-dry-fruits/auth-service/issues/4) in [sawan-dry-fruits/auth-service](https://github.com/sawan-dry-fruits/auth-service)
 <!--END_SECTION:activity-->
 
 
