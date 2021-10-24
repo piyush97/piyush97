@@ -154,11 +154,11 @@ CSS                      5 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/piyush97/divvy/pull/3) in [piyush97/divvy](https://github.com/piyush97/divvy)
-2. ❗️ Closed issue [#2](https://github.com/piyush97/divvy/issues/2) in [piyush97/divvy](https://github.com/piyush97/divvy)
-3. 💪 Opened PR [#3](https://github.com/piyush97/divvy/pull/3) in [piyush97/divvy](https://github.com/piyush97/divvy)
-4. ❗️ Opened issue [#2](https://github.com/piyush97/divvy/issues/2) in [piyush97/divvy](https://github.com/piyush97/divvy)
-5. 🎉 Merged PR [#3](https://github.com/sawan-dry-fruits/auth-service/pull/3) in [sawan-dry-fruits/auth-service](https://github.com/sawan-dry-fruits/auth-service)
+1. ❗️ Opened issue [#4](https://github.com/piyush97/divvy/issues/4) in [piyush97/divvy](https://github.com/piyush97/divvy)
+2. 🎉 Merged PR [#3](https://github.com/piyush97/divvy/pull/3) in [piyush97/divvy](https://github.com/piyush97/divvy)
+3. ❗️ Closed issue [#2](https://github.com/piyush97/divvy/issues/2) in [piyush97/divvy](https://github.com/piyush97/divvy)
+4. 💪 Opened PR [#3](https://github.com/piyush97/divvy/pull/3) in [piyush97/divvy](https://github.com/piyush97/divvy)
+5. ❗️ Opened issue [#2](https://github.com/piyush97/divvy/issues/2) in [piyush97/divvy](https://github.com/piyush97/divvy)
 <!--END_SECTION:activity-->
 
 
