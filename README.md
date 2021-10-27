@@ -154,11 +154,11 @@ CSS                      5 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/piyush97/PiyushMehta.com/pull/113) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. 🎉 Merged PR [#3](https://github.com/sawan-dry-fruits/event-bus/pull/3) in [sawan-dry-fruits/event-bus](https://github.com/sawan-dry-fruits/event-bus)
-3. 💪 Opened PR [#3](https://github.com/sawan-dry-fruits/event-bus/pull/3) in [sawan-dry-fruits/event-bus](https://github.com/sawan-dry-fruits/event-bus)
-4. ❌ Closed PR [#2](https://github.com/sawan-dry-fruits/event-bus/pull/2) in [sawan-dry-fruits/event-bus](https://github.com/sawan-dry-fruits/event-bus)
-5. 💪 Opened PR [#113](https://github.com/piyush97/PiyushMehta.com/pull/113) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 🗣 Commented on [#112](https://github.com/piyush97/PiyushMehta.com/issues/112) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. 🎉 Merged PR [#113](https://github.com/piyush97/PiyushMehta.com/pull/113) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. 🎉 Merged PR [#3](https://github.com/sawan-dry-fruits/event-bus/pull/3) in [sawan-dry-fruits/event-bus](https://github.com/sawan-dry-fruits/event-bus)
+4. 💪 Opened PR [#3](https://github.com/sawan-dry-fruits/event-bus/pull/3) in [sawan-dry-fruits/event-bus](https://github.com/sawan-dry-fruits/event-bus)
+5. ❌ Closed PR [#2](https://github.com/sawan-dry-fruits/event-bus/pull/2) in [sawan-dry-fruits/event-bus](https://github.com/sawan-dry-fruits/event-bus)
 <!--END_SECTION:activity-->
 
 
