@@ -154,11 +154,11 @@ CSS                      5 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/piyush97/PiyushMehta.com/issues/112) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. 🗣 Commented on [#112](https://github.com/piyush97/PiyushMehta.com/issues/112) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 🗣 Commented on [#114](https://github.com/piyush97/PiyushMehta.com/issues/114) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. 🗣 Commented on [#114](https://github.com/piyush97/PiyushMehta.com/issues/114) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 3. 🗣 Commented on [#112](https://github.com/piyush97/PiyushMehta.com/issues/112) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-4. 🎉 Merged PR [#113](https://github.com/piyush97/PiyushMehta.com/pull/113) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-5. 🎉 Merged PR [#3](https://github.com/sawan-dry-fruits/event-bus/pull/3) in [sawan-dry-fruits/event-bus](https://github.com/sawan-dry-fruits/event-bus)
+4. 🗣 Commented on [#112](https://github.com/piyush97/PiyushMehta.com/issues/112) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+5. 🗣 Commented on [#112](https://github.com/piyush97/PiyushMehta.com/issues/112) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
 
