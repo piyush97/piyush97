@@ -154,11 +154,11 @@ CSS                      5 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/sawan-dry-fruits/auth-service/issues/2) in [sawan-dry-fruits/auth-service](https://github.com/sawan-dry-fruits/auth-service)
-2. 🗣 Commented on [#4](https://github.com/piyush97/divvy/issues/4) in [piyush97/divvy](https://github.com/piyush97/divvy)
-3. 🗣 Commented on [#4](https://github.com/piyush97/divvy/issues/4) in [piyush97/divvy](https://github.com/piyush97/divvy)
-4. 🎉 Merged PR [#5](https://github.com/piyush97/divvy/pull/5) in [piyush97/divvy](https://github.com/piyush97/divvy)
-5. 💪 Opened PR [#5](https://github.com/piyush97/divvy/pull/5) in [piyush97/divvy](https://github.com/piyush97/divvy)
+1. 🎉 Merged PR [#2](https://github.com/sawan-dry-fruits/infra/pull/2) in [sawan-dry-fruits/infra](https://github.com/sawan-dry-fruits/infra)
+2. 💪 Opened PR [#2](https://github.com/sawan-dry-fruits/infra/pull/2) in [sawan-dry-fruits/infra](https://github.com/sawan-dry-fruits/infra)
+3. 🎉 Merged PR [#1](https://github.com/sawan-dry-fruits/infra/pull/1) in [sawan-dry-fruits/infra](https://github.com/sawan-dry-fruits/infra)
+4. 💪 Opened PR [#1](https://github.com/sawan-dry-fruits/infra/pull/1) in [sawan-dry-fruits/infra](https://github.com/sawan-dry-fruits/infra)
+5. 💪 Opened PR [#2](https://github.com/sawan-dry-fruits/event-bus/pull/2) in [sawan-dry-fruits/event-bus](https://github.com/sawan-dry-fruits/event-bus)
 <!--END_SECTION:activity-->
 
 
