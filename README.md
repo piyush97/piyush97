@@ -156,7 +156,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#114](https://github.com/piyush97/PiyushMehta.com/issues/114) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 2. 🗣 Commented on [#114](https://github.com/piyush97/PiyushMehta.com/issues/114) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. 🗣 Commented on [#112](https://github.com/piyush97/PiyushMehta.com/issues/112) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. 🗣 Commented on [#114](https://github.com/piyush97/PiyushMehta.com/issues/114) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 4. 🗣 Commented on [#112](https://github.com/piyush97/PiyushMehta.com/issues/112) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 5. 🗣 Commented on [#112](https://github.com/piyush97/PiyushMehta.com/issues/112) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
