@@ -81,7 +81,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,278 Contributions in the Year 2021
+> 🏆 1,279 Contributions in the Year 2021
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -94,8 +94,8 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
-🌆 Daytime    408 commits    ██████████░░░░░░░░░░░░░░░   41.05% 
+🌞 Morning    153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.39% 
+🌆 Daytime    407 commits    ██████████░░░░░░░░░░░░░░░   40.95% 
 🌃 Evening    389 commits    █████████░░░░░░░░░░░░░░░░   39.13% 
 🌙 Night      45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.53%
 
@@ -118,10 +118,10 @@ Sunday       146 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    57 hrs 45 mins      █████████████████████████   100.0%
+Other                    52 hrs 14 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-PiyushMehta.com          57 hrs 45 mins      █████████████████████████   100.0%
+PiyushMehta.com          52 hrs 14 mins      █████████████████████████   100.0%
 
 ```
 
@@ -142,7 +142,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2021
+ Last Updated on 06/11/2021
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
