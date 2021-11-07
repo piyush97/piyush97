@@ -118,10 +118,10 @@ Sunday       146 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    52 hrs 14 mins      █████████████████████████   100.0%
+Other                    41 hrs 51 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-PiyushMehta.com          52 hrs 14 mins      █████████████████████████   100.0%
+PiyushMehta.com          41 hrs 51 mins      █████████████████████████   100.0%
 
 ```
 
@@ -142,7 +142,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2021
+ Last Updated on 07/11/2021
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
