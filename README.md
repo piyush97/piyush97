@@ -160,13 +160,13 @@ CSS                      5 repos             █░░░░░░░░░░�
 
 <!-- BLOG-POST-LIST:START -->
 - [How to make your own blog like this website!](https://piyushmehta.com/blog/how-to-make-your-own-blog)
-- [🔥 A Beginner’s Guide to Hacktoberfest & Winning the schwag 👕](https://piyushmehta.com/blog/hacktoberfest)
+- [🔥 A Beginner’s Guide to Hacktoberfest &amp; Winning the schwag 👕](https://piyushmehta.com/blog/hacktoberfest)
 - [What is Event Loop in JavaScript](https://piyushmehta.com/blog/what-is-event-loop-in-javascript)
 - [What the Hell is microfrontend?](https://piyushmehta.com/blog/micro-frontend-react)
 - [Monitor Website Uptime using GitHub Actions](https://piyushmehta.com/blog/ci-uptime-monitor)
 - [How Do I Stop Feeling Inferior?](https://piyushmehta.com/blog/stop-feeling-inferior)
 - [Will you be the Kubernetes to My Docker?](https://piyushmehta.com/blog/kubernetes-docker)
-- [How we are maintaining ProtoBuf (Protocol Buffers) at Nuclei](https://piyushmehta.com/blog/maintain-protobuf-nuclei)
+- [How we are maintaining ProtoBuf &lpar;Protocol Buffers&rpar; at Nuclei](https://piyushmehta.com/blog/maintain-protobuf-nuclei)
 - [The Silent S in HTTPS](https://piyushmehta.com/blog/The-Silent-S-in-HTTPS)
 <!-- BLOG-POST-LIST:END -->
 
