@@ -75,13 +75,13 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,283 Contributions in the Year 2021
+> 🏆 1,284 Contributions in the Year 2021
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -94,8 +94,8 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-🌆 Daytime    407 commits    ██████████░░░░░░░░░░░░░░░   40.95% 
+🌞 Morning    152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+🌆 Daytime    406 commits    ██████████░░░░░░░░░░░░░░░   40.85% 
 🌃 Evening    391 commits    █████████░░░░░░░░░░░░░░░░   39.34% 
 🌙 Night      45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.53%
 
@@ -118,10 +118,10 @@ Sunday       146 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    55 hrs 19 mins      █████████████████████████   100.0%
+Other                    69 hrs 53 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-PiyushMehta.com          55 hrs 19 mins      █████████████████████████   100.0%
+PiyushMehta.com          69 hrs 53 mins      █████████████████████████   100.0%
 
 ```
 
@@ -142,7 +142,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/11/2021
+ Last Updated on 14/11/2021
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
