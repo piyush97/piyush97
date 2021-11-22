@@ -75,13 +75,13 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,292 Contributions in the Year 2021
+> 🏆 1,293 Contributions in the Year 2021
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -104,12 +104,12 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 ```text
 Monday       130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
-Tuesday      161 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
+Tuesday      160 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
 Wednesday    126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
 Thursday     186 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
 Friday       126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
 Saturday     119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
-Sunday       146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.69%
+Sunday       147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79%
 
 ```
 
@@ -144,7 +144,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/11/2021
+ Last Updated on 22/11/2021
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
