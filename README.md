@@ -75,13 +75,13 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,317 Contributions in the Year 2021
+> 🏆 1,318 Contributions in the Year 2021
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -105,11 +105,11 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 ```text
 Monday       130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
 Tuesday      159 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
-Wednesday    127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+Wednesday    126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
 Thursday     186 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
 Friday       127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
 Saturday     120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
-Sunday       146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.67%
+Sunday       147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.77%
 
 ```
 
@@ -118,12 +118,12 @@ Sunday       146 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    80 hrs 3 mins       █████████████████████████   99.99% 
+Other                    83 hrs 52 mins      █████████████████████████   99.99% 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-DAS-Extension            80 hrs 3 mins       █████████████████████████   99.99% 
+DAS-Extension            83 hrs 52 mins      █████████████████████████   99.99% 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
@@ -145,7 +145,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/12/2021
+ Last Updated on 13/12/2021
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
