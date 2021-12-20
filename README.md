@@ -75,13 +75,13 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,321 Contributions in the Year 2021
+> 🏆 1,323 Contributions in the Year 2021
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -103,13 +103,13 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
+Monday       129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
 Tuesday      160 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
 Wednesday    126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
 Thursday     186 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
 Friday       125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
-Saturday     121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
-Sunday       147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.77%
+Saturday     120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+Sunday       149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97%
 
 ```
 
@@ -118,10 +118,10 @@ Sunday       147 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 30 mins       █████████████████████████   100.0%
+Other                    4 hrs 40 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-DAS-Extension            7 hrs 30 mins       █████████████████████████   100.0%
+DAS-Extension            4 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
@@ -142,7 +142,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
