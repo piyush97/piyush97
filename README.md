@@ -118,10 +118,10 @@ Sunday       149 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 2 mins       █████████████████████████   100.0%
+Other                    12 hrs 44 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-DAS-Extension            11 hrs 2 mins       █████████████████████████   100.0%
+DAS-Extension            12 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
@@ -142,7 +142,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/12/2021
+ Last Updated on 23/12/2021
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
