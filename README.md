@@ -154,8 +154,8 @@ CSS                      5 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/piyush97/divvy/issues/4) in [piyush97/divvy](https://github.com/piyush97/divvy)
-2. 🗣 Commented on [#4](https://github.com/piyush97/divvy/issues/4) in [piyush97/divvy](https://github.com/piyush97/divvy)
+1. 🎉 Merged PR [#1](https://github.com/piyush97/Notre-Boutique/pull/1) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
+2. 💪 Opened PR [#1](https://github.com/piyush97/Notre-Boutique/pull/1) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
 3. 🎉 Merged PR [#6](https://github.com/piyush97/divvy/pull/6) in [piyush97/divvy](https://github.com/piyush97/divvy)
 4. 🗣 Commented on [#6](https://github.com/piyush97/divvy/issues/6) in [piyush97/divvy](https://github.com/piyush97/divvy)
 5. 🗣 Commented on [#114](https://github.com/piyush97/PiyushMehta.com/issues/114) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
