@@ -156,11 +156,11 @@ Python                   5 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/piyush97/Notre-Boutique/pull/8) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
-2. 💪 Opened PR [#8](https://github.com/piyush97/Notre-Boutique/pull/8) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
-3. 🎉 Merged PR [#7](https://github.com/piyush97/Notre-Boutique/pull/7) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
-4. 💪 Opened PR [#7](https://github.com/piyush97/Notre-Boutique/pull/7) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
-5. 🎉 Merged PR [#6](https://github.com/piyush97/Notre-Boutique/pull/6) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
+1. 🎉 Merged PR [#9](https://github.com/piyush97/Notre-Boutique/pull/9) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
+2. 💪 Opened PR [#9](https://github.com/piyush97/Notre-Boutique/pull/9) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
+3. 🎉 Merged PR [#8](https://github.com/piyush97/Notre-Boutique/pull/8) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
+4. 💪 Opened PR [#8](https://github.com/piyush97/Notre-Boutique/pull/8) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
+5. 🎉 Merged PR [#7](https://github.com/piyush97/Notre-Boutique/pull/7) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
 <!--END_SECTION:activity-->
 
 
