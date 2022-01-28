@@ -18,7 +18,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
  <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
 
 - 📚 I'm currently a Master's of Computer Science student at UofW
-- 🔭 Building Succour.XYZ for world 🌐 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 Building 0xZ3ST a Metaverse Project by me 🌐 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📹 I teach people web development on <a href="https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw">Youtube </a>
 - 😉 Known for converting your markdown to markup!
 - 🌱 Current Tech stack: JAM Stack 🔥
