@@ -156,11 +156,11 @@ Python                   5 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/UtkarshA135/cmd-port/issues/1) in [UtkarshA135/cmd-port](https://github.com/UtkarshA135/cmd-port)
-2. 🎉 Merged PR [#15](https://github.com/piyush97/Notre-Boutique/pull/15) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
-3. 💪 Opened PR [#15](https://github.com/piyush97/Notre-Boutique/pull/15) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
-4. 🎉 Merged PR [#14](https://github.com/piyush97/Notre-Boutique/pull/14) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
-5. 💪 Opened PR [#14](https://github.com/piyush97/Notre-Boutique/pull/14) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
+1. 🎉 Merged PR [#16](https://github.com/piyush97/Notre-Boutique/pull/16) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
+2. 💪 Opened PR [#16](https://github.com/piyush97/Notre-Boutique/pull/16) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
+3. ❗️ Opened issue [#1](https://github.com/UtkarshA135/cmd-port/issues/1) in [UtkarshA135/cmd-port](https://github.com/UtkarshA135/cmd-port)
+4. 🎉 Merged PR [#15](https://github.com/piyush97/Notre-Boutique/pull/15) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
+5. 💪 Opened PR [#15](https://github.com/piyush97/Notre-Boutique/pull/15) in [piyush97/Notre-Boutique](https://github.com/piyush97/Notre-Boutique)
 <!--END_SECTION:activity-->
 
 
