@@ -75,13 +75,13 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 273 Contributions in the Year 2022
+> 🏆 275 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -94,8 +94,8 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    202 commits    █████░░░░░░░░░░░░░░░░░░░░   19.71% 
-🌆 Daytime    324 commits    ████████░░░░░░░░░░░░░░░░░   31.61% 
+🌞 Morning    203 commits    █████░░░░░░░░░░░░░░░░░░░░   19.8% 
+🌆 Daytime    323 commits    ████████░░░░░░░░░░░░░░░░░   31.51% 
 🌃 Evening    351 commits    ████████░░░░░░░░░░░░░░░░░   34.24% 
 🌙 Night      148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44%
 
@@ -107,9 +107,9 @@ Monday       137 commits    ███░░░░░░░░░░░░░░�
 Tuesday      136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
 Wednesday    124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
 Thursday     183 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
-Friday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
-Saturday     148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-Sunday       176 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17%
+Friday       123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Saturday     147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
+Sunday       175 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.07%
 
 ```
 
@@ -148,7 +148,7 @@ Python                   5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/03/2022 00:53:28 UTC
+ Last Updated on 05/03/2022 00:52:16 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
