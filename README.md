@@ -153,11 +153,11 @@ Python                   5 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine/pull/4) in [AshutoshSadana/ACC-PageX-Web-Search-Engine](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine)
-2. 💪 Opened PR [#4](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine/pull/4) in [AshutoshSadana/ACC-PageX-Web-Search-Engine](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine)
-3. ❌ Closed PR [#3](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine/pull/3) in [AshutoshSadana/ACC-PageX-Web-Search-Engine](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine)
-4. 💪 Opened PR [#3](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine/pull/3) in [AshutoshSadana/ACC-PageX-Web-Search-Engine](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine)
-5. ❌ Closed PR [#47](https://github.com/piyush97/0xZ3ST/pull/47) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
+1. 💪 Opened PR [#5](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine/pull/5) in [AshutoshSadana/ACC-PageX-Web-Search-Engine](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine)
+2. ❌ Closed PR [#4](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine/pull/4) in [AshutoshSadana/ACC-PageX-Web-Search-Engine](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine)
+3. 💪 Opened PR [#4](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine/pull/4) in [AshutoshSadana/ACC-PageX-Web-Search-Engine](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine)
+4. ❌ Closed PR [#3](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine/pull/3) in [AshutoshSadana/ACC-PageX-Web-Search-Engine](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine)
+5. 💪 Opened PR [#3](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine/pull/3) in [AshutoshSadana/ACC-PageX-Web-Search-Engine](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine)
 <!--END_SECTION:activity-->
 
 
