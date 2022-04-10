@@ -153,11 +153,11 @@ Python                   5 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/piyush97/0xZ3ST/pull/49) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
-2. 🎉 Merged PR [#48](https://github.com/piyush97/0xZ3ST/pull/48) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
-3. 💪 Opened PR [#48](https://github.com/piyush97/0xZ3ST/pull/48) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
-4. 💪 Opened PR [#5](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine/pull/5) in [AshutoshSadana/ACC-PageX-Web-Search-Engine](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine)
-5. ❌ Closed PR [#4](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine/pull/4) in [AshutoshSadana/ACC-PageX-Web-Search-Engine](https://github.com/AshutoshSadana/ACC-PageX-Web-Search-Engine)
+1. 🎉 Merged PR [#51](https://github.com/piyush97/0xZ3ST/pull/51) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
+2. 🎉 Merged PR [#49](https://github.com/piyush97/0xZ3ST/pull/49) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
+3. 💪 Opened PR [#49](https://github.com/piyush97/0xZ3ST/pull/49) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
+4. 🎉 Merged PR [#48](https://github.com/piyush97/0xZ3ST/pull/48) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
+5. 💪 Opened PR [#48](https://github.com/piyush97/0xZ3ST/pull/48) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
 <!--END_SECTION:activity-->
 
 
