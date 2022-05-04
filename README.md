@@ -74,7 +74,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-935%20Thousand%20lines%20of%20code-blue)
 
@@ -117,12 +117,12 @@ Sunday       173 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    32 hrs 53 mins      █████████████████████████   99.87% 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+Other                    27 hrs 46 mins      █████████████████████████   99.84% 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🐱‍💻 Projects: 
-highest                  32 hrs 53 mins      █████████████████████████   99.87% 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+highest                  27 hrs 46 mins      █████████████████████████   99.84% 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 ```
 
@@ -143,7 +143,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/05/2022 01:02:41 UTC
+ Last Updated on 04/05/2022 01:05:57 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
