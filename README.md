@@ -74,7 +74,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -82,7 +82,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 **🐱 My GitHub Data** 
 
-> 🏆 529 Contributions in the Year 2022
+> 🏆 530 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -107,10 +107,10 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 Monday       125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
 Tuesday      147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
 Wednesday    110 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
-Thursday     205 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.07% 
+Thursday     206 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.16% 
 Friday       168 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
 Saturday     147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
-Sunday       173 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.09%
+Sunday       172 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.0%
 
 ```
 
@@ -119,13 +119,10 @@ Sunday       173 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               24 mins             █████████████░░░░░░░░░░░░   52.42% 
-JavaScript               21 mins             ███████████░░░░░░░░░░░░░░   45.69% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-highest                  47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -146,7 +143,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/05/2022 01:02:43 UTC
+ Last Updated on 13/05/2022 01:14:01 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
