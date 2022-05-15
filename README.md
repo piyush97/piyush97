@@ -153,11 +153,11 @@ Go                       6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/piyush97/0xZ3ST/pull/51) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
-2. 🎉 Merged PR [#49](https://github.com/piyush97/0xZ3ST/pull/49) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
-3. 💪 Opened PR [#49](https://github.com/piyush97/0xZ3ST/pull/49) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
-4. 🎉 Merged PR [#48](https://github.com/piyush97/0xZ3ST/pull/48) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
-5. 💪 Opened PR [#48](https://github.com/piyush97/0xZ3ST/pull/48) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
+1. 🗣 Commented on [#3](https://github.com/piyush97/highest/issues/3) in [piyush97/highest](https://github.com/piyush97/highest)
+2. 🎉 Merged PR [#51](https://github.com/piyush97/0xZ3ST/pull/51) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
+3. 🎉 Merged PR [#49](https://github.com/piyush97/0xZ3ST/pull/49) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
+4. 💪 Opened PR [#49](https://github.com/piyush97/0xZ3ST/pull/49) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
+5. 🎉 Merged PR [#48](https://github.com/piyush97/0xZ3ST/pull/48) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
 <!--END_SECTION:activity-->
 
 
