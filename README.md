@@ -76,13 +76,13 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-937%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 593 Contributions in the Year 2022
+> 🏆 594 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -119,15 +119,15 @@ Sunday       186 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               22 hrs 35 mins      ██████████████████░░░░░░░   74.06% 
-TypeScript               7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54% 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+JavaScript               28 hrs 32 mins      ███████████████████░░░░░░   77.95% 
+TypeScript               7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45% 
+JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🐱‍💻 Projects: 
-pool-it-up               20 hrs 18 mins      ████████████████░░░░░░░░░   66.58% 
-highest                  10 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   33.42%
+pool-it-up               26 hrs 25 mins      ██████████████████░░░░░░░   72.16% 
+highest                  10 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   27.84%
 
 ```
 
@@ -148,7 +148,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/05/2022 00:57:04 UTC
+ Last Updated on 19/05/2022 01:15:03 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
