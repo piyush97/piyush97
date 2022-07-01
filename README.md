@@ -76,13 +76,13 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-938%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 795 Contributions in the Year 2022
+> 🏆 797 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -97,8 +97,8 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 ```text
 🌞 Morning    184 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
 🌆 Daytime    363 commits    ████████░░░░░░░░░░░░░░░░░   34.18% 
-🌃 Evening    242 commits    █████░░░░░░░░░░░░░░░░░░░░   22.79% 
-🌙 Night      273 commits    ██████░░░░░░░░░░░░░░░░░░░   25.71%
+🌃 Evening    241 commits    █████░░░░░░░░░░░░░░░░░░░░   22.69% 
+🌙 Night      274 commits    ██████░░░░░░░░░░░░░░░░░░░   25.8%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -107,9 +107,9 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 Monday       127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
 Tuesday      142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
 Wednesday    131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
-Thursday     194 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.27% 
+Thursday     196 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
 Friday       187 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
-Saturday     152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
+Saturday     150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
 Sunday       129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.15%
 
 ```
@@ -119,10 +119,10 @@ Sunday       129 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pool-it-up               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -143,7 +143,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2022 01:09:01 UTC
+ Last Updated on 01/07/2022 01:24:48 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
