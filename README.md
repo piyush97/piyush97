@@ -76,13 +76,13 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-938%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 797 Contributions in the Year 2022
+> 🏆 799 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -104,11 +104,11 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-Tuesday      142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
+Monday       126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Tuesday      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
 Wednesday    131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
-Thursday     196 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
-Friday       187 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
+Thursday     197 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
+Friday       188 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
 Saturday     150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
 Sunday       129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.15%
 
@@ -119,10 +119,14 @@ Sunday       129 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+C                        54 mins             ████████████████████████░   96.52% 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-pool-it-up               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+assignment3              55 mins             ████████████████████████░   97.87% 
+pool-it-up               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 
 ```
 
@@ -143,7 +147,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/07/2022 01:24:48 UTC
+ Last Updated on 02/07/2022 01:18:49 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
