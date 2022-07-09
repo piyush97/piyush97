@@ -152,7 +152,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3536](https://github.com/react-native-elements/react-native-elements/pull/3536) in [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements)
+1. 💪 Opened PR [#36](https://github.com/piyush97/pool-it-up/pull/36) in [piyush97/pool-it-up](https://github.com/piyush97/pool-it-up)
 2. ❗️ Opened issue [#19457](https://github.com/microsoft/azuredatastudio/issues/19457) in [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio)
 3. 🗣 Commented on [#3](https://github.com/piyush97/highest/issues/3) in [piyush97/highest](https://github.com/piyush97/highest)
 4. 💪 Opened PR [#49](https://github.com/piyush97/0xZ3ST/pull/49) in [piyush97/0xZ3ST](https://github.com/piyush97/0xZ3ST)
