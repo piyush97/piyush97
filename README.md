@@ -82,7 +82,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 **🐱 My GitHub Data** 
 
-> 🏆 896 Contributions in the Year 2022
+> 🏆 897 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -92,6 +92,41 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
  > 
 > 🔑 232 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
+🌆 Daytime    277 commits    ████████░░░░░░░░░░░░░░░░░   34.32% 
+🌃 Evening    260 commits    ████████░░░░░░░░░░░░░░░░░   32.22% 
+🌙 Night      191 commits    ██████░░░░░░░░░░░░░░░░░░░   23.67%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+Tuesday      114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
+Wednesday    95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.77% 
+Thursday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
+Friday       159 commits    █████░░░░░░░░░░░░░░░░░░░░   19.7% 
+Saturday     116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
+Sunday       96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C                        3 hrs 39 mins       █████████████████████████   99.55% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+
+🐱‍💻 Projects: 
+File-Transfer-Protocol   3 hrs 40 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -109,7 +144,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/08/2022 01:20:50 UTC
+ Last Updated on 24/08/2022 01:13:57 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
