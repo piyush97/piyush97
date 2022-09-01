@@ -74,7 +74,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C264%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C277%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -82,7 +82,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 **🐱 My GitHub Data** 
 
-> 🏆 906 Contributions in the Year 2022
+> 🏆 909 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -96,17 +96,17 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 ```text
 🌞 Morning    82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
-🌆 Daytime    278 commits    ████████░░░░░░░░░░░░░░░░░   34.45% 
+🌆 Daytime    277 commits    ████████░░░░░░░░░░░░░░░░░   34.32% 
 🌃 Evening    257 commits    ████████░░░░░░░░░░░░░░░░░   31.85% 
-🌙 Night      190 commits    ██████░░░░░░░░░░░░░░░░░░░   23.54%
+🌙 Night      191 commits    ██████░░░░░░░░░░░░░░░░░░░   23.67%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Monday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
 Tuesday      113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Wednesday    95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.77% 
+Wednesday    96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
 Thursday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
 Friday       159 commits    █████░░░░░░░░░░░░░░░░░░░░   19.7% 
 Saturday     116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
@@ -119,10 +119,15 @@ Sunday       96 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    12 hrs 17 mins      ████████████████████████░   96.91% 
+Astro                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+PiyushMehta.com          7 hrs 37 mins       ███████████████░░░░░░░░░░   60.1% 
+project_ftp              5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.9%
 
 ```
 
@@ -143,7 +148,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 01:23:58 UTC
+ Last Updated on 01/09/2022 01:08:15 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
