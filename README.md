@@ -74,9 +74,9 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C293%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C329%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -119,15 +119,15 @@ Sunday       96 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    28 hrs 1 min        ████████████████████████░   98.62% 
-Astro                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Other                    59 hrs 47 mins      ████████████████████████░   99.35% 
+Astro                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🐱‍💻 Projects: 
-PiyushMehta.com          23 hrs 21 mins      ████████████████████░░░░░   82.18% 
-project_ftp              5 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.82%
+PiyushMehta.com          55 hrs 7 mins       ███████████████████████░░   91.59% 
+project_ftp              5 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.41%
 
 ```
 
@@ -148,7 +148,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 01:11:26 UTC
+ Last Updated on 03/09/2022 01:07:48 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
