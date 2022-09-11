@@ -74,9 +74,9 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C376%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C393%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -119,10 +119,10 @@ Sunday       95 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    68 hrs 18 mins      █████████████████████████   100.0%
+Other                    68 hrs 19 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-PiyushMehta.com          68 hrs 18 mins      █████████████████████████   100.0%
+PiyushMehta.com          68 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
@@ -143,7 +143,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/09/2022 01:13:37 UTC
+ Last Updated on 11/09/2022 01:29:00 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
