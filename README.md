@@ -74,15 +74,15 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C396%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C403%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 921 Contributions in the Year 2022
+> 🏆 922 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -92,40 +92,6 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
  > 
 > 🔑 232 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
-🌆 Daytime    279 commits    ████████░░░░░░░░░░░░░░░░░   34.57% 
-🌃 Evening    253 commits    ███████░░░░░░░░░░░░░░░░░░   31.35% 
-🌙 Night      194 commits    ██████░░░░░░░░░░░░░░░░░░░   24.04%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
-Tuesday      112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
-Wednesday    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14% 
-Thursday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-Friday       159 commits    █████░░░░░░░░░░░░░░░░░░░░   19.7% 
-Saturday     116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-Sunday       95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.77%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    64 hrs 52 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-PiyushMehta.com          64 hrs 52 mins      █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -143,7 +109,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 01:29:36 UTC
+ Last Updated on 14/09/2022 01:17:21 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
