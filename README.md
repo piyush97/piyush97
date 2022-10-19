@@ -149,9 +149,9 @@ Go                       6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#112](https://github.com/piyush97/PiyushMehta.com/issues/112) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. ❗️ Closed issue [#7](https://github.com/piyush97/Auth-Project/issues/7) in [piyush97/Auth-Project](https://github.com/piyush97/Auth-Project)
-3. ❗️ Opened issue [#7](https://github.com/piyush97/Auth-Project/issues/7) in [piyush97/Auth-Project](https://github.com/piyush97/Auth-Project)
+1. 🎉 Merged PR [#1](https://github.com/piyush97/GetUsTogether/pull/1) in [piyush97/GetUsTogether](https://github.com/piyush97/GetUsTogether)
+2. 💪 Opened PR [#1](https://github.com/piyush97/GetUsTogether/pull/1) in [piyush97/GetUsTogether](https://github.com/piyush97/GetUsTogether)
+3. ❗️ Closed issue [#112](https://github.com/piyush97/PiyushMehta.com/issues/112) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 4. ❗️ Closed issue [#4](https://github.com/piyush97/Auth-Project/issues/4) in [piyush97/Auth-Project](https://github.com/piyush97/Auth-Project)
 5. ❗️ Closed issue [#29](https://github.com/piyush97/pool-it-up/issues/29) in [piyush97/pool-it-up](https://github.com/piyush97/pool-it-up)
 <!--END_SECTION:activity-->
