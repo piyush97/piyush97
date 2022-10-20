@@ -74,43 +74,43 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C576%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C577%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-988%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,008 Contributions in the Year 2022
+> 🏆 1,027 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 101 Public Repositories 
+> 📜 102 Public Repositories 
  > 
-> 🔑 235 Private Repositories  
+> 🔑 234 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.47% 
-🌆 Daytime    276 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌃 Evening    263 commits    ████████░░░░░░░░░░░░░░░░░   31.76% 
-🌙 Night      194 commits    █████░░░░░░░░░░░░░░░░░░░░   23.43%
+🌞 Morning    96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
+🌆 Daytime    275 commits    ████████░░░░░░░░░░░░░░░░░   32.62% 
+🌃 Evening    276 commits    ████████░░░░░░░░░░░░░░░░░   32.74% 
+🌙 Night      196 commits    █████░░░░░░░░░░░░░░░░░░░░   23.25%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Tuesday      117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
-Wednesday    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
-Thursday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
-Friday       159 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.2% 
-Saturday     115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Sunday       107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.92%
+Monday       107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
+Tuesday      129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
+Wednesday    102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
+Thursday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+Friday       159 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
+Saturday     115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Sunday       107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.69%
 
 ```
 
@@ -119,10 +119,10 @@ Sunday       107 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 42 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Auth-Project             1 hr 42 mins        █████████████████████████   100.0%
 
 ```
 
@@ -143,7 +143,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/piyush97/piyush97/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2022 01:35:18 UTC
+ Last Updated on 20/10/2022 01:18:54 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
