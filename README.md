@@ -154,11 +154,11 @@ Go                       6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#114](https://github.com/piyush97/PiyushMehta.com/pull/114) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. 🎉 Merged PR [#116](https://github.com/piyush97/PiyushMehta.com/pull/116) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. 💪 Opened PR [#116](https://github.com/piyush97/PiyushMehta.com/pull/116) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-4. 🎉 Merged PR [#115](https://github.com/piyush97/PiyushMehta.com/pull/115) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-5. 💪 Opened PR [#115](https://github.com/piyush97/PiyushMehta.com/pull/115) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 🎉 Merged PR [#1](https://github.com/piyush97/Todo_app/pull/1) in [piyush97/Todo_app](https://github.com/piyush97/Todo_app)
+2. 🎉 Merged PR [#3](https://github.com/piyush97/Todo_app/pull/3) in [piyush97/Todo_app](https://github.com/piyush97/Todo_app)
+3. 🎉 Merged PR [#2](https://github.com/piyush97/Todo_app/pull/2) in [piyush97/Todo_app](https://github.com/piyush97/Todo_app)
+4. ❌ Closed PR [#114](https://github.com/piyush97/PiyushMehta.com/pull/114) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+5. 🎉 Merged PR [#116](https://github.com/piyush97/PiyushMehta.com/pull/116) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
 
