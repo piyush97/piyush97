@@ -17,7 +17,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canad
 ## I'm a Flight Simmer, Trumpet Player, a Professional Full Stack Dev and a youtuber
  <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
 
-- 📚 I'm currently a Full Stack Developer for BDO, Canada
+- 📚 I'm currently a Full Stack Developer for BDO LLP, Canada
 - 📹 I teach people web development on <a href="https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw">Youtube </a>
 - 😉 Known for converting your markdown to markup!
 - 🌱 Current Tech stack: Microsoft Stack 🔥
