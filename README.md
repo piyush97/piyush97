@@ -165,6 +165,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥 A Beginner’s Guide to ChatGPT and Ai based Chat bot solutions for individuals and enterprise](https://piyushmehta.com/blog/chat-bot)
 - [How to make your own blog like this website!](https://piyushmehta.com/blog/how-to-make-your-own-blog)
 - [🔥 A Beginner’s Guide to Hacktoberfest &amp; Winning the schwag 👕](https://piyushmehta.com/blog/hacktoberfest)
 - [What is Event Loop in JavaScript](https://piyushmehta.com/blog/what-is-event-loop-in-javascript)
