@@ -165,6 +165,7 @@ Go                       6 repos             █░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Hare-raisingly Good Queue-based Messaging System with NestJS, RabbitMQ, and Azure](https://piyushmehta.com/blog/rabbit-mq-typescript-nestjs)
 - [🔥 A Beginner’s Guide to ChatGPT and Ai based Chat bot solutions for individuals and enterprise](https://piyushmehta.com/blog/chat-bot)
 - [How to make your own blog like this website!](https://piyushmehta.com/blog/how-to-make-your-own-blog)
 - [🔥 A Beginner’s Guide to Hacktoberfest &amp; Winning the schwag 👕](https://piyushmehta.com/blog/hacktoberfest)
@@ -174,7 +175,6 @@ Go                       6 repos             █░░░░░░░░░░�
 - [How Do I Stop Feeling Inferior?](https://piyushmehta.com/blog/stop-feeling-inferior)
 - [Will you be the Kubernetes to My Docker?](https://piyushmehta.com/blog/kubernetes-docker)
 - [How we are maintaining ProtoBuf &lpar;Protocol Buffers&rpar; at Nuclei](https://piyushmehta.com/blog/maintain-protobuf-nuclei)
-- [The Silent S in HTTPS](https://piyushmehta.com/blog/The-Silent-S-in-HTTPS)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://piyushmehta.com)
