@@ -26,6 +26,9 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@PiyushMehtas](https://twitter.com/PiyushMehtas)
 
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg" />
+
+
 ### Connect with me:
 
 [<img align="left" alt="piyushmehta.com" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.png" />][website]
