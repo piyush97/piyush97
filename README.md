@@ -157,11 +157,11 @@ Go                       6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1743](https://github.com/getumbrel/umbrel/issues/1743) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
-2. 🔒 Closed issue [#1](https://github.com/piyush97/DotFiles/issues/1) in [piyush97/DotFiles](https://github.com/piyush97/DotFiles)
-3. ❗ Opened issue [#120022](https://github.com/MicrosoftDocs/azure-docs/issues/120022) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-4. 🗣 Commented on [#8477](https://github.com/typeorm/typeorm/issues/8477#issuecomment-1904711512) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
-5. 💪 Opened PR [#117](https://github.com/piyush97/PiyushMehta.com/pull/117) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 💪 Opened PR [#125](https://github.com/piyush97/PiyushMehta.com/pull/125) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. ❌ Closed PR [#120](https://github.com/piyush97/PiyushMehta.com/pull/120) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. 🎉 Merged PR [#124](https://github.com/piyush97/PiyushMehta.com/pull/124) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+4. 💪 Opened PR [#124](https://github.com/piyush97/PiyushMehta.com/pull/124) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+5. 🎉 Merged PR [#123](https://github.com/piyush97/PiyushMehta.com/pull/123) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
 
