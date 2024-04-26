@@ -157,11 +157,11 @@ Go                       6 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#125](https://github.com/piyush97/PiyushMehta.com/pull/125) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. ❗ Opened issue [#129](https://github.com/piyush97/PiyushMehta.com/issues/129) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. 🗣 Commented on [#128](https://github.com/piyush97/PiyushMehta.com/issues/128#issuecomment-2076323716) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-4. 🔒 Closed issue [#128](https://github.com/piyush97/PiyushMehta.com/issues/128) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-5. ❗ Opened issue [#128](https://github.com/piyush97/PiyushMehta.com/issues/128) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 🎉 Merged PR [#134](https://github.com/piyush97/PiyushMehta.com/pull/134) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. 💪 Opened PR [#134](https://github.com/piyush97/PiyushMehta.com/pull/134) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. ❗ Opened issue [#133](https://github.com/piyush97/PiyushMehta.com/issues/133) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+4. 🗣 Commented on [#129](https://github.com/piyush97/PiyushMehta.com/issues/129#issuecomment-2078547046) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+5. 🔒 Closed issue [#129](https://github.com/piyush97/PiyushMehta.com/issues/129) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
 
