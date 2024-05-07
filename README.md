@@ -114,11 +114,11 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#143](https://github.com/piyush97/PiyushMehta.com/pull/143) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. ❌ Closed PR [#142](https://github.com/piyush97/PiyushMehta.com/pull/142) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. 💪 Opened PR [#143](https://github.com/piyush97/PiyushMehta.com/pull/143) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-4. 💪 Opened PR [#142](https://github.com/piyush97/PiyushMehta.com/pull/142) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-5. ❌ Closed PR [#141](https://github.com/piyush97/PiyushMehta.com/pull/141) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. ❌ Closed PR [#145](https://github.com/piyush97/PiyushMehta.com/pull/145) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. 💪 Opened PR [#145](https://github.com/piyush97/PiyushMehta.com/pull/145) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. ❌ Closed PR [#144](https://github.com/piyush97/PiyushMehta.com/pull/144) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+4. 💪 Opened PR [#144](https://github.com/piyush97/PiyushMehta.com/pull/144) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+5. 🎉 Merged PR [#143](https://github.com/piyush97/PiyushMehta.com/pull/143) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
 
