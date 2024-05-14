@@ -138,11 +138,6 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ➡️ [more blog posts...](https://piyushmehta.com)
 
 ---
-### 🎶 What I'm listening to right now!
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31m3plxtqcdp2cgsk4cony7ddliy&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=31m3plxtqcdp2cgsk4cony7ddliy&redirect=true)
-
-
 
 <details>
   <summary>:zap: Languages I code</summary>
