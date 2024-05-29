@@ -114,11 +114,11 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/piyush97/Github-Examples/issues/1) in [piyush97/Github-Examples](https://github.com/piyush97/Github-Examples)
-2. ❗ Opened issue [#152](https://github.com/piyush97/PiyushMehta.com/issues/152) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. ❗ Opened issue [#151](https://github.com/piyush97/PiyushMehta.com/issues/151) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-4. ❗ Opened issue [#150](https://github.com/piyush97/PiyushMehta.com/issues/150) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-5. ❗ Opened issue [#149](https://github.com/piyush97/PiyushMehta.com/issues/149) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 💪 Opened PR [#153](https://github.com/piyush97/PiyushMehta.com/pull/153) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. ❗ Opened issue [#1](https://github.com/piyush97/Github-Examples/issues/1) in [piyush97/Github-Examples](https://github.com/piyush97/Github-Examples)
+3. ❗ Opened issue [#152](https://github.com/piyush97/PiyushMehta.com/issues/152) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+4. ❗ Opened issue [#151](https://github.com/piyush97/PiyushMehta.com/issues/151) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+5. ❗ Opened issue [#150](https://github.com/piyush97/PiyushMehta.com/issues/150) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
 
