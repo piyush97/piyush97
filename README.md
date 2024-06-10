@@ -77,28 +77,26 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.2 MB Used in GitHub's Storage 
- > 
-> 🏆 233 Contributions in the Year 2024
+> 📦 2.1 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 109 Public Repositories 
  > 
-> 🔑 241 Private Repositories 
+> 🔑 242 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               109 repos           ████████░░░░░░░░░░░░░░░░░   33.54 % 
-TypeScript               24 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Python                   15 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+JavaScript               109 repos           ████████░░░░░░░░░░░░░░░░░   33.44 % 
+TypeScript               25 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Python                   15 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 C#                       4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Vue                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Vue                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 
@@ -108,7 +106,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 00:46:49 UTC
+ Last Updated on 10/06/2024 00:45:29 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
