@@ -77,15 +77,13 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C935%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C945%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
- > 
-> 🏆 287 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -118,15 +116,14 @@ Sunday                   6099 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 9 mins       ███████████████████████░░   91.39 % 
-CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Docker                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TypeScript               19 hrs 7 mins       ████████████████████████░   95.01 % 
+Docker                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Prisma                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-OCR%20Wizard             10 hrs 2 mins       ██████████████░░░░░░░░░░░   56.80 % 
-PiyushMehta.com          7 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.20 % 
+OCR%20Wizard             20 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -146,7 +143,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2024 00:50:17 UTC
+ Last Updated on 13/07/2024 00:52:22 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
