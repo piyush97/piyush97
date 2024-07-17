@@ -77,7 +77,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C957%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C960%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.1%20million%20lines%20of%20code-blue)
 
@@ -118,14 +118,14 @@ Sunday                   6099 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               26 hrs 22 mins      ████████████████████████░   95.83 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Prisma                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               23 hrs 33 mins      ████████████████████████░   95.35 % 
+JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Prisma                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-OCR%20Wizard             27 hrs 31 mins      █████████████████████████   100.00 % 
+OCR%20Wizard             24 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +145,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2024 00:50:25 UTC
+ Last Updated on 17/07/2024 00:50:46 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
