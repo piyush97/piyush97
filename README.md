@@ -83,6 +83,8 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
+> 🏆 330 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 109 Public Repositories 
@@ -92,10 +94,10 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               109 repos           ████████░░░░░░░░░░░░░░░░░   33.44 % 
-TypeScript               25 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Python                   15 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-C#                       4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+JavaScript               109 repos           ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               26 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Python                   15 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+C#                       4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 Vue                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
@@ -106,7 +108,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2024 00:58:16 UTC
+ Last Updated on 10/10/2024 00:57:14 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
