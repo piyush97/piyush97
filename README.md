@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/QKF85vK/Banner.jpg"/>
+<img width="100%" src="assets/banner.jpg"/>
 <h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> 
 Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Canada 🇨🇦
 <hr/>
