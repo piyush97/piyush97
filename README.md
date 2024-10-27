@@ -114,9 +114,9 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13035](https://github.com/immich-app/immich/issues/13035#issuecomment-2384698833) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 💪 Opened PR [#155](https://github.com/piyush97/PiyushMehta.com/pull/155) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. 💪 Opened PR [#154](https://github.com/piyush97/PiyushMehta.com/pull/154) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 🎉 Merged PR [#156](https://github.com/piyush97/PiyushMehta.com/pull/156) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+2. 💪 Opened PR [#156](https://github.com/piyush97/PiyushMehta.com/pull/156) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. 🗣 Commented on [#13035](https://github.com/immich-app/immich/issues/13035#issuecomment-2384698833) in [immich-app/immich](https://github.com/immich-app/immich)
 4. 🔒 Closed issue [#150](https://github.com/piyush97/PiyushMehta.com/issues/150) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 5. 🔒 Closed issue [#149](https://github.com/piyush97/PiyushMehta.com/issues/149) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
