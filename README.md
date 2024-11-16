@@ -155,11 +155,11 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#158](https://github.com/piyush97/PiyushMehta.com/pull/158) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-2. 🎉 Merged PR [#157](https://github.com/piyush97/PiyushMehta.com/pull/157) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. 💪 Opened PR [#157](https://github.com/piyush97/PiyushMehta.com/pull/157) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-4. 🎉 Merged PR [#156](https://github.com/piyush97/PiyushMehta.com/pull/156) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-5. 💪 Opened PR [#156](https://github.com/piyush97/PiyushMehta.com/pull/156) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. ❗ Opened issue [#288](https://github.com/community-scripts/ProxmoxVE/issues/288) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+2. 💪 Opened PR [#158](https://github.com/piyush97/PiyushMehta.com/pull/158) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+3. 🎉 Merged PR [#157](https://github.com/piyush97/PiyushMehta.com/pull/157) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+4. 💪 Opened PR [#157](https://github.com/piyush97/PiyushMehta.com/pull/157) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+5. 🎉 Merged PR [#156](https://github.com/piyush97/PiyushMehta.com/pull/156) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
 
 
