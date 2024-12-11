@@ -85,6 +85,8 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 109 Public Repositories 
@@ -143,7 +145,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 00:58:38 UTC
+ Last Updated on 11/12/2024 00:58:14 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
