@@ -118,12 +118,10 @@ Sunday                   6120 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Prisma                   1 hr 38 mins        ██████████████░░░░░░░░░░░   54.49 % 
-TypeScript               1 hr 21 mins        ███████████░░░░░░░░░░░░░░   45.51 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-OCR%20Wizard             2 hrs 58 mins       █████████████████████████   99.01 % 
-BayWatch                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,7 +141,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2024 01:02:03 UTC
+ Last Updated on 30/12/2024 00:56:10 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
