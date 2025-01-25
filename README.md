@@ -77,7 +77,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C324%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C329%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.7%20million%20lines%20of%20code-blue)
 
@@ -118,13 +118,15 @@ Sunday                   6120 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     1 hr 12 mins        ██████████████████░░░░░░░   73.22 % 
-TypeScript               25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               5 hrs 16 mins       ████████████████████░░░░░   81.14 % 
+Bash                     1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-BayWatch                 1 hr 39 mins        █████████████████████████   100.00 % 
+BayWatch                 5 hrs 19 mins       ████████████████████░░░░░   81.80 % 
+OCR Wizard               1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +146,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2025 00:53:51 UTC
+ Last Updated on 25/01/2025 00:52:58 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
