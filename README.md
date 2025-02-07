@@ -77,7 +77,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C355%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C358%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.7%20million%20lines%20of%20code-blue)
 
@@ -85,7 +85,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 5 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -118,17 +118,16 @@ Sunday                   6120 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 19 mins      ████████████████████████░   94.82 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               10 hrs 8 mins       ████████████████████░░░░░   79.45 % 
+Bash                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🐱‍💻 Projects: 
-baywatch-new             11 hrs 14 mins      ███████████████░░░░░░░░░░   58.14 % 
-BayWatch                 4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-OCR%20Wizard             3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Unknown Project          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+baywatch-new             12 hrs 17 mins      ████████████████████████░   96.24 % 
+Unknown Project          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+OCR%20Wizard             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -148,7 +147,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2025 00:54:05 UTC
+ Last Updated on 07/02/2025 00:54:34 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
