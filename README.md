@@ -77,11 +77,15 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C358%20hrs%2055%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -89,6 +93,37 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
  > 
 > 🔑 243 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10501 commits       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+🌆 Daytime                15911 commits       █████████░░░░░░░░░░░░░░░░   37.43 % 
+🌃 Evening                4411 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+🌙 Night                  11683 commits       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   4788 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Tuesday                  4629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Wednesday                5596 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Thursday                 8321 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Friday                   8038 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Saturday                 5014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Sunday                   6120 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Bash                     0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+baywatch-new             0 secs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -106,7 +141,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2025 00:57:24 UTC
+ Last Updated on 17/02/2025 00:57:06 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
