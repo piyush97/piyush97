@@ -152,7 +152,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#288](https://github.com/community-scripts/ProxmoxVE/issues/288) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+1. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
 2. 💪 Opened PR [#158](https://github.com/piyush97/PiyushMehta.com/pull/158) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 3. 🎉 Merged PR [#157](https://github.com/piyush97/PiyushMehta.com/pull/157) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 4. 💪 Opened PR [#157](https://github.com/piyush97/PiyushMehta.com/pull/157) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
