@@ -77,13 +77,15 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C374%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C381%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 10 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -116,15 +118,16 @@ Sunday                   6120 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 21 mins      ██████████████████░░░░░░░   73.53 % 
-CSS                      3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               17 hrs 33 mins      ████████████████████░░░░░   79.29 % 
+CSS                      3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-baywatch2                13 hrs 40 mins      ██████████████████████░░░   88.55 % 
-super-eureka             1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+baywatch2                19 hrs 53 mins      ██████████████████████░░░   89.77 % 
+super-eureka             1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+immich                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +147,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2025 00:44:07 UTC
+ Last Updated on 09/03/2025 00:46:53 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
