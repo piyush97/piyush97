@@ -152,9 +152,9 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 💪 Opened PR [#158](https://github.com/piyush97/PiyushMehta.com/pull/158) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
-3. 🎉 Merged PR [#157](https://github.com/piyush97/PiyushMehta.com/pull/157) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+1. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2735012152) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
+2. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2734984237) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
+3. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
 4. 💪 Opened PR [#157](https://github.com/piyush97/PiyushMehta.com/pull/157) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 5. 🎉 Merged PR [#156](https://github.com/piyush97/PiyushMehta.com/pull/156) in [piyush97/PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 <!--END_SECTION:activity-->
