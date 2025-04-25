@@ -77,7 +77,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C629%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C631%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.0%20million%20lines%20of%20code-blue)
 
@@ -118,14 +118,12 @@ Sunday                   6143 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 2 mins       ███████████████████████░░   93.65 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+TypeScript               9 hrs 52 mins       █████████████████████████   99.98 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-baywatch2                9 hrs 9 mins        ████████████████░░░░░░░░░   65.68 % 
-pitch-perfect            4 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.32 % 
+baywatch2                7 hrs 53 mins       ████████████████████░░░░░   79.94 % 
+pitch-perfect            1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +143,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2025 00:53:44 UTC
+ Last Updated on 25/04/2025 00:53:40 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
