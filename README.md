@@ -77,7 +77,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C634%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C637%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.0%20million%20lines%20of%20code-blue)
 
@@ -93,6 +93,37 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
  > 
 > 🔑 245 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10572 commits       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+🌆 Daytime                16208 commits       █████████░░░░░░░░░░░░░░░░   36.30 % 
+🌃 Evening                6136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+🌙 Night                  11736 commits       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   5307 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Tuesday                  4983 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Wednesday                6189 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Thursday                 8591 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Friday                   8349 commits        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Saturday                 5090 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Sunday                   6143 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               7 hrs 52 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+baywatch2                7 hrs 52 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -110,7 +141,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2025 00:56:40 UTC
+ Last Updated on 28/04/2025 00:59:20 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
