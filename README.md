@@ -77,7 +77,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C703%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C706%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.6%20million%20lines%20of%20code-blue)
 
@@ -85,7 +85,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 353 Contributions in the Year 2025
+> 🏆 354 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -93,6 +93,42 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
  > 
 > 🔑 247 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10652 commits       ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+🌆 Daytime                16491 commits       █████████░░░░░░░░░░░░░░░░   35.04 % 
+🌃 Evening                8096 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+🌙 Night                  11819 commits       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   5733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Tuesday                  5426 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Wednesday                6887 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Thursday                 8943 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Friday                   8600 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Saturday                 5252 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Sunday                   6217 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               16 hrs 29 mins      ███████████████████░░░░░░   74.76 % 
+JSON                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Markdown                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+
+🐱‍💻 Projects: 
+pitch-perfect            17 hrs 26 mins      ████████████████████░░░░░   79.07 % 
+baywatch2                4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -110,7 +146,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2025 01:02:38 UTC
+ Last Updated on 26/05/2025 00:56:11 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
