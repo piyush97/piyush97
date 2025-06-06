@@ -164,16 +164,16 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Hare-raisingly Good Queue-based Messaging System with NestJS, RabbitMQ, and Azure](https://piyushmehta.com/blog/rabbit-mq-typescript-nestjs)
-- [🔥 A Beginner’s Guide to ChatGPT and Ai based Chat bot solutions for individuals and enterprise](https://piyushmehta.com/blog/chat-bot)
-- [How to make your own blog like this website!](https://piyushmehta.com/blog/how-to-make-your-own-blog)
-- [🔥 A Beginner’s Guide to Hacktoberfest &amp; Winning the schwag 👕](https://piyushmehta.com/blog/hacktoberfest)
-- [What is Event Loop in JavaScript](https://piyushmehta.com/blog/what-is-event-loop-in-javascript)
-- [What the Hell is microfrontend?](https://piyushmehta.com/blog/micro-frontend-react)
-- [Monitor Website Uptime using GitHub Actions](https://piyushmehta.com/blog/ci-uptime-monitor)
-- [How Do I Stop Feeling Inferior?](https://piyushmehta.com/blog/stop-feeling-inferior)
-- [Will you be the Kubernetes to My Docker?](https://piyushmehta.com/blog/kubernetes-docker)
-- [How we are maintaining ProtoBuf &lpar;Protocol Buffers&rpar; at Nuclei](https://piyushmehta.com/blog/maintain-protobuf-nuclei)
+- [Migrating a 6-Year-Old Codebase to Astro: A Strategic Architecture Journey](https://piyushmehta.com//blog/migrating-legacy-codebase-to-astro/)
+- [Building a Hare-raisingly Good Queue-based Messaging System with NestJS, RabbitMQ, and Azure](https://piyushmehta.com//blog/rabbit-mq/)
+- [🔥 A Beginner’s Guide to ChatGPT and Ai based Chat bot solutions for individuals and enterprise](https://piyushmehta.com//blog/chat-bot/)
+- [How to make your own blog like this website!](https://piyushmehta.com//blog/how-to-make-your-own-blog/)
+- [🔥 A Beginner’s Guide to Hacktoberfest &amp; Winning the schwag 👕](https://piyushmehta.com//blog/hacktoberfest/)
+- [What is Event Loop in JavaScript](https://piyushmehta.com//blog/what-is-event-loop-in-javascript/)
+- [What the Hell is microfrontend?](https://piyushmehta.com//blog/micro-frontends/)
+- [Monitor Website Uptime using GitHub Actions](https://piyushmehta.com//blog/uptime-monitor-ci/)
+- [How Do I Stop Feeling Inferior?](https://piyushmehta.com//blog/stop-feeling-inferior/)
+- [Will you be the Kubernetes to My Docker?](https://piyushmehta.com//blog/kubenetes-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://piyushmehta.com)
