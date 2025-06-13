@@ -166,6 +166,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Stay Ahead by Leveraging AI in Your Coding Workflow](https://piyushmehta.com//blog/leveraging-ai-in-coding-workflow/)
 - [Astro 5.9: Revolutionizing Web Security with Built-in Content Security Policy Support](https://piyushmehta.com//blog/astro-v5-9-content-security-policy/)
 - [Migrating a 6-Year-Old Codebase to Astro: A Strategic Architecture Journey](https://piyushmehta.com//blog/migrating-legacy-codebase-to-astro/)
 - [Building a Hare-raisingly Good Queue-based Messaging System with NestJS, RabbitMQ, and Azure](https://piyushmehta.com//blog/rabbit-mq/)
@@ -175,7 +176,6 @@ Vue                      2 repos             ░░░░░░░░░░░�
 - [What is Event Loop in JavaScript](https://piyushmehta.com//blog/what-is-event-loop-in-javascript/)
 - [What the Hell is microfrontend?](https://piyushmehta.com//blog/micro-frontends/)
 - [Monitor Website Uptime using GitHub Actions](https://piyushmehta.com//blog/uptime-monitor-ci/)
-- [How Do I Stop Feeling Inferior?](https://piyushmehta.com//blog/stop-feeling-inferior/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://piyushmehta.com)
