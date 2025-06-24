@@ -77,7 +77,7 @@ Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Technology Consultant based in Cana
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C921%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C931%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.2%20million%20lines%20of%20code-blue)
 
@@ -118,11 +118,11 @@ Sunday                   6636 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-Markdown                 7 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-YAML                     7 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-C#                       6 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-JSON                     5 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+TypeScript               22 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   37.69 % 
+C#                       6 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+JSON                     5 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+YAML                     5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Markdown                 4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,7 +142,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2025 01:00:28 UTC
+ Last Updated on 24/06/2025 00:57:26 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
