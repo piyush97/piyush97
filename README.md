@@ -159,6 +159,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Killed My Impostor Syndrome &lpar;And It Might Kill Yours Too&rpar;](https://piyushmehta.com/blog/ai-killed-my-impostor-syndrome/)
 - [From Nginx Proxy Manager to SWAG: A Powerful Migration Journey](https://piyushmehta.com/blog/migrating-nginx-proxy-manager-to-swag/)
 - [How to Stay Ahead by Leveraging AI in Your Coding Workflow](https://piyushmehta.com/blog/leveraging-ai-in-coding-workflow/)
 - [Astro 5.9: Revolutionizing Web Security with Built-in Content Security Policy Support](https://piyushmehta.com/blog/astro-v5-9-content-security-policy/)
@@ -168,7 +169,6 @@ Vue                      2 repos             ░░░░░░░░░░░�
 - [How to make your own blog like this website!](https://piyushmehta.com/blog/how-to-make-your-own-blog/)
 - [🔥 A Beginner’s Guide to Hacktoberfest &amp; Winning the schwag 👕](https://piyushmehta.com/blog/hacktoberfest/)
 - [What is Event Loop in JavaScript](https://piyushmehta.com/blog/What-is-Event-Loop-in-JavaScript/)
-- [What the Hell is microfrontend?](https://piyushmehta.com/blog/micro-frontends/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://piyushmehta.com)
