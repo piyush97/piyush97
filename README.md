@@ -81,13 +81,15 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.0%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C022%20hrs%2057%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 809 Contributions in the Year 2025
+> 🏆 810 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -95,6 +97,38 @@
  > 
 > 🔑 248 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11867 commits       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+🌆 Daytime                18913 commits       █████████░░░░░░░░░░░░░░░░   35.77 % 
+🌃 Evening                9072 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+🌙 Night                  13027 commits       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   5941 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Tuesday                  6069 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Wednesday                7839 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Thursday                 10266 commits       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Friday                   9706 commits        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Saturday                 6150 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Sunday                   6908 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               34 hrs 42 mins      ████████████░░░░░░░░░░░░░   48.44 % 
+Markdown                 11 hrs 31 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+JSON                     7 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+C#                       4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+XML                      3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -112,7 +146,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 00:57:48 UTC
+ Last Updated on 03/07/2025 00:57:16 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
