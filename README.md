@@ -163,6 +163,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 30-Year-Old &#39;Impossible&#39; Algorithm That Makes Netflix Instant &lpar;And Why Your Computer Still Sucks&rpar;](https://piyushmehta.com/blog/bloom-filters/)
 - [AI Killed My Impostor Syndrome &lpar;And It Might Kill Yours Too&rpar;](https://piyushmehta.com/blog/ai-killed-my-impostor-syndrome/)
 - [From Nginx Proxy Manager to SWAG: A Powerful Migration Journey](https://piyushmehta.com/blog/migrating-nginx-proxy-manager-to-swag/)
 - [How to Stay Ahead by Leveraging AI in Your Coding Workflow](https://piyushmehta.com/blog/leveraging-ai-in-coding-workflow/)
@@ -172,7 +173,6 @@ Vue                      2 repos             ░░░░░░░░░░░�
 - [🔥 A Beginner’s Guide to ChatGPT and Ai based Chat bot solutions for individuals and enterprise](https://piyushmehta.com/blog/chat-bot/)
 - [How to make your own blog like this website!](https://piyushmehta.com/blog/how-to-make-your-own-blog/)
 - [🔥 A Beginner’s Guide to Hacktoberfest &amp; Winning the schwag 👕](https://piyushmehta.com/blog/hacktoberfest/)
-- [What is Event Loop in JavaScript](https://piyushmehta.com/blog/What-is-Event-Loop-in-JavaScript/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://piyushmehta.com)
