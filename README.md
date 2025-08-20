@@ -81,15 +81,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C134%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C137%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
- > 
-> 🏆 1,056 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -97,38 +95,6 @@
  > 
 > 🔑 251 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                12603 commits       ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-🌆 Daytime                20480 commits       █████████░░░░░░░░░░░░░░░░   35.81 % 
-🌃 Evening                10330 commits       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-🌙 Night                  13772 commits       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   6257 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Tuesday                  6556 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Wednesday                8467 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Thursday                 11245 commits       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Friday                   10354 commits       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Saturday                 6783 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Sunday                   7523 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               14 hrs 51 mins      ███████████░░░░░░░░░░░░░░   42.69 % 
-JSON                     6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Git Config               5 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Other                    1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Bash                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -146,7 +112,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 00:57:52 UTC
+ Last Updated on 20/08/2025 00:55:11 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
