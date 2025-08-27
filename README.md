@@ -1,14 +1,13 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Piyush+Mehta+👋;Senior+Technology+Consultant;Full-Stack+Developer+%26+Architect;YouTuber+Teaching+50K%2B+Students;Open+Source+Enthusiast;Always+Learning%2C+Always+Building)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Piyush+Mehta+👋;Senior+Technology+Consultant;Full-Stack+Developer+%26+Architect;Open+Source+Enthusiast;Always+Learning%2C+Always+Building)
 
 <div align="center">
 
 <a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
 <a href="https://twitter.com/PiyushMehtas"><img src="https://img.shields.io/badge/🐦_Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><br>
-<a href="https://www.youtube.com/c/CoderWhoKnows"><img src="https://img.shields.io/badge/📺_YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/piyush97"><img src="https://img.shields.io/badge/💻_GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
@@ -43,7 +42,7 @@
 | Role                            | Focus                        | Availability |
 | ------------------------------- | ---------------------------- | ------------ |
 | 💼 **Senior Software Engineer** | Microsoft Stack & Full-Stack | Full-time    |
-| 🎥 **Content Creator**          | Teaching 50K+ Students       | Daily        |
+| 📝 **Technical Writer**         | Educational Content Creation | Daily        |
 | 🔧 **Technical Consultant**     | Architecture & DevOps        | On-demand    |
 | 🤝 **Open Source Contributor**  | Web Technologies             | Active       |
 
@@ -71,7 +70,7 @@
 | -------------------- | ------------- | ------------- | ------------ |
 | **GitHub Profile**   | 🟢 Online     | Real-time     | 2025-08-27   |
 | **Personal Website** | 🟢 Online     | <100ms        | Daily        |
-| **YouTube Channel**  | 🟢 Active     | N/A           | Weekly       |
+
 | **LinkedIn**         | 🟢 Available  | <24hrs        | Daily        |
 | **Email**            | 🟢 Responsive | <4hrs         | Daily        |
 
@@ -80,7 +79,6 @@
 [<img src="https://img.shields.io/badge/💼_Hire_Me-Click%20Here-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Me"/>](mailto:me@piyushmehta.com?subject=Job%20Opportunity&body=Hi%20Piyush,%20I'm%20interested%20in%20discussing%20a%20potential%20collaboration...)
 [<img src="https://img.shields.io/badge/🤝_Collaborate-Let's%20Build-blue?style=for-the-badge&logo=github&logoColor=white" alt="Collaborate"/>](https://github.com/piyush97/piyush97/issues/new?title=Collaboration%20Proposal&body=Hi!%20I'd%20love%20to%20collaborate%20on...)
 [<img src="https://img.shields.io/badge/💬_Chat-Coffee%20Chat-orange?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee Chat"/>](https://calendly.com/piyushmehta)
-[<img src="https://img.shields.io/badge/📧_Newsletter-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Newsletter"/>](https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw?sub_confirmation=1)
 
 </div>
 
@@ -91,12 +89,10 @@
 ### 🌟 Let's Build Something Together!
 
 #### 🌐 Primary Contact Methods
-
 <a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
 <a href="https://twitter.com/PiyushMehtas"><img src="https://img.shields.io/badge/🐦_Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><br>
-<a href="https://www.youtube.com/c/CoderWhoKnows"><img src="https://img.shields.io/badge/📺_YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://github.com/piyush97"><img src="https://img.shields.io/badge/💻_GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 #### 🎮 Interactive Actions
@@ -104,6 +100,7 @@
 [<img src="https://img.shields.io/badge/📋_View_Resume-Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume"/>](https://piyushmehta.com/resume)
 [<img src="https://img.shields.io/badge/📅_Book_Meeting-Schedule-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Book Meeting"/>](https://calendly.com/piyushmehta)
 [<img src="https://img.shields.io/badge/💡_Request_Feature-Contribute-orange?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Feature Request"/>](https://github.com/piyush97/piyush97/issues/new?title=Feature%20Request&body=I'd%20love%20to%20see...)
+[<img src="https://img.shields.io/badge/💼_Hire_Me-Click%20Here-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Me"/>](mailto:me@piyushmehta.com?subject=Job%20Opportunity&body=Hi%20Piyush,%20I'm%20interested%20in%20discussing%20a%20potential%20collaboration...)
 
 </div>
 
@@ -151,7 +148,7 @@
 [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" width="32" height="32"/>][twitter]
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" alt="LinkedIn" width="32" height="32"/>][linkedin]
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" width="32" height="32"/>][instagram]
-[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="32" height="32"/>][youtube]
+
 
 </div>
 
@@ -352,7 +349,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 - ✅ **Century Club**: 100+ Public Repositories
 - ✅ **Star Collector**: 40+ Repository Stars Earned
 - ✅ **Community Builder**: 390+ GitHub Followers
-- ✅ **Content Creator**: 50K+ YouTube Subscribers
+- ✅ **Content Creator**: Technical Writer & Educator
 - 🔄 **Open Source Champion**: 25+ Projects (In Progress)
 - 🔄 **Global Reach**: Content in 50+ Countries (In Progress)
 
@@ -365,7 +362,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 | **Repository Stars**    | 40 ⭐   | 100 ⭐ | ████████░░░░ 40% | 🔄 In Progress  |
 | **GitHub Followers**    | 390 👥  | 500 👥 | ████████░░░░ 78% | 🔄 In Progress  |
 | **Public Repos**        | 117 📁  | 125 📁 | ██████████░░ 94% | 🟢 Almost There |
-| **YouTube Subscribers** | 50K 🎥  | 75K 🎥 | ████████░░░░ 67% | 🔄 In Progress  |
+
 
 </div>
 
@@ -429,7 +426,7 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 - ✅ **Century Club**: 100+ Public Repositories (117 achieved)
 - ✅ **Star Collector**: 40+ Repository Stars Earned
 - ✅ **Community Builder**: 390+ GitHub Followers
-- ✅ **Content Creator**: 50K+ YouTube Subscribers
+- ✅ **Content Creator**: Technical Writer & Educator
 
 #### 🥈 Gold Achievements
 
@@ -481,7 +478,7 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 | 📚 100 Public Repos     | ✅ Complete    | 117 repos       |
 | 🌟 1,000 Contributions  | ✅ Complete    | 1,075+ contribs |
 | 🏆 GitHub Star Achiever | 🔄 In Progress | 500+ stars      |
-| 📝 Technical Author     | ✅ Complete    | 50K+ students   |
+| 📝 Technical Author     | ✅ Complete    | 100+ articles   |
 
 </div>
 
@@ -592,7 +589,6 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 
 ### 🌟 Community Impact
 
-<img src="https://img.shields.io/badge/YouTube%20Subscribers-50K+-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribers"/>
 <img src="https://img.shields.io/badge/GitHub%20Followers-1.2K+-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers"/>
 <img src="https://img.shields.io/badge/LinkedIn%20Connections-5K+-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connections"/>
 
@@ -602,7 +598,6 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 
 ### 📈 Community Engagement
 
-- **🎥 YouTube**: 50K+ students taught across 100+ videos
 - **📚 Open Source**: Active contributor to 25+ projects
 - **💬 Community**: Regular speaker at tech meetups
 - **🌍 Global Reach**: Content viewed in 50+ countries
@@ -613,7 +608,7 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 
 <div align="center">
 
-> "Piyush's teaching style makes complex concepts accessible to everyone. His YouTube channel helped me transition into tech!" - Sarah M., Software Developer
+> "Piyush's technical expertise and problem-solving skills are exceptional. His guidance helped our team deliver complex projects successfully!" - Sarah M., Software Developer
 
 > "The depth of knowledge and practical examples in his blog posts are outstanding. Highly recommended!" - Alex K., Tech Lead
 
@@ -678,7 +673,7 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 | Achievement              | Progress            | Status      | Next Milestone  |
 | ------------------------ | ------------------- | ----------- | --------------- |
 | **Open Source Champion** | 25/25 projects      | ✅ Complete | Maintain & Grow |
-| **Content Creator**      | 50K/75K subscribers | 🔄 67%      | Reach 60K       |
+| **Content Creator**      | 100/150 articles   | 🔄 67%      | Reach 120       |
 | **Technical Author**     | 7/10 articles       | 🔄 70%      | 3 more articles |
 | **Community Builder**    | 390/500 followers   | 🔄 78%      | Reach 450       |
 
@@ -716,13 +711,13 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 - **Century Club** (117/100 repos) ✅ **UNLOCKED**
 - **Star Commander** (40/50 stars) 🔄 80% Complete
 - **Community Leader** (390/500 followers) 🔄 78% Complete
-- **Content Influencer** (50K/100K subscribers) 🔄 50% Complete
+- **Content Influencer** (100/200 articles) 🔄 50% Complete
 
 #### 🏅 Epic Achievements
 
 - **Full-Stack Architect** (8/8 stacks) ✅ **UNLOCKED**
 - **Open Source Veteran** (9/10 years) 🔄 90% Complete
-- **Global Educator** (50K+/100K students) 🔄 50% Complete
+- **Global Educator** (500/1000 students) 🔄 50% Complete
 - **Technical Mentor** (6/10 mentees) 🔄 60% Complete
 
 </div>
@@ -744,4 +739,3 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 [instagram]: https://instagram.com/coderwhoknows
 [linkedin]: https://linkedin.com/in/piyush24
 [webdev]: https://piyushmehta.com
-[youtube]: https://www.youtube.com/c/CoderWhoKnows
