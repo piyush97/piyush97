@@ -4,22 +4,18 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
-<img src="https://img.shields.io/badge/Location-Remote%20Ready-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Response%20Time-<24hrs-orange?style=for-the-badge&logo=clock&logoColor=white" alt="Response Time"/>
+<a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
+<a href="https://twitter.com/PiyushMehtas"><img src="https://img.shields.io/badge/🐦_Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><br>
+<a href="https://www.youtube.com/c/CoderWhoKnows"><img src="https://img.shields.io/badge/📺_YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://github.com/piyush97"><img src="https://img.shields.io/badge/💻_GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
 ### 🎯 **Building the Future, One Line of Code at a Time**
 
-<!-- Mobile-friendly styles -->
-<style>
-@media (max-width: 768px) {
-  img { max-width: 100% !important; height: auto !important; }
-  .mobile-stack { display: block !important; margin: 5px 0 !important; }
-  .mobile-center { text-align: center !important; }
-}
-</style>
+<!-- Mobile responsiveness handled via GitHub's native markdown -->
 
 </div>
 <img width="100%" src="assets/banner.jpg" alt="Piyush Mehta - Portfolio Banner"/>
@@ -34,12 +30,12 @@
 <img src="https://komarev.com/ghpvc/?username=piyush97&amp;style=flat-square&amp;color=blueviolet" alt=""></p>
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=piyush97&theme=radical&row=1&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies"/>
 </h1>
 
 ---
 
-  <img align="right" alt="Coding GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" style="max-width: 100%; height: auto;" />
+  <img align="right" alt="Coding GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="250" height="180" />
 
 ## 🚀 What I'm Up To
 
@@ -115,11 +111,11 @@
 
 <div align="center">
 
-[<img src="https://img.icons8.com/color/48/000000/internet--v2.png" alt="Website" width="40" height="40" style="margin: 0 10px;"/>][website]
-[<img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" width="40" height="40" style="margin: 0 10px;"/>][twitter]
-[<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;"/>][linkedin]
-[<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" width="40" height="40" style="margin: 0 10px;"/>][instagram]
-[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40" style="margin: 0 10px;"/>][youtube]
+[<img src="https://img.icons8.com/color/48/000000/internet--v2.png" alt="Website" width="32" height="32"/>][website]
+[<img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" width="32" height="32"/>][twitter]
+[<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" alt="LinkedIn" width="32" height="32"/>][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" width="32" height="32"/>][instagram]
+[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="32" height="32"/>][youtube]
 
 </div>
 
@@ -156,7 +152,7 @@
 <summary><strong>📄 View My Resume</strong></summary>
 <br>
 
-<img src="_resume_.gif" alt="Piyush Mehta's Resume" loading="lazy" style="max-width: 100%; height: auto;"/>
+<img src="_resume_.gif" alt="Piyush Mehta's Resume" width="400"/>
 
 </details>
 
@@ -165,8 +161,8 @@
 ### 📊 Coding Activity & Stats
 
 <div align="center">
-<img src="https://wakatime.com/share/@piyush97/45fc79fd-9f27-4e60-b777-a2143000a0ba.png" width="400" style="max-width: 100%; height: auto;" alt="Wakatime Stats"/>
-<img src="https://wakatime.com/share/@piyush97/b809684b-ced7-42f9-a27f-baebac423df9.png" width="400" style="max-width: 100%; height: auto;" alt="Wakatime Activity"/>
+<img src="https://wakatime.com/share/@piyush97/45fc79fd-9f27-4e60-b777-a2143000a0ba.png" width="350" alt="Wakatime Stats"/>
+<img src="https://wakatime.com/share/@piyush97/b809684b-ced7-42f9-a27f-baebac423df9.png" width="350" alt="Wakatime Activity"/>
 </div>
 
 <!--START_SECTION:waka-->
@@ -221,7 +217,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 </details>
 **Timeline**
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png" alt="Coding Timeline Chart" loading="lazy" style="max-width: 100%; height: auto;"/>
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png" alt="Coding Timeline Chart" width="400"/>
 
 <p align="center"><em>Last Updated: 27/08/2025 00:55:31 UTC</em></p>
 <!--END_SECTION:waka-->
@@ -272,10 +268,10 @@ HCL                      2 repos             ░░░░░░░░░░░�
 <br>
 
 ### Languages Overview
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook" alt="Top Programming Languages" loading="lazy" style="max-width: 100%; height: auto;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook" alt="Top Programming Languages" width="300"/>
 
 ### GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true&show_icons=true" alt="GitHub Statistics" loading="lazy" style="max-width: 100%; height: auto;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true&show_icons=true" alt="GitHub Statistics" width="400"/>
 
 </details>
 
@@ -283,7 +279,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 <summary><strong>😄 Random Tech Joke</strong></summary>
 <br>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Random Tech Joke" loading="lazy" style="max-width: 100%; height: auto;"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Random Tech Joke" width="400"/>
 
 </details>
 
