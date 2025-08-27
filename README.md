@@ -65,35 +65,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌟 Highlighted Repositories
-
-<a href="https://github.com/piyush97/piyush97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=piyush97&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/piyush97/piyush97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=piyush97&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-### 📂 Recent Repository Activity
-
-<!--START_SECTION:repos-->
-
-- [piyush97/piyush97](https://github.com/piyush97/piyush97) - Personal portfolio and GitHub profile README
-- [piyush97/example-repo](https://github.com/piyush97/example-repo) - Example project showcasing best practices
-- [piyush97/awesome-project](https://github.com/piyush97/awesome-project) - Innovative solution for modern development
-<!--END_SECTION:repos-->
-
-### 🛠️ Technology Stack Used
-
-<div align="center">
-
 ### 🔴 Live Status Dashboard
 
 | Service              | Status        | Response Time | Last Updated |
@@ -145,10 +116,8 @@
 <br>
 
 ### 👤 About
-
 - [🚀 What I'm Up To](#-what-im-up-to)
 - [📬 Let's Connect!](#-lets-connect)
-- [🚀 Featured Projects](#-featured-projects)
 
 ### 💻 Technical Profile
 
