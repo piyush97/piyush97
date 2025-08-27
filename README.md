@@ -201,8 +201,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->- 📺 [Best way to start with Backend Development • Super fast CRUD Api using NestJS • Awesome CRUD](https://www.youtube.com/watch?v=gPk-K1mIfm4)- 📺 [Develop and Deploy Portfolio for free • The only way to showcase your dev skills in Interview!](https://www.youtube.com/watch?v=Tbvt2UMxdiE)- 📺 [The Question which Google wants you to solve! • Competitive Coding Episode 8](https://www.youtube.com/watch?v=mY4g7RpWoJ8)- 📺 [Easiest Max Product in an Array in 2 minutes | E7 | Learn Competitive Coding for FAANG Interviews](https://www.youtube.com/watch?v=p6DN1faOBgs)- 📺 [Maximum Product in an Array | Competitive Coding series](https://www.youtube.com/watch?v=pCI1ASkTbZc)<!-- YOUTUBE:END -->
 
 ---
 
