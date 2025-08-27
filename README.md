@@ -19,7 +19,7 @@
 
 </div>
 <img width="100%" src="assets/banner.jpg" alt="Piyush Mehta - Portfolio Banner"/>
-<h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" alt="Coding GIF"/> 
+<h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" alt="Coding GIF"/>
 
 <p><a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/-piyush24-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/piyush24/" alt="Linkedin Badge"></a>
 <a href="https://medium.com/@pmcool97"><img src="https://img.shields.io/badge/-pmcool97-black?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@pmcool97" alt="Medium Badge"></a>
@@ -28,7 +28,6 @@
 <a href="https://instagram.com/coderwhoknows"><img src="https://img.shields.io/badge/-@coderwhoknows-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/coderwhoknows/" alt="Instagram Badge"></a>
 <a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/-piyushmehta-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:me@piyushmehta.com" alt="Gmail Badge"></a>
 <img src="https://komarev.com/ghpvc/?username=piyush97&amp;style=flat-square&amp;color=blueviolet" alt=""></p>
-
 
 <img src="https://github-profile-trophy.vercel.app/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies"/>
 </h1>
@@ -41,22 +40,24 @@
 
 <div align="center">
 
-| Role | Focus | Availability |
-|------|-------|--------------|
-| 💼 **Senior Software Engineer** | Microsoft Stack & Full-Stack | Full-time |
-| 🎥 **Content Creator** | Teaching 50K+ Students | Daily |
-| 🔧 **Technical Consultant** | Architecture & DevOps | On-demand |
-| 🤝 **Open Source Contributor** | Web Technologies | Active |
+| Role                            | Focus                        | Availability |
+| ------------------------------- | ---------------------------- | ------------ |
+| 💼 **Senior Software Engineer** | Microsoft Stack & Full-Stack | Full-time    |
+| 🎥 **Content Creator**          | Teaching 50K+ Students       | Daily        |
+| 🔧 **Technical Consultant**     | Architecture & DevOps        | On-demand    |
+| 🤝 **Open Source Contributor**  | Web Technologies             | Active       |
 
 </div>
 
 ### 🎯 Current Focus Areas
+
 - 🔥 **Microsoft Stack** - .NET, Azure, C#
 - 🌐 **Full-Stack Development** - React, Node.js, TypeScript
 - 📚 **Learning** - Economics & Emerging Technologies
 - 💬 **Available for** - Consulting, mentoring, technical discussions
 
 ### 🤝 Collaboration Interests
+
 - 🚀 **Open Source** projects
 - 📝 **Technical writing** & blogging
 - 🎥 **Educational content** creation
@@ -81,24 +82,27 @@
 </div>
 
 ### 📂 Recent Repository Activity
+
 <!--START_SECTION:repos-->
+
 - [piyush97/piyush97](https://github.com/piyush97/piyush97) - Personal portfolio and GitHub profile README
 - [piyush97/example-repo](https://github.com/piyush97/example-repo) - Example project showcasing best practices
 - [piyush97/awesome-project](https://github.com/piyush97/awesome-project) - Innovative solution for modern development
 <!--END_SECTION:repos-->
 
 ### 🛠️ Technology Stack Used
+
 <div align="center">
 
 ### 🔴 Live Status Dashboard
 
-| Service | Status | Response Time | Last Updated |
-|---------|--------|---------------|--------------|
-| **GitHub Profile** | 🟢 Online | Real-time | 2025-08-27 |
-| **Personal Website** | 🟢 Online | <100ms | Daily |
-| **YouTube Channel** | 🟢 Active | N/A | Weekly |
-| **LinkedIn** | 🟢 Available | <24hrs | Daily |
-| **Email** | 🟢 Responsive | <4hrs | Daily |
+| Service              | Status        | Response Time | Last Updated |
+| -------------------- | ------------- | ------------- | ------------ |
+| **GitHub Profile**   | 🟢 Online     | Real-time     | 2025-08-27   |
+| **Personal Website** | 🟢 Online     | <100ms        | Daily        |
+| **YouTube Channel**  | 🟢 Active     | N/A           | Weekly       |
+| **LinkedIn**         | 🟢 Available  | <24hrs        | Daily        |
+| **Email**            | 🟢 Responsive | <4hrs         | Daily        |
 
 ### 🎮 Interactive Quick Actions
 
@@ -116,6 +120,7 @@
 ### 🌟 Let's Build Something Together!
 
 #### 🌐 Primary Contact Methods
+
 <a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
 <a href="https://twitter.com/PiyushMehtas"><img src="https://img.shields.io/badge/🐦_Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
@@ -124,6 +129,7 @@
 <a href="https://github.com/piyush97"><img src="https://img.shields.io/badge/💻_GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 #### 🎮 Interactive Actions
+
 [<img src="https://img.shields.io/badge/📋_View_Resume-Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume"/>](https://piyushmehta.com/resume)
 [<img src="https://img.shields.io/badge/📅_Book_Meeting-Schedule-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Book Meeting"/>](https://calendly.com/piyushmehta)
 [<img src="https://img.shields.io/badge/💡_Request_Feature-Contribute-orange?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Feature Request"/>](https://github.com/piyush97/piyush97/issues/new?title=Feature%20Request&body=I'd%20love%20to%20see...)
@@ -139,21 +145,25 @@
 <br>
 
 ### 👤 About
+
 - [🚀 What I'm Up To](#-what-im-up-to)
 - [📬 Let's Connect!](#-lets-connect)
 - [🚀 Featured Projects](#-featured-projects)
 
 ### 💻 Technical Profile
+
 - [🛠️ Tech Stack & Tools](#️-tech-stack--tools)
 - [🚀 Resume](#-resume)
 - [📊 Coding Activity & Stats](#-coding-activity--stats)
 
 ### 📈 Activity & Content
+
 - [⚡ Recent Activity](#-recent-activity)
 - [📝 Latest Blog Posts](#-latest-blog-posts)
 - [🤝 Community & Collaboration](#-community--collaboration)
 
 ### 📊 Analytics & Insights
+
 - [📊 Custom Analytics Dashboard](#-custom-analytics-dashboard)
 - [📈 GitHub Analytics](#-github-analytics)
 - [🌟 Dynamic Content Hub](#-dynamic-content-hub)
@@ -163,7 +173,6 @@
 </details>
 
 <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg" />
-
 
 ### 🌐 Connect with me:
 
@@ -227,6 +236,7 @@
 <div align="center">
 
 ### 📊 Advanced Metrics
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%2C153%20hrs%2056%20mins-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.1%20million%20lines%20of%20code-blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet)
@@ -234,9 +244,11 @@
 </div>
 
 **🐱 GitHub Analytics**
+
 > 📦 **2.2 MB** Storage Used • 🏆 **1,075** Contributions (2025) • 💼 **Opted to Hire** • 📜 **117** Public Repos • 🔑 **250** Private Repos
 
 **🎯 Productivity Insights**
+
 ```text
 🌞 Morning    12673 commits    ██████░░░░░░░░░░░░░░░░░░░   22.01 %
 🌆 Daytime    20643 commits    █████████░░░░░░░░░░░░░░░░   35.85 %
@@ -245,6 +257,7 @@
 ```
 
 📅 **Peak Productivity: Thursday**
+
 ```text
 Monday       6290 commits     ███░░░░░░░░░░░░░░░░░░░░░░   10.92 %
 Tuesday      6612 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
@@ -256,6 +269,7 @@ Sunday       7576 commits     ███░░░░░░░░░░░░░�
 ```
 
 📅 **Most Productive: Thursday**
+
 ```text
 Monday       6290 commits     ███░░░░░░░░░░░░░░░░░░░░░░   10.92 %
 Tuesday      6612 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
@@ -271,6 +285,7 @@ Sunday       7576 commits     ███░░░░░░░░░░░░░�
 <br>
 
 **This Week I Spent My Time On**
+
 ```text
 💬 Programming Languages:
 TypeScript               8 hrs 1 min         ████████████░░░░░░░░░░░░░   47.53 %
@@ -281,6 +296,7 @@ Git Config               1 hr 12 mins        ██░░░░░░░░░�
 ```
 
 **Top Languages by Repository**
+
 ```text
 TypeScript               33 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 %
 Shell                    11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
@@ -290,14 +306,17 @@ HCL                      2 repos             ░░░░░░░░░░░�
 ```
 
 </details>
+
 ### 🏆 Advanced Achievements & Trends
 
 <div align="center">
 
 #### 🔥 Coding Streaks & Milestones
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush97&theme=radical&hide_border=true" alt="GitHub Streak" width="400"/>
 
 #### 📈 Productivity Trends
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush97&theme=radical&hide_border=true&height=300" alt="Activity Graph" width="400"/>
 
 </div>
@@ -310,25 +329,27 @@ HCL                      2 repos             ░░░░░░░░░░░�
 
 ### 🎯 Real-Time Developer Metrics
 
-| Metric | Value | Industry Comparison | Status |
-|--------|-------|-------------------|---------|
-| **GitHub Followers** | 390 | Top 15% | 🟢 Growing |
-| **Public Repositories** | 117 | Top 20% | 🟢 Active |
-| **Repository Stars** | 40+ | Top 25% | 🟡 Building |
-| **Profile Views** | 8,000+ | Top 10% | 🟢 Trending |
-| **Years Active** | 9+ | Veteran | 🟢 Established |
+| Metric                  | Value  | Industry Comparison | Status         |
+| ----------------------- | ------ | ------------------- | -------------- |
+| **GitHub Followers**    | 390    | Top 15%             | 🟢 Growing     |
+| **Public Repositories** | 117    | Top 20%             | 🟢 Active      |
+| **Repository Stars**    | 40+    | Top 25%             | 🟡 Building    |
+| **Profile Views**       | 8,000+ | Top 10%             | 🟢 Trending    |
+| **Years Active**        | 9+     | Veteran             | 🟢 Established |
 
 ### 🚀 Repository Performance Analysis
 
 #### Top Performing Repositories (Real Data)
-| Repository | Stars | Forks | Language | Status |
-|------------|-------|-------|----------|---------|
-| **PiyushMehta.com** | 30 ⭐ | 27 🍴 | Astro | 🟢 Active |
-| **piyush97** | 10 ⭐ | 12 🍴 | Markdown | 🟢 Active |
-| **homelab-gitops** | 0 ⭐ | 0 🍴 | HCL | 🆕 New |
-| **homelab-docs** | 0 ⭐ | 0 🍴 | Docs | 🆕 New |
+
+| Repository          | Stars | Forks | Language | Status    |
+| ------------------- | ----- | ----- | -------- | --------- |
+| **PiyushMehta.com** | 30 ⭐ | 27 🍴 | Astro    | 🟢 Active |
+| **piyush97**        | 10 ⭐ | 12 🍴 | Markdown | 🟢 Active |
+| **homelab-gitops**  | 0 ⭐  | 0 🍴  | HCL      | 🆕 New    |
+| **homelab-docs**    | 0 ⭐  | 0 🍴  | Docs     | 🆕 New    |
 
 #### Repository Health Score
+
 - **Average Stars/Repo**: 8.5 ⭐
 - **Fork Rate**: 23% 📈
 - **Active Projects**: 5+ 🌟
@@ -337,15 +358,17 @@ HCL                      2 repos             ░░░░░░░░░░░�
 ### 📈 Technology Trend Comparison
 
 #### JavaScript Ecosystem Analysis (Real Data)
-| Technology | Piyush's Usage | Industry Trend | Alignment |
-|------------|----------------|----------------|-----------|
-| **React** | Primary Frontend | 238K ⭐ (facebook/react) | 🟢 Excellent |
-| **Next.js** | Full-Stack Apps | 134K ⭐ (vercel/next.js) | 🟢 Excellent |
-| **Astro** | Modern Sites | Emerging Framework | 🟢 Leading Edge |
-| **TypeScript** | Type Safety | Industry Standard | 🟢 Excellent |
-| **Node.js** | Backend APIs | 49K ⭐ (nodejs/node) | 🟢 Strong |
+
+| Technology     | Piyush's Usage   | Industry Trend           | Alignment       |
+| -------------- | ---------------- | ------------------------ | --------------- |
+| **React**      | Primary Frontend | 238K ⭐ (facebook/react) | 🟢 Excellent    |
+| **Next.js**    | Full-Stack Apps  | 134K ⭐ (vercel/next.js) | 🟢 Excellent    |
+| **Astro**      | Modern Sites     | Emerging Framework       | 🟢 Leading Edge |
+| **TypeScript** | Type Safety      | Industry Standard        | 🟢 Excellent    |
+| **Node.js**    | Backend APIs     | 49K ⭐ (nodejs/node)     | 🟢 Strong       |
 
 #### Industry Benchmarking
+
 - **React Usage**: Matches 95% of top JS projects
 - **TypeScript Adoption**: Above industry average
 - **Modern Frameworks**: Leading with Astro adoption
@@ -356,6 +379,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 <div align="center">
 
 #### 🏆 Developer Milestones
+
 - ✅ **Century Club**: 100+ Public Repositories
 - ✅ **Star Collector**: 40+ Repository Stars Earned
 - ✅ **Community Builder**: 390+ GitHub Followers
@@ -367,12 +391,12 @@ HCL                      2 repos             ░░░░░░░░░░░�
 
 <div align="center">
 
-| Goal | Current | Target | Progress | Status |
-|------|---------|--------|----------|---------|
-| **Repository Stars** | 40 ⭐ | 100 ⭐ | ████████░░░░ 40% | 🔄 In Progress |
-| **GitHub Followers** | 390 👥 | 500 👥 | ████████░░░░ 78% | 🔄 In Progress |
-| **Public Repos** | 117 📁 | 125 📁 | ██████████░░ 94% | 🟢 Almost There |
-| **YouTube Subscribers** | 50K 🎥 | 75K 🎥 | ████████░░░░ 67% | 🔄 In Progress |
+| Goal                    | Current | Target | Progress         | Status          |
+| ----------------------- | ------- | ------ | ---------------- | --------------- |
+| **Repository Stars**    | 40 ⭐   | 100 ⭐ | ████████░░░░ 40% | 🔄 In Progress  |
+| **GitHub Followers**    | 390 👥  | 500 👥 | ████████░░░░ 78% | 🔄 In Progress  |
+| **Public Repos**        | 117 📁  | 125 📁 | ██████████░░ 94% | 🟢 Almost There |
+| **YouTube Subscribers** | 50K 🎥  | 75K 🎥 | ████████░░░░ 67% | 🔄 In Progress  |
 
 </div>
 
@@ -382,22 +406,22 @@ HCL                      2 repos             ░░░░░░░░░░░�
 
 #### 🔧 Technical Skills Progression
 
-| Skill | Level | XP | Progress | Next Milestone |
-|-------|-------|----|----------|----------------|
-| **React** | 45 | 2,250 | ██████████░░ 90% | Expert Level |
-| **TypeScript** | 42 | 2,100 | ██████████░░ 84% | Advanced Level |
-| **Node.js** | 38 | 1,900 | ████████░░░░ 76% | Advanced Level |
-| **Python** | 35 | 1,750 | ████████░░░░ 70% | Intermediate Level |
-| **DevOps** | 33 | 1,650 | ████████░░░░ 66% | Intermediate Level |
+| Skill          | Level | XP    | Progress         | Next Milestone     |
+| -------------- | ----- | ----- | ---------------- | ------------------ |
+| **React**      | 45    | 2,250 | ██████████░░ 90% | Expert Level       |
+| **TypeScript** | 42    | 2,100 | ██████████░░ 84% | Advanced Level     |
+| **Node.js**    | 38    | 1,900 | ████████░░░░ 76% | Advanced Level     |
+| **Python**     | 35    | 1,750 | ████████░░░░ 70% | Intermediate Level |
+| **DevOps**     | 33    | 1,650 | ████████░░░░ 66% | Intermediate Level |
 
 #### 📊 Productivity Metrics
 
-| Metric | This Month | Last Month | Trend | Score |
-|--------|------------|------------|-------|-------|
-| **Commits** | 47 | 52 | 📉 -10% | 85/100 |
-| **PRs Created** | 3 | 5 | 📉 -40% | 60/100 |
-| **Issues Resolved** | 12 | 8 | 📈 +50% | 95/100 |
-| **Code Reviews** | 8 | 6 | 📈 +33% | 90/100 |
+| Metric              | This Month | Last Month | Trend   | Score  |
+| ------------------- | ---------- | ---------- | ------- | ------ |
+| **Commits**         | 47         | 52         | 📉 -10% | 85/100 |
+| **PRs Created**     | 3          | 5          | 📉 -40% | 60/100 |
+| **Issues Resolved** | 12         | 8          | 📈 +50% | 95/100 |
+| **Code Reviews**    | 8          | 6          | 📈 +33% | 90/100 |
 
 </div>
 
@@ -411,14 +435,15 @@ HCL                      2 repos             ░░░░░░░░░░░�
 
 #### 🏆 Achievement Score: **2,847 XP**
 
-| Category | Score | Rank | Progress |
-|----------|-------|------|----------|
-| **Coding Time** | 1,200 XP | 🥇 Expert | 8,153+ hrs |
-| **Contributions** | 850 XP | 🥇 Master | 1,075+ commits |
-| **Repositories** | 400 XP | 🥇 Creator | 117 repos |
-| **Community** | 397 XP | 🥈 Influencer | 390 followers |
+| Category          | Score    | Rank          | Progress       |
+| ----------------- | -------- | ------------- | -------------- |
+| **Coding Time**   | 1,200 XP | 🥇 Expert     | 8,153+ hrs     |
+| **Contributions** | 850 XP   | 🥇 Master     | 1,075+ commits |
+| **Repositories**  | 400 XP   | 🥇 Creator    | 117 repos      |
+| **Community**     | 397 XP   | 🥈 Influencer | 390 followers  |
 
 #### 🎮 Developer Level: **SENIOR ARCHITECT** (Level 47)
+
 ```
 ███████████████████████████████░ 94% to Level 48
 Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
@@ -431,18 +456,21 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 <div align="center">
 
 #### 🥇 Platinum Achievements
+
 - ✅ **Century Club**: 100+ Public Repositories (117 achieved)
 - ✅ **Star Collector**: 40+ Repository Stars Earned
 - ✅ **Community Builder**: 390+ GitHub Followers
 - ✅ **Content Creator**: 50K+ YouTube Subscribers
 
 #### 🥈 Gold Achievements
+
 - ✅ **Open Source Champion**: 25+ Projects Maintained
 - ✅ **Global Reach**: Content in 50+ Countries
 - 🔄 **Technical Author**: 10+ Published Articles (7/10)
 - 🔄 **Conference Speaker**: 5+ Talks Delivered (3/5)
 
 #### 🥉 Silver Achievements
+
 - ✅ **Full-Stack Master**: 8+ Technology Stacks
 - ✅ **Quick Responder**: <24hr Response Time
 - 🔄 **Mentor**: 10+ Developers Guided (6/10)
@@ -455,16 +483,19 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 <div align="center">
 
 #### 🎓 Professional Certifications
+
 <img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
 <img src="https://img.shields.io/badge/Microsoft%20Certified-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
 
 #### 💡 Technical Expertise
+
 <img src="https://img.shields.io/badge/Full%20Stack-FF6B6B?style=for-the-badge&logo=stackshare&logoColor=white" alt="Full Stack"/>
 <img src="https://img.shields.io/badge/DevOps-4A90E2?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps"/>
 <img src="https://img.shields.io/badge/Architecture-6B46C1?style=for-the-badge&logo=architect&logoColor=white" alt="Architecture"/>
 
 #### 🚀 Specializations
+
 <img src="https://img.shields.io/badge/Microservices-FF4081?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices"/>
 <img src="https://img.shields.io/badge/Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cloud Native"/>
 <img src="https://img.shields.io/badge/AI%2FML-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
@@ -475,13 +506,13 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 
 <div align="center">
 
-| Milestone | Status | Progress |
-|-----------|--------|----------|
-| 🎯 10,000 Coding Hours | ✅ Complete | 8,153+ hrs |
-| 📚 100 Public Repos | ✅ Complete | 117 repos |
-| 🌟 1,000 Contributions | ✅ Complete | 1,075+ contribs |
-| 🏆 GitHub Star Achiever | 🔄 In Progress | 500+ stars |
-| 📝 Technical Author | ✅ Complete | 50K+ students |
+| Milestone               | Status         | Progress        |
+| ----------------------- | -------------- | --------------- |
+| 🎯 10,000 Coding Hours  | ✅ Complete    | 8,153+ hrs      |
+| 📚 100 Public Repos     | ✅ Complete    | 117 repos       |
+| 🌟 1,000 Contributions  | ✅ Complete    | 1,075+ contribs |
+| 🏆 GitHub Star Achiever | 🔄 In Progress | 500+ stars      |
+| 📝 Technical Author     | ✅ Complete    | 50K+ students   |
 
 </div>
 
@@ -496,6 +527,7 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#21701](https://github.com/xbmc/xbmc/issues/21701#issuecomment-2755175497) in [xbmc/xbmc](https://github.com/xbmc/xbmc)
 2. 💪 Opened PR [#20](https://github.com/SlideFusion/SlideFusion/pull/20) in [SlideFusion/SlideFusion](https://github.com/SlideFusion/SlideFusion)
 3. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2735012152) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
@@ -503,15 +535,15 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 5. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
-
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 📌 **[The 30-Year-Old 'Impossible' Algorithm That Makes Netflix Instant](https://piyushmehta.com/blog/bloom-filters/)** - Bloom Filters Explained  
 📌 **[AI Killed My Impostor Syndrome](https://piyushmehta.com/blog/ai-killed-my-impostor-syndrome/)** - Personal Growth Story  
 📌 **[From Nginx Proxy Manager to SWAG](https://piyushmehta.com/blog/migrating-nginx-proxy-manager-to-swag/)** - Migration Guide  
 📌 **[Leveraging AI in Coding Workflow](https://piyushmehta.com/blog/leveraging-ai-in-coding-workflow/)** - Productivity Tips  
-📌 **[Astro 5.9: Content Security Policy](https://piyushmehta.com/blog/astro-v5-9-content-security-policy/)** - Web Security  
+📌 **[Astro 5.9: Content Security Policy](https://piyushmehta.com/blog/astro-v5-9-content-security-policy/)** - Web Security
 
 <details>
 <summary><strong>🔍 View More Posts</strong></summary>
@@ -521,7 +553,7 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 📌 **[NestJS, RabbitMQ & Azure Queue System](https://piyushmehta.com/blog/rabbit-mq/)** - Backend Development  
 📌 **[ChatGPT & AI Chatbot Guide](https://piyushmehta.com/blog/chat-bot/)** - AI Solutions  
 📌 **[Build Your Own Blog](https://piyushmehta.com/blog/how-to-make-your-own-blog/)** - Tutorial  
-📌 **[Hacktoberfest Beginner Guide](https://piyushmehta.com/blog/hacktoberfest/)** - Open Source  
+📌 **[Hacktoberfest Beginner Guide](https://piyushmehta.com/blog/hacktoberfest/)** - Open Source
 
 </details>
 <!-- BLOG-POST-LIST:END -->
@@ -538,24 +570,26 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 
 ### 📊 Live Developer Statistics
 
-| Metric | Real-time Value | Trend | Last Updated |
-|--------|-----------------|-------|--------------|
-| **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/piyush97?style=social) | 📈 +12% | Today |
-| **Repository Stars** | ![Stars](https://img.shields.io/github/stars/piyush97?style=social) | 📈 +8% | Today |
-| **Profile Views** | 8,000+ | 📈 +15% | This Week |
-| **Commits (2025)** | 1,075+ | 📈 +23% | This Year |
+| Metric               | Real-time Value                                                             | Trend   | Last Updated |
+| -------------------- | --------------------------------------------------------------------------- | ------- | ------------ |
+| **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/piyush97?style=social) | 📈 +12% | Today        |
+| **Repository Stars** | ![Stars](https://img.shields.io/github/stars/piyush97?style=social)         | 📈 +8%  | Today        |
+| **Profile Views**    | 8,000+                                                                      | 📈 +15% | This Week    |
+| **Commits (2025)**   | 1,075+                                                                      | 📈 +23% | This Year    |
 
 ### 🔥 Trending Technologies (Real Data)
 
 #### JavaScript Ecosystem Leaders
-| Framework | Stars | Trend | Piyush's Usage |
-|-----------|-------|-------|----------------|
-| **React** | 238K ⭐ | 🟢 Hot | Primary Frontend |
-| **Next.js** | 134K ⭐ | 🟢 Rising | Full-Stack Apps |
+
+| Framework                 | Stars   | Trend     | Piyush's Usage    |
+| ------------------------- | ------- | --------- | ----------------- |
+| **React**                 | 238K ⭐ | 🟢 Hot    | Primary Frontend  |
+| **Next.js**               | 134K ⭐ | 🟢 Rising | Full-Stack Apps   |
 | **JavaScript Algorithms** | 193K ⭐ | 🟢 Stable | Learning Resource |
-| **Airbnb Style Guide** | 147K ⭐ | 🟢 Stable | Code Standards |
+| **Airbnb Style Guide**    | 147K ⭐ | 🟢 Stable | Code Standards    |
 
 #### 🚀 Emerging Technologies
+
 - **Astro** - Modern web framework (Piyush's specialty)
 - **TypeScript** - Industry standard (Piyush's expertise)
 - **WebAssembly** - High-performance web apps
@@ -566,12 +600,14 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 <div align="center">
 
 #### ⏰ Response Times
+
 - **Email**: <4 hours ⏱️
 - **LinkedIn**: <24 hours ⏱️
 - **GitHub Issues**: <12 hours ⏱️
 - **Consultation**: <48 hours ⏱️
 
 #### 🎮 Current Status
+
 - **Open to Opportunities**: ✅ Yes
 - **Available for Consulting**: ✅ Yes
 - **Accepting Projects**: ✅ Yes
@@ -586,14 +622,17 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 <div align="center">
 
 ### 🌟 Community Impact
+
 <img src="https://img.shields.io/badge/YouTube%20Subscribers-50K+-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribers"/>
 <img src="https://img.shields.io/badge/GitHub%20Followers-1.2K+-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers"/>
 <img src="https://img.shields.io/badge/LinkedIn%20Connections-5K+-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connections"/>
 
 ### 🤝 Collaboration Network
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook" alt="Top Languages" width="300"/>
 
 ### 📈 Community Engagement
+
 - **🎥 YouTube**: 50K+ students taught across 100+ videos
 - **📚 Open Source**: Active contributor to 25+ projects
 - **💬 Community**: Regular speaker at tech meetups
@@ -620,9 +659,11 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 <br>
 
 ### Languages Overview
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook" alt="Top Programming Languages" width="300"/>
 
 ### GitHub Statistics
+
 <img src="https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true&show_icons=true" alt="GitHub Statistics" width="400"/>
 
 ### 📊 Detailed Contribution Insights
@@ -630,12 +671,15 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 <div align="center">
 
 #### 🗓️ Contribution Calendar
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush97&theme=radical&hide_border=true&height=300" alt="Contribution Graph" width="400"/>
 
 #### 📈 Repository Statistics
+
 <img src="https://github-readme-stats.vercel.app/api?username=piyush97&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="Repository Stats" width="400"/>
 
 #### 🏆 Achievement Highlights
+
 - **Most Active Day**: Thursday (19.67% of contributions)
 - **Peak Coding Hours**: 35.85% of work done during daytime
 - **Language Diversity**: 8+ programming languages mastered
@@ -652,20 +696,22 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 ### 🎯 2025 Development Goals
 
 #### 📊 Quantitative Metrics
-| Goal Category | Current | Target | Progress | Status |
-|---------------|---------|--------|----------|---------|
-| **Code Contributions** | 1,075 commits | 1,500 commits | ████████░░ 72% | 🔄 On Track |
-| **Repository Stars** | 40 ⭐ | 100 ⭐ | ████████░░ 40% | 🔄 In Progress |
-| **Public Repositories** | 117 📁 | 125 📁 | ██████████░░ 94% | 🟢 Almost Complete |
-| **GitHub Followers** | 390 👥 | 500 👥 | ████████░░ 78% | 🔄 In Progress |
+
+| Goal Category           | Current       | Target        | Progress         | Status             |
+| ----------------------- | ------------- | ------------- | ---------------- | ------------------ |
+| **Code Contributions**  | 1,075 commits | 1,500 commits | ████████░░ 72%   | 🔄 On Track        |
+| **Repository Stars**    | 40 ⭐         | 100 ⭐        | ████████░░ 40%   | 🔄 In Progress     |
+| **Public Repositories** | 117 📁        | 125 📁        | ██████████░░ 94% | 🟢 Almost Complete |
+| **GitHub Followers**    | 390 👥        | 500 👥        | ████████░░ 78%   | 🔄 In Progress     |
 
 #### 🚀 Qualitative Achievements
-| Achievement | Progress | Status | Next Milestone |
-|-------------|----------|--------|----------------|
-| **Open Source Champion** | 25/25 projects | ✅ Complete | Maintain & Grow |
-| **Content Creator** | 50K/75K subscribers | 🔄 67% | Reach 60K |
-| **Technical Author** | 7/10 articles | 🔄 70% | 3 more articles |
-| **Community Builder** | 390/500 followers | 🔄 78% | Reach 450 |
+
+| Achievement              | Progress            | Status      | Next Milestone  |
+| ------------------------ | ------------------- | ----------- | --------------- |
+| **Open Source Champion** | 25/25 projects      | ✅ Complete | Maintain & Grow |
+| **Content Creator**      | 50K/75K subscribers | 🔄 67%      | Reach 60K       |
+| **Technical Author**     | 7/10 articles       | 🔄 70%      | 3 more articles |
+| **Community Builder**    | 390/500 followers   | 🔄 78%      | Reach 450       |
 
 ### 💪 Skill Development Progress
 
@@ -673,22 +719,22 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 
 #### 🔧 Technical Skills Radar
 
-| Skill Category | Current Level | XP Progress | Next Level |
-|----------------|---------------|-------------|------------|
-| **Frontend Development** | Expert (85%) | ██████████░░ | Master |
-| **Backend Development** | Advanced (78%) | ████████░░░░ | Expert |
-| **DevOps & Cloud** | Advanced (72%) | ████████░░░░ | Expert |
-| **AI/ML Integration** | Intermediate (65%) | ███████░░░░░ | Advanced |
-| **System Architecture** | Advanced (71%) | ████████░░░░ | Expert |
+| Skill Category           | Current Level      | XP Progress  | Next Level |
+| ------------------------ | ------------------ | ------------ | ---------- |
+| **Frontend Development** | Expert (85%)       | ██████████░░ | Master     |
+| **Backend Development**  | Advanced (78%)     | ████████░░░░ | Expert     |
+| **DevOps & Cloud**       | Advanced (72%)     | ████████░░░░ | Expert     |
+| **AI/ML Integration**    | Intermediate (65%) | ███████░░░░░ | Advanced   |
+| **System Architecture**  | Advanced (71%)     | ████████░░░░ | Expert     |
 
 #### 📚 Learning & Growth
 
-| Learning Area | Progress | Status | Time Invested |
-|---------------|----------|--------|---------------|
-| **Economics** | ███████░░░ 70% | 🔄 In Progress | 25 hours |
-| **Advanced TypeScript** | ██████████░░ 85% | 🔄 In Progress | 40 hours |
-| **Cloud Architecture** | ████████░░░ 75% | 🔄 In Progress | 35 hours |
-| **AI/ML Fundamentals** | ███████░░░░ 65% | 🔄 In Progress | 20 hours |
+| Learning Area           | Progress         | Status         | Time Invested |
+| ----------------------- | ---------------- | -------------- | ------------- |
+| **Economics**           | ███████░░░ 70%   | 🔄 In Progress | 25 hours      |
+| **Advanced TypeScript** | ██████████░░ 85% | 🔄 In Progress | 40 hours      |
+| **Cloud Architecture**  | ████████░░░ 75%  | 🔄 In Progress | 35 hours      |
+| **AI/ML Fundamentals**  | ███████░░░░ 65%  | 🔄 In Progress | 20 hours      |
 
 </div>
 
@@ -697,12 +743,14 @@ Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
 <div align="center">
 
 #### 🎖️ Rare Achievements
+
 - **Century Club** (117/100 repos) ✅ **UNLOCKED**
 - **Star Commander** (40/50 stars) 🔄 80% Complete
 - **Community Leader** (390/500 followers) 🔄 78% Complete
 - **Content Influencer** (50K/100K subscribers) 🔄 50% Complete
 
 #### 🏅 Epic Achievements
+
 - **Full-Stack Architect** (8/8 stacks) ✅ **UNLOCKED**
 - **Open Source Veteran** (9/10 years) 🔄 90% Complete
 - **Global Educator** (50K+/100K students) 🔄 50% Complete
