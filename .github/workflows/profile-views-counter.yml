@@ -1,0 +1,23 @@
+name: Update Profile Views
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Every 4 hours
+  workflow_dispatch:
+
+jobs:
+  update-views:
+    name: Update profile views badge
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Profile Views
+        uses: komarev/github-profile-views-counter-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: piyush97
+          style: flat-square
+          color: blueviolet
