@@ -11,8 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.head_ref }}
       
       - name: Update YouTube Stats
         uses: gautamkrishnar/blog-post-workflow@master
@@ -24,3 +22,4 @@ jobs:
           commit_message: "Updated YouTube videos"
           committer_username: "piyush97"
           committer_email: "me@piyushmehta.com"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
