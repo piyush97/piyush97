@@ -1,8 +1,8 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Piyush+Mehta+👋;Senior+Technology+Consultant+%26+Solution+Architect;TypeScript+Expert+%7C+8%2B+Years+Experience;Full-Stack+Developer+%26+Technical+Leader;React+%26+Next.js+Specialist;YouTuber+Teaching+50K%2B+Students;Enterprise+Software+Development;Always+Learning%2C+Always+Building)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Piyush+Mehta+👋;Senior+Technology+Consultant;Full-Stack+Developer+%26+Architect;YouTuber+Teaching+50K%2B+Students;Open+Source+Enthusiast;Always+Learning%2C+Always+Building)
 
-### 🎯 **Senior Technology Consultant | TypeScript & React Specialist | Full-Stack Solutions Architect**
+### 🎯 **Building the Future, One Line of Code at a Time**
 </div>
 <img width="100%" src="assets/banner.jpg"/>
 <h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> 
@@ -21,22 +21,14 @@
 
  <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
 
-## 👨‍💻 Professional Summary
-**Senior Technology Consultant** with **8+ years** of experience in **enterprise software development** and **solution architecture**. Specialized in **TypeScript**, **React ecosystem**, and **modern web technologies**, having successfully delivered **100+ enterprise projects**. Expert in leading development teams and driving **digital transformation** initiatives.
-
-### 🎯 Key Achievements
-- 🏆 **Led technical teams** of 5-15 developers across multiple projects
-- 📈 **Improved system performance** by 40% across client implementations  
-- 🌐 **Built scalable applications** serving 100,000+ users
-- 💼 **Consulted for Fortune 500 companies** on technical architecture
-- 📚 **Mentored 50,000+ students** through YouTube content creation
-- 🚀 **114 public repositories** with enterprise-grade solutions
-
-### 🎬 Current Focus
-- 📚 Senior Technology Consultant specializing in **TypeScript** and **React ecosystem**
-- 📹 Teaching web development and software architecture on <a href="https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw">YouTube</a>
-- 🤝 Available for **enterprise consulting** and **technical leadership** roles
-- 🌱 Driving innovation with **Next.js**, **modern web frameworks**, and **scalable architectures**
+- 📚 I'm currently a Senior Software Engineer at Tundra Technical
+- 📹 I teach people web development on <a href="https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw">Youtube </a>
+- 😉 Known for converting your markdown to markup!
+- 🌱 Current Tech stack: Microsoft Stack 🔥
+- 👯 I’m looking to collaborate with other Open Source Developers
+- ⚡ Fun fact: I love to pass my time learning about economics 
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@PiyushMehtas](https://twitter.com/PiyushMehtas)
 
 <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg" />
 
@@ -52,38 +44,7 @@
 
 <br />
 
-## 🚀 Core Technology Expertise
-**Modern Full-Stack Development & Enterprise Solutions**
-
-### Frontend & UI Development
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-## 🛠️ Technical Skills & Development Tools
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdev]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdev]
@@ -198,12 +159,6 @@ HCL                      2 repos             ░░░░░░░░░░░�
 5. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->- 📺 [Best way to start with Backend Development • Super fast CRUD Api using NestJS • Awesome CRUD](https://www.youtube.com/watch?v=gPk-K1mIfm4)- 📺 [Develop and Deploy Portfolio for free • The only way to showcase your dev skills in Interview!](https://www.youtube.com/watch?v=Tbvt2UMxdiE)- 📺 [The Question which Google wants you to solve! • Competitive Coding Episode 8](https://www.youtube.com/watch?v=mY4g7RpWoJ8)- 📺 [Easiest Max Product in an Array in 2 minutes | E7 | Learn Competitive Coding for FAANG Interviews](https://www.youtube.com/watch?v=p6DN1faOBgs)- 📺 [Maximum Product in an Array | Competitive Coding series](https://www.youtube.com/watch?v=pCI1ASkTbZc)<!-- YOUTUBE:END -->
-
----
 
 ### 📕 Latest Blog Posts
 
