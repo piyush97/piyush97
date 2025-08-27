@@ -1,0 +1,19 @@
+name: Profile Views Counter
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Every 2 hours
+  workflow_dispatch:
+
+jobs:
+  update-profile-views:
+    name: Update profile views counter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update views counter
+        uses: antonkomarev/github-profile-views-counter-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: piyush97

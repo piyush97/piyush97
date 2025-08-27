@@ -1,0 +1,26 @@
+name: Update YouTube Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-youtube-stats:
+    name: Update YouTube channel statistics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+      
+      - name: Update YouTube Stats
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8jrKCxTyhrDcF_pHLgWSw"
+          max_post_count: 5
+          template: "- 📺 [$title]($url)"
+          commit_message: "Updated YouTube videos"
+          committer_username: "piyush97"
+          committer_email: "me@piyushmehta.com"

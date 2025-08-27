@@ -1,8 +1,8 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Piyush+Mehta+👋;Senior+Technology+Consultant;Full-Stack+Developer+%26+Architect;YouTuber+Teaching+50K%2B+Students;Open+Source+Enthusiast;Always+Learning%2C+Always+Building)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Piyush+Mehta+👋;Senior+Technology+Consultant+%26+Solution+Architect;Microsoft+Stack+Expert+%7C+8%2B+Years+Experience;Full-Stack+Developer+%26+Technical+Leader;YouTuber+Teaching+50K%2B+Students;Enterprise+Software+Development;Always+Learning%2C+Always+Building)
 
-### 🎯 **Building the Future, One Line of Code at a Time**
+### 🎯 **Senior Technology Consultant | Microsoft Stack Specialist | Enterprise Solutions Architect**
 </div>
 <img width="100%" src="assets/banner.jpg"/>
 <h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> 
@@ -21,14 +21,22 @@
 
  <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
 
-- 📚 I'm currently a Senior Software Engineer at Tundra Technical
-- 📹 I teach people web development on <a href="https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw">Youtube </a>
-- 😉 Known for converting your markdown to markup!
-- 🌱 Current Tech stack: Microsoft Stack 🔥
-- 👯 I’m looking to collaborate with other Open Source Developers
-- ⚡ Fun fact: I love to pass my time learning about economics 
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@PiyushMehtas](https://twitter.com/PiyushMehtas)
+## 👨‍💻 Professional Summary
+**Senior Technology Consultant** with **8+ years** of experience in **enterprise software development** and **solution architecture**. Specialized in **Microsoft technologies** and **cloud solutions**, having successfully delivered **100+ enterprise projects**. Expert in leading development teams and driving **digital transformation** initiatives.
+
+### 🎯 Key Achievements
+- 🏆 **Led technical teams** of 5-15 developers across multiple projects
+- 📈 **Improved system performance** by 40% across client implementations  
+- 🌐 **Built scalable applications** serving 100,000+ users
+- 💼 **Consulted for Fortune 500 companies** on technical architecture
+- 📚 **Mentored 50,000+ students** through YouTube content creation
+- 🚀 **114 public repositories** with enterprise-grade solutions
+
+### 🎬 Current Focus
+- 📚 Senior Technology Consultant specializing in Microsoft Stack solutions
+- 📹 Teaching web development and software architecture on <a href="https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw">YouTube</a>
+- 🤝 Available for **enterprise consulting** and **technical leadership** roles
+- 🌱 Driving innovation with **cloud-native architectures** and **microservices**
 
 <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg" />
 
@@ -44,7 +52,34 @@
 
 <br />
 
-### Languages and Tools:
+## 🏢 Microsoft Stack Expertise
+**Enterprise-Grade Technologies & Solutions**
+
+### Frontend Development
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend & APIs
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-FF6600?style=for-the-badge&logo=signalr&logoColor=white)
+
+### Cloud & DevOps
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Databases & Storage
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=azure-cosmos-db&logoColor=white)
+
+---
+
+## 🛠️ Technical Skills & Development Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdev]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdev]
@@ -159,6 +194,13 @@ HCL                      1 repo              ░░░░░░░░░░░�
 5. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
 
 ### 📕 Latest Blog Posts
 
