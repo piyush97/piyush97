@@ -1,8 +1,8 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Piyush+Mehta+👋;Senior+Technology+Consultant+%26+Solution+Architect;Microsoft+Stack+Expert+%7C+8%2B+Years+Experience;Full-Stack+Developer+%26+Technical+Leader;YouTuber+Teaching+50K%2B+Students;Enterprise+Software+Development;Always+Learning%2C+Always+Building)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Piyush+Mehta+👋;Senior+Technology+Consultant+%26+Solution+Architect;TypeScript+Expert+%7C+8%2B+Years+Experience;Full-Stack+Developer+%26+Technical+Leader;React+%26+Next.js+Specialist;YouTuber+Teaching+50K%2B+Students;Enterprise+Software+Development;Always+Learning%2C+Always+Building)
 
-### 🎯 **Senior Technology Consultant | Microsoft Stack Specialist | Enterprise Solutions Architect**
+### 🎯 **Senior Technology Consultant | TypeScript & React Specialist | Full-Stack Solutions Architect**
 </div>
 <img width="100%" src="assets/banner.jpg"/>
 <h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> 
@@ -22,7 +22,7 @@
  <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
 
 ## 👨‍💻 Professional Summary
-**Senior Technology Consultant** with **8+ years** of experience in **enterprise software development** and **solution architecture**. Specialized in **Microsoft technologies** and **cloud solutions**, having successfully delivered **100+ enterprise projects**. Expert in leading development teams and driving **digital transformation** initiatives.
+**Senior Technology Consultant** with **8+ years** of experience in **enterprise software development** and **solution architecture**. Specialized in **TypeScript**, **React ecosystem**, and **modern web technologies**, having successfully delivered **100+ enterprise projects**. Expert in leading development teams and driving **digital transformation** initiatives.
 
 ### 🎯 Key Achievements
 - 🏆 **Led technical teams** of 5-15 developers across multiple projects
@@ -33,10 +33,10 @@
 - 🚀 **114 public repositories** with enterprise-grade solutions
 
 ### 🎬 Current Focus
-- 📚 Senior Technology Consultant specializing in Microsoft Stack solutions
+- 📚 Senior Technology Consultant specializing in **TypeScript** and **React ecosystem**
 - 📹 Teaching web development and software architecture on <a href="https://www.youtube.com/channel/UCK8jrKCxTyhrDcF_pHLgWSw">YouTube</a>
 - 🤝 Available for **enterprise consulting** and **technical leadership** roles
-- 🌱 Driving innovation with **cloud-native architectures** and **microservices**
+- 🌱 Driving innovation with **Next.js**, **modern web frameworks**, and **scalable architectures**
 
 <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg" />
 
@@ -52,30 +52,34 @@
 
 <br />
 
-## 🏢 Microsoft Stack Expertise
-**Enterprise-Grade Technologies & Solutions**
+## 🚀 Core Technology Expertise
+**Modern Full-Stack Development & Enterprise Solutions**
 
-### Frontend Development
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### Frontend & UI Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & APIs
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-FF6600?style=for-the-badge&logo=signalr&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### Cloud & DevOps
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Databases & Storage
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=azure-cosmos-db&logoColor=white)
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
