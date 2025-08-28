@@ -199,293 +199,70 @@
 </div>
 
 <!--START_SECTION:waka-->
-<div align="center">
-
-### 📊 Advanced Metrics
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%2C153%20hrs%2056%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.1%20million%20lines%20of%20code-blue)
-![Profile Views](https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet)
 
-</div>
+**🐱 My GitHub Data** 
 
-**🐱 GitHub Analytics**
-
-> 📦 **2.2 MB** Storage Used • 🏆 **1,075** Contributions (2025) • 💼 **Opted to Hire** • 📜 **117** Public Repos • 🔑 **250** Private Repos
-
-**🎯 Productivity Insights**
-
-```text
-🌞 Morning    12673 commits    ██████░░░░░░░░░░░░░░░░░░░   22.01 %
-🌆 Daytime    20643 commits    █████████░░░░░░░░░░░░░░░░   35.85 %
-🌃 Evening    10413 commits    █████░░░░░░░░░░░░░░░░░░░░   18.09 %
-🌙 Night      13848 commits    ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-```
-
-📅 **Peak Productivity: Thursday**
+> 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 117 Public Repositories 
+ > 
+> 🔑 250 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-Monday       6290 commits     ███░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Tuesday      6612 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-Wednesday    8526 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.81 %
-Thursday     11326 commits    █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-Friday       10416 commits    █████░░░░░░░░░░░░░░░░░░░░   18.09 %
-Saturday     6831 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Sunday       7576 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16 %
+🌞 Morning                12724 commits       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+🌆 Daytime                20766 commits       █████████░░░░░░░░░░░░░░░░   35.86 % 
+🌃 Evening                10499 commits       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+🌙 Night                  13922 commits       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
 ```
-
-📅 **Most Productive: Thursday**
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       6290 commits     ███░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Tuesday      6612 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-Wednesday    8526 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.81 %
-Thursday     11326 commits    █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-Friday       10416 commits    █████░░░░░░░░░░░░░░░░░░░░   18.09 %
-Saturday     6831 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Sunday       7576 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16 %
+Monday                   6354 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Tuesday                  6665 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Wednesday                8601 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Thursday                 11386 commits       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Friday                   10448 commits       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Saturday                 6845 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Sunday                   7612 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 ```
 
-<details>
-<summary><strong>🔍 Detailed Weekly Breakdown</strong></summary>
-<br>
 
-**This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages:
-TypeScript               8 hrs 1 min         ████████████░░░░░░░░░░░░░   47.53 %
-Markdown                 2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 %
-JSON                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 %
-Bash                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Git Config               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+💬 Programming Languages: 
+TypeScript               2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+Markdown                 2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+JSON                     2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Bash                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Makefile                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 
-**Top Languages by Repository**
+**I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               33 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-Shell                    11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Jupyter Notebook         9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Swift                    7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+TypeScript               33 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Shell                    11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Jupyter Notebook         9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Swift                    7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
-</details>
 
-### 🏆 Advanced Achievements & Trends
-
-<div align="center">
-
-#### 🔥 Coding Streaks & Milestones
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush97&theme=radical&hide_border=true" alt="GitHub Streak" width="400"/>
-
-#### 📈 Productivity Trends
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush97&theme=radical&hide_border=true&height=300" alt="Activity Graph" width="400"/>
-
-</div>
-
----
-
-## 📊 Custom Analytics Dashboard
-
-<div align="center">
-
-### 🎯 Real-Time Developer Metrics
-
-| Metric                  | Value  | Industry Comparison | Status         |
-| ----------------------- | ------ | ------------------- | -------------- |
-| **GitHub Followers**    | 390    | Top 15%             | 🟢 Growing     |
-| **Public Repositories** | 117    | Top 20%             | 🟢 Active      |
-| **Repository Stars**    | 40+    | Top 25%             | 🟡 Building    |
-| **Profile Views**       | 8,000+ | Top 10%             | 🟢 Trending    |
-| **Years Active**        | 9+     | Veteran             | 🟢 Established |
-
-### 🚀 Repository Performance Analysis
-
-#### Top Performing Repositories (Real Data)
-
-| Repository          | Stars | Forks | Language | Status    |
-| ------------------- | ----- | ----- | -------- | --------- |
-| **PiyushMehta.com** | 30 ⭐ | 27 🍴 | Astro    | 🟢 Active |
-| **piyush97**        | 10 ⭐ | 12 🍴 | Markdown | 🟢 Active |
-| **homelab-gitops**  | 0 ⭐  | 0 🍴  | HCL      | 🆕 New    |
-| **homelab-docs**    | 0 ⭐  | 0 🍴  | Docs     | 🆕 New    |
-
-#### Repository Health Score
-
-- **Average Stars/Repo**: 8.5 ⭐
-- **Fork Rate**: 23% 📈
-- **Active Projects**: 5+ 🌟
-- **Technology Diversity**: 6+ languages 🛠️
-
-### 📈 Technology Trend Comparison
-
-#### JavaScript Ecosystem Analysis (Real Data)
-
-| Technology     | Piyush's Usage   | Industry Trend           | Alignment       |
-| -------------- | ---------------- | ------------------------ | --------------- |
-| **React**      | Primary Frontend | 238K ⭐ (facebook/react) | 🟢 Excellent    |
-| **Next.js**    | Full-Stack Apps  | 134K ⭐ (vercel/next.js) | 🟢 Excellent    |
-| **Astro**      | Modern Sites     | Emerging Framework       | 🟢 Leading Edge |
-| **TypeScript** | Type Safety      | Industry Standard        | 🟢 Excellent    |
-| **Node.js**    | Backend APIs     | 49K ⭐ (nodejs/node)     | 🟢 Strong       |
-
-#### Industry Benchmarking
-
-- **React Usage**: Matches 95% of top JS projects
-- **TypeScript Adoption**: Above industry average
-- **Modern Frameworks**: Leading with Astro adoption
-- **Full-Stack Capability**: Comprehensive technology stack
-
-### 🎖️ Achievement Unlocks
-
-<div align="center">
-
-#### 🏆 Developer Milestones
-
-- ✅ **Century Club**: 100+ Public Repositories
-- ✅ **Star Collector**: 40+ Repository Stars Earned
-- ✅ **Community Builder**: 390+ GitHub Followers
-- ✅ **Content Creator**: Technical Writer & Educator
-- 🔄 **Open Source Champion**: 25+ Projects (In Progress)
-- 🔄 **Global Reach**: Content in 50+ Countries (In Progress)
-
-#### 🎯 2025 Goals Progress
-
-<div align="center">
-
-| Goal                    | Current | Target | Progress         | Status          |
-| ----------------------- | ------- | ------ | ---------------- | --------------- |
-| **Repository Stars**    | 40 ⭐   | 100 ⭐ | ████████░░░░ 40% | 🔄 In Progress  |
-| **GitHub Followers**    | 390 👥  | 500 👥 | ████████░░░░ 78% | 🔄 In Progress  |
-| **Public Repos**        | 117 📁  | 125 📁 | ██████████░░ 94% | 🟢 Almost There |
-
-
-</div>
-
-### 🎮 Skill Leveling System
-
-<div align="center">
-
-#### 🔧 Technical Skills Progression
-
-| Skill          | Level | XP    | Progress         | Next Milestone     |
-| -------------- | ----- | ----- | ---------------- | ------------------ |
-| **React**      | 45    | 2,250 | ██████████░░ 90% | Expert Level       |
-| **TypeScript** | 42    | 2,100 | ██████████░░ 84% | Advanced Level     |
-| **Node.js**    | 38    | 1,900 | ████████░░░░ 76% | Advanced Level     |
-| **Python**     | 35    | 1,750 | ████████░░░░ 70% | Intermediate Level |
-| **DevOps**     | 33    | 1,650 | ████████░░░░ 66% | Intermediate Level |
-
-#### 📊 Productivity Metrics
-
-| Metric              | This Month | Last Month | Trend   | Score  |
-| ------------------- | ---------- | ---------- | ------- | ------ |
-| **Commits**         | 47         | 52         | 📉 -10% | 85/100 |
-| **PRs Created**     | 3          | 5          | 📉 -40% | 60/100 |
-| **Issues Resolved** | 12         | 8          | 📈 +50% | 95/100 |
-| **Code Reviews**    | 8          | 6          | 📈 +33% | 90/100 |
-
-</div>
-
-</div>
-
-</div>
-
-### 🎖️ Key Achievements & Stats
-
-<div align="center">
-
-#### 🏆 Achievement Score: **2,847 XP**
-
-| Category          | Score    | Rank          | Progress       |
-| ----------------- | -------- | ------------- | -------------- |
-| **Coding Time**   | 1,200 XP | 🥇 Expert     | 8,153+ hrs     |
-| **Contributions** | 850 XP   | 🥇 Master     | 1,075+ commits |
-| **Repositories**  | 400 XP   | 🥇 Creator    | 117 repos      |
-| **Community**     | 397 XP   | 🥈 Influencer | 390 followers  |
-
-#### 🎮 Developer Level: **SENIOR ARCHITECT** (Level 47)
-
-```
-███████████████████████████████░ 94% to Level 48
-Current XP: 2,847 | Next Level: 3,000 XP | XP to Next: 153
-```
-
-</div>
-
-### 🏅 Achievement Unlocks
-
-<div align="center">
-
-#### 🥇 Platinum Achievements
-
-- ✅ **Century Club**: 100+ Public Repositories (117 achieved)
-- ✅ **Star Collector**: 40+ Repository Stars Earned
-- ✅ **Community Builder**: 390+ GitHub Followers
-- ✅ **Content Creator**: Technical Writer & Educator
-
-#### 🥈 Gold Achievements
-
-- ✅ **Open Source Champion**: 25+ Projects Maintained
-- ✅ **Global Reach**: Content in 50+ Countries
-- 🔄 **Technical Author**: 10+ Published Articles (7/10)
-- 🔄 **Conference Speaker**: 5+ Talks Delivered (3/5)
-
-#### 🥉 Silver Achievements
-
-- ✅ **Full-Stack Master**: 8+ Technology Stacks
-- ✅ **Quick Responder**: <24hr Response Time
-- 🔄 **Mentor**: 10+ Developers Guided (6/10)
-- 🔄 **Startup Advisor**: 3+ Companies Consulted (1/3)
-
-</div>
-
-### 🏅 Certifications & Skills
-
-<div align="center">
-
-#### 🎓 Professional Certifications
-
-<img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
-<img src="https://img.shields.io/badge/Microsoft%20Certified-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-
-#### 💡 Technical Expertise
-
-<img src="https://img.shields.io/badge/Full%20Stack-FF6B6B?style=for-the-badge&logo=stackshare&logoColor=white" alt="Full Stack"/>
-<img src="https://img.shields.io/badge/DevOps-4A90E2?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps"/>
-<img src="https://img.shields.io/badge/Architecture-6B46C1?style=for-the-badge&logo=architect&logoColor=white" alt="Architecture"/>
-
-#### 🚀 Specializations
-
-<img src="https://img.shields.io/badge/Microservices-FF4081?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices"/>
-<img src="https://img.shields.io/badge/Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cloud Native"/>
-<img src="https://img.shields.io/badge/AI%2FML-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
-
-</div>
-
-### 📊 Milestone Tracker
-
-<div align="center">
-
-| Milestone               | Status         | Progress        |
-| ----------------------- | -------------- | --------------- |
-| 🎯 10,000 Coding Hours  | ✅ Complete    | 8,153+ hrs      |
-| 📚 100 Public Repos     | ✅ Complete    | 117 repos       |
-| 🌟 1,000 Contributions  | ✅ Complete    | 1,075+ contribs |
-| 🏆 GitHub Star Achiever | 🔄 In Progress | 500+ stars      |
-| 📝 Technical Author     | ✅ Complete    | 100+ articles   |
-
-</div>
 
 **Timeline**
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png" alt="Coding Timeline Chart" width="400"/>
 
-<p align="center"><em>Last Updated: 27/08/2025 00:55:31 UTC</em></p>
+![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
+
+
+ Last Updated on 28/08/2025 00:56:29 UTC
 <!--END_SECTION:waka-->
 
 ---
