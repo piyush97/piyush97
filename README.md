@@ -199,7 +199,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C247%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C260%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.6%20million%20lines%20of%20code-blue)
 
@@ -240,11 +240,11 @@ Sunday                   7679 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 55 mins       ███████████████████░░░░░░   74.11 % 
-Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Bash                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+TypeScript               18 hrs 56 mins      ███████████████████░░░░░░   77.02 % 
+Markdown                 2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Bash                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Other                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -264,7 +264,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2025 01:00:07 UTC
+ Last Updated on 26/10/2025 01:00:47 UTC
 <!--END_SECTION:waka-->
 
 ---
