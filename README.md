@@ -199,7 +199,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C340%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C340%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.6%20million%20lines%20of%20code-blue)
 
@@ -240,9 +240,11 @@ Sunday                   7679 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               33 mins             █████████████████████████   98.42 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JavaScript               33 mins             ████████████░░░░░░░░░░░░░   49.53 % 
+Bash                     20 mins             ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+JSON                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -262,7 +264,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2025 00:59:20 UTC
+ Last Updated on 04/12/2025 01:00:42 UTC
 <!--END_SECTION:waka-->
 
 ---
