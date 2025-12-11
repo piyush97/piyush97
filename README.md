@@ -240,10 +240,7 @@ Sunday                   7679 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     20 mins             ███████████████░░░░░░░░░░   59.57 % 
-JSON                     12 mins             █████████░░░░░░░░░░░░░░░░   36.64 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -263,7 +260,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2025 01:01:14 UTC
+ Last Updated on 11/12/2025 01:01:22 UTC
 <!--END_SECTION:waka-->
 
 ---
