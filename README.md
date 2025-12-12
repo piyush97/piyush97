@@ -199,7 +199,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C340%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C343%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.6%20million%20lines%20of%20code-blue)
 
@@ -240,7 +240,10 @@ Sunday                   7679 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 18 mins        ███████████░░░░░░░░░░░░░░   45.37 % 
+JSON                     1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   39.61 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -260,7 +263,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 01:01:22 UTC
+ Last Updated on 12/12/2025 01:01:02 UTC
 <!--END_SECTION:waka-->
 
 ---
