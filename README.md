@@ -199,6 +199,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C370%20hrs%2041%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.66%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -213,6 +215,34 @@
  > 
 > 🔑 253 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12812 commits       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+🌆 Daytime                20974 commits       █████████░░░░░░░░░░░░░░░░   35.87 % 
+🌃 Evening                10680 commits       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+🌙 Night                  14007 commits       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   6381 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Tuesday                  6757 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Wednesday                8687 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Thursday                 11471 commits       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Friday                   10513 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Saturday                 6985 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Sunday                   7679 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -230,7 +260,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 01:15:15 UTC
+ Last Updated on 03/02/2026 01:17:26 UTC
 <!--END_SECTION:waka-->
 
 ---
