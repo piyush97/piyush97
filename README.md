@@ -207,11 +207,11 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2026
+> 🏆 35 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 117 Public Repositories 
+> 📜 118 Public Repositories 
  > 
 > 🔑 253 Private Repositories 
  > 
@@ -246,10 +246,10 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               109 repos           ████████░░░░░░░░░░░░░░░░░   31.41 % 
-TypeScript               35 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Shell                    10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JavaScript               109 repos           ████████░░░░░░░░░░░░░░░░░   31.32 % 
+TypeScript               35 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Shell                    10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 
@@ -260,7 +260,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 01:14:08 UTC
+ Last Updated on 21/02/2026 01:11:53 UTC
 <!--END_SECTION:waka-->
 
 ---
