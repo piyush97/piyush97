@@ -199,7 +199,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C540%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C541%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -240,9 +240,9 @@ Sunday                   7732 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 22 mins      ██████████████████░░░░░░░   71.09 % 
-Python                   8 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-Bash                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Other                    22 hrs 23 mins      ██████████████████░░░░░░░   72.03 % 
+Python                   8 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Bash                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
@@ -264,7 +264,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2026 01:25:44 UTC
+ Last Updated on 01/04/2026 01:37:44 UTC
 <!--END_SECTION:waka-->
 
 ---
