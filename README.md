@@ -240,8 +240,8 @@ Sunday                   7732 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 10 mins      █████████████████████████   99.43 % 
-TeX                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Other                    11 hrs              █████████████████████████   99.26 % 
+TeX                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -261,7 +261,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2026 01:28:37 UTC
+ Last Updated on 06/04/2026 01:32:56 UTC
 <!--END_SECTION:waka-->
 
 ---
