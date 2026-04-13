@@ -199,7 +199,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C564%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C566%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -240,10 +240,10 @@ Sunday                   7732 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 31 mins      █████████████████████████   99.84 % 
-Desktop file             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    15 hrs 33 mins      █████████████████████████   99.86 % 
+Desktop file             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -263,7 +263,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 01:31:29 UTC
+ Last Updated on 13/04/2026 01:32:45 UTC
 <!--END_SECTION:waka-->
 
 ---
