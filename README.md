@@ -282,24 +282,16 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-📌 **[The 30-Year-Old 'Impossible' Algorithm That Makes Netflix Instant](https://piyushmehta.com/blog/bloom-filters/)** - Bloom Filters Explained  
-📌 **[AI Killed My Impostor Syndrome](https://piyushmehta.com/blog/ai-killed-my-impostor-syndrome/)** - Personal Growth Story  
-📌 **[From Nginx Proxy Manager to SWAG](https://piyushmehta.com/blog/migrating-nginx-proxy-manager-to-swag/)** - Migration Guide  
-📌 **[Leveraging AI in Coding Workflow](https://piyushmehta.com/blog/leveraging-ai-in-coding-workflow/)** - Productivity Tips  
-📌 **[Astro 5.9: Content Security Policy](https://piyushmehta.com/blog/astro-v5-9-content-security-policy/)** - Web Security
-
-<details>
-<summary><strong>🔍 View More Posts</strong></summary>
-<br>
-
-📌 **[Migrating Legacy Codebase to Astro](https://piyushmehta.com/blog/migrating-legacy-codebase-to-astro/)** - Architecture Journey  
-📌 **[NestJS, RabbitMQ & Azure Queue System](https://piyushmehta.com/blog/rabbit-mq/)** - Backend Development  
-📌 **[ChatGPT & AI Chatbot Guide](https://piyushmehta.com/blog/chat-bot/)** - AI Solutions  
-📌 **[Build Your Own Blog](https://piyushmehta.com/blog/how-to-make-your-own-blog/)** - Tutorial  
-📌 **[Hacktoberfest Beginner Guide](https://piyushmehta.com/blog/hacktoberfest/)** - Open Source
-
-</details>
+- [Zero-Downtime Database Migration: Scaling from 10M to 100M Users](https://piyushmehta.com/blog/zero-downtime-database-migration-at-scale/)
+- [The 30-Year-Old &#39;Impossible&#39; Algorithm That Makes Netflix Instant &lpar;And Why Your Computer Still Sucks&rpar;](https://piyushmehta.com/blog/bloom-filters/)
+- [AI Killed My Impostor Syndrome &lpar;And It Might Kill Yours Too&rpar;](https://piyushmehta.com/blog/ai-killed-my-impostor-syndrome/)
+- [From Nginx Proxy Manager to SWAG: A Powerful Migration Journey](https://piyushmehta.com/blog/migrating-nginx-proxy-manager-to-swag/)
+- [How to Stay Ahead by Leveraging AI in Your Coding Workflow](https://piyushmehta.com/blog/leveraging-ai-in-coding-workflow/)
+- [Astro 5.9: Revolutionizing Web Security with Built-in Content Security Policy Support](https://piyushmehta.com/blog/astro-v5-9-content-security-policy/)
+- [Migrating a 6-Year-Old Codebase to Astro: A Strategic Architecture Journey](https://piyushmehta.com/blog/migrating-legacy-codebase-to-astro/)
+- [Building a Hare-raisingly Good Queue-based Messaging System with NestJS, RabbitMQ, and Azure](https://piyushmehta.com/blog/rabbit-mq/)
+- [🔥 A Beginner’s Guide to ChatGPT and Ai based Chat bot solutions for individuals and enterprise](https://piyushmehta.com/blog/chat-bot/)
+- [How to make your own blog like this website!](https://piyushmehta.com/blog/how-to-make-your-own-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
