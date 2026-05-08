@@ -199,7 +199,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C638%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C638%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.60%20million%20lines%20of%20code-blue?style=flat)
 
@@ -240,8 +240,7 @@ Sunday                   7799 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 47 mins      █████████████████████████   98.71 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Other                    7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -261,7 +260,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 01:48:42 UTC
+ Last Updated on 08/05/2026 01:51:04 UTC
 <!--END_SECTION:waka-->
 
 ---
