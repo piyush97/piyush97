@@ -1,200 +1,124 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Piyush+Mehta+👋;Senior+Technology+Consultant;Full-Stack+Developer+%26+Architect;Open+Source+Enthusiast;Always+Learning%2C+Always+Building)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Piyush+Mehta+%F0%9F%91%8B;Senior+Software+Engineer;TypeScript+%C2%B7+React+%C2%B7+Next.js;Node.js+%C2%B7+NestJS+%C2%B7+Azure;AI%2FLLM+Integrations+%26+Architecture;Building+for+Scale)
 
-<div align="center">
+<a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/Portfolio-piyushmehta.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/PiyushMehtas"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
-<a href="https://twitter.com/PiyushMehtas"><img src="https://img.shields.io/badge/🐦_Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/piyush97"><img src="https://img.shields.io/badge/💻_GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet" alt="Profile Views"/>
 
-</div>
-
-### 🎯 **Building the Future, One Line of Code at a Time**
-
-<!-- Mobile responsiveness handled via GitHub's native markdown -->
-
-</div>
-<img width="100%" src="assets/banner.jpg" alt="Piyush Mehta - Portfolio Banner"/>
-<h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" alt="Coding GIF"/>
-
-<p><a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/-piyush24-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/piyush24/" alt="Linkedin Badge"></a>
-<a href="https://medium.com/@pmcool97"><img src="https://img.shields.io/badge/-pmcool97-black?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@pmcool97" alt="Medium Badge"></a>
-<a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/-piyushmehta.com-47CCCC?style=flat&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://piyushmehta.com" alt="Website Badge"></a>
-<a href="https://twitter.com/PiyushMehtas"><img src="https://img.shields.io/badge/-@PiyushMehtas-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/PiyushMehtas" alt="Twitter Badge"></a>
-<a href="https://instagram.com/coderwhoknows"><img src="https://img.shields.io/badge/-@coderwhoknows-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/coderwhoknows/" alt="Instagram Badge"></a>
-<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/-piyushmehta-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:me@piyushmehta.com" alt="Gmail Badge"></a>
-<img src="https://komarev.com/ghpvc/?username=piyush97&amp;style=flat-square&amp;color=blueviolet" alt=""></p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies"/>
-</h1>
-
----
-
-  <img align="right" alt="Coding GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="250" height="180" />
-
-## 🚀 What I'm Up To
-
-<div align="center">
-
-| Role                            | Focus                        | Availability |
-| ------------------------------- | ---------------------------- | ------------ |
-| 💼 **Senior Software Engineer** | Microsoft Stack & Full-Stack | Full-time    |
-| 📝 **Technical Writer**         | Educational Content Creation | Daily        |
-| 🔧 **Technical Consultant**     | Architecture & DevOps        | On-demand    |
-| 🤝 **Open Source Contributor**  | Web Technologies             | Active       |
-
-</div>
-
-### 🎯 Current Focus Areas
-
-- 🔥 **Microsoft Stack** - .NET, Azure, C#
-- 🌐 **Full-Stack Development** - React, Node.js, TypeScript
-- 📚 **Learning** - Economics & Emerging Technologies
-- 💬 **Available for** - Consulting, mentoring, technical discussions
-
-### 🤝 Collaboration Interests
-
-- 🚀 **Open Source** projects
-- 📝 **Technical writing** & blogging
-- 🎥 **Educational content** creation
-- 💼 **Startup consulting** & architecture
-
----
-
-### 🔴 Live Status Dashboard
-
-| Service              | Status        | Response Time | Last Updated |
-| -------------------- | ------------- | ------------- | ------------ |
-| **GitHub Profile**   | 🟢 Online     | Real-time     | 2025-08-27   |
-| **Personal Website** | 🟢 Online     | <100ms        | Daily        |
-
-| **LinkedIn**         | 🟢 Available  | <24hrs        | Daily        |
-| **Email**            | 🟢 Responsive | <4hrs         | Daily        |
-
-### 🎮 Interactive Quick Actions
-
-[<img src="https://img.shields.io/badge/💼_Hire_Me-Click%20Here-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Me"/>](mailto:me@piyushmehta.com?subject=Job%20Opportunity&body=Hi%20Piyush,%20I'm%20interested%20in%20discussing%20a%20potential%20collaboration...)
-[<img src="https://img.shields.io/badge/🤝_Collaborate-Let's%20Build-blue?style=for-the-badge&logo=github&logoColor=white" alt="Collaborate"/>](https://github.com/piyush97/piyush97/issues/new?title=Collaboration%20Proposal&body=Hi!%20I'd%20love%20to%20collaborate%20on...)
-[<img src="https://img.shields.io/badge/💬_Chat-Coffee%20Chat-orange?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee Chat"/>](https://calendly.com/piyushmehta)
-
-</div>
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-### 🌟 Let's Build Something Together!
-
-#### 🌐 Primary Contact Methods
-<a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
-<a href="https://twitter.com/PiyushMehtas"><img src="https://img.shields.io/badge/🐦_Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><br>
-<a href="https://github.com/piyush97"><img src="https://img.shields.io/badge/💻_GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-#### 🎮 Interactive Actions
-
-[<img src="https://img.shields.io/badge/📋_View_Resume-Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume"/>](https://piyushmehta.com/resume)
-[<img src="https://img.shields.io/badge/📅_Book_Meeting-Schedule-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Book Meeting"/>](https://calendly.com/piyushmehta)
-[<img src="https://img.shields.io/badge/💡_Request_Feature-Contribute-orange?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Feature Request"/>](https://github.com/piyush97/piyush97/issues/new?title=Feature%20Request&body=I'd%20love%20to%20see...)
-[<img src="https://img.shields.io/badge/💼_Hire_Me-Click%20Here-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Me"/>](mailto:me@piyushmehta.com?subject=Job%20Opportunity&body=Hi%20Piyush,%20I'm%20interested%20in%20discussing%20a%20potential%20collaboration...)
+<img src="https://github-profile-trophy.vercel.app/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 📋 Quick Navigation
+<img align="right" alt="Coding GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="250" height="180" />
 
-<details>
-<summary><strong>📋 Table of Contents</strong></summary>
-<br>
+## 🚀 About Me
 
-### 👤 About
-- [🚀 What I'm Up To](#-what-im-up-to)
-- [📬 Let's Connect!](#-lets-connect)
+| | |
+|---|---|
+| 💼 **Role** | Senior Software Engineer |
+| 🔥 **Focus** | Full-Stack · AI/LLM · Architecture |
+| 🌐 **Stack** | TypeScript · React · Next.js · Node.js · NestJS |
+| ☁️ **Cloud** | Azure · Vercel · Docker |
+| 📝 **Writing** | [piyushmehta.com](https://piyushmehta.com) |
+| 💬 **Open to** | Consulting · Mentoring · Collaboration |
 
-### 💻 Technical Profile
+### What I'm building
 
-- [🛠️ Tech Stack & Tools](#️-tech-stack--tools)
-- [🚀 Resume](#-resume)
-- [📊 Coding Activity & Stats](#-coding-activity--stats)
+- 🤖 Integrating **AI/LLM** capabilities into production apps (Claude, OpenAI, RAG pipelines)
+- 🏗️ Designing scalable **distributed systems** and cloud architectures
+- 🌐 Full-stack apps with **Next.js**, NestJS, TypeScript end-to-end
+- 📦 Contributing to **open source** and writing technical deep-dives
 
-### 📈 Activity & Content
+---
 
-- [⚡ Recent Activity](#-recent-activity)
-- [📝 Latest Blog Posts](#-latest-blog-posts)
-- [🤝 Community & Collaboration](#-community--collaboration)
+## 🐍 Contribution Snake
 
-### 📊 Analytics & Insights
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
-- [📊 Custom Analytics Dashboard](#-custom-analytics-dashboard)
-- [📈 GitHub Analytics](#-github-analytics)
-- [🌟 Dynamic Content Hub](#-dynamic-content-hub)
-- [📈 Advanced Progress Tracking](#-advanced-progress-tracking)
-- [😄 Random Tech Joke](#-random-tech-joke)
+---
 
-</details>
+## 🛠️ Tech Stack
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg" />
+### Languages & Frameworks
 
-### 🌐 Connect with me:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI / LLM
+
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Cloud, DevOps & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[<img src="https://img.icons8.com/color/48/000000/internet--v2.png" alt="Website" width="32" height="32"/>][website]
-[<img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" width="32" height="32"/>][twitter]
-[<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" alt="LinkedIn" width="32" height="32"/>][linkedin]
-[<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" width="32" height="32"/>][instagram]
+<img src="https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true" alt="Top Languages" width="40%"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush97&theme=radical&hide_border=true&height=300" alt="Contribution Graph" width="95%"/>
 
 </div>
 
-### 🛠️ Tech Stack & Tools
-
-<details>
-<summary><strong>Click to expand my technology stack</strong></summary>
-<br>
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdev]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdev]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdev]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][webdev]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdev]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdev]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdev]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdev]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdev]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdev]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdev]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdev]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdev]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdev]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdev]
-<br>
-
-</details>
-
 ---
 
-### 🚀 Resume
-
-<details>
-<summary><strong>📄 View My Resume</strong></summary>
-<br>
-
-<img src="_resume_.gif" alt="Piyush Mehta's Resume" width="400"/>
-
-</details>
-
----
-
-### 📊 Coding Activity & Stats
+## 📌 Featured Projects
 
 <div align="center">
-<img src="https://wakatime.com/share/@piyush97/45fc79fd-9f27-4e60-b777-a2143000a0ba.png" width="350" alt="Wakatime Stats"/>
+
+<a href="https://github.com/piyush97/awesome-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" width="49%"/>
+</a>
+<a href="https://github.com/piyush97/GitCompete">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=GitCompete&theme=radical&hide_border=true" width="49%"/>
+</a>
+<a href="https://github.com/piyush97/Slika-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=Slika-API&theme=radical&hide_border=true" width="49%"/>
+</a>
+<a href="https://github.com/piyush97/saas-startup">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=saas-startup&theme=radical&hide_border=true" width="49%"/>
+</a>
+
+</div>
+
+---
+
+## ⏱️ Coding Activity
+
+<div align="center">
+<img src="https://wakatime.com/share/@piyush97/45fc79fd-9f27-4e60-b777-a2143000a0ba.png" width="350" alt="Wakatime Languages"/>
 <img src="https://wakatime.com/share/@piyush97/b809684b-ced7-42f9-a27f-baebac423df9.png" width="350" alt="Wakatime Activity"/>
 </div>
 
@@ -265,18 +189,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 ---
 
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#21701](https://github.com/xbmc/xbmc/issues/21701#issuecomment-2755175497) in [xbmc/xbmc](https://github.com/xbmc/xbmc)
-2. 💪 Opened PR [#20](https://github.com/SlideFusion/SlideFusion/pull/20) in [SlideFusion/SlideFusion](https://github.com/SlideFusion/SlideFusion)
-3. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2735012152) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
-4. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2734984237) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
-5. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
-<!--END_SECTION:activity-->
-
-### 📝 Latest Blog Posts
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [From macOS to Arch Linux with Omarchy: A Developer&#39;s Journey to True Productivity](https://piyushmehta.com/blog/macos-to-arch-linux-omarchy-developer-productivity/)
@@ -288,221 +201,40 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 - [Astro 5.9: Revolutionizing Web Security with Built-in Content Security Policy Support](https://piyushmehta.com/blog/astro-v5-9-content-security-policy/)
 - [Migrating a 6-Year-Old Codebase to Astro: A Strategic Architecture Journey](https://piyushmehta.com/blog/migrating-legacy-codebase-to-astro/)
 - [Building a Hare-raisingly Good Queue-based Messaging System with NestJS, RabbitMQ, and Azure](https://piyushmehta.com/blog/rabbit-mq/)
-- [🔥 A Beginner’s Guide to ChatGPT and Ai based Chat bot solutions for individuals and enterprise](https://piyushmehta.com/blog/chat-bot/)
+- [🔥 A Beginner's Guide to ChatGPT and Ai based Chat bot solutions for individuals and enterprise](https://piyushmehta.com/blog/chat-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
-➡️ <a href="https://piyushmehta.com"><strong>Read More on My Blog</strong></a>
+➡️ <a href="https://piyushmehta.com"><strong>Read all posts on my blog</strong></a>
 </div>
 
 ---
 
-## 🌟 Dynamic Content Hub
+## ⚡ Recent Activity
 
-<div align="center">
+<!--START_SECTION:activity-->
 
-### 📊 Live Developer Statistics
-
-| Metric               | Real-time Value                                                             | Trend   | Last Updated |
-| -------------------- | --------------------------------------------------------------------------- | ------- | ------------ |
-| **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/piyush97?style=social) | 📈 +12% | Today        |
-| **Repository Stars** | ![Stars](https://img.shields.io/github/stars/piyush97?style=social)         | 📈 +8%  | Today        |
-| **Profile Views**    | 8,000+                                                                      | 📈 +15% | This Week    |
-| **Commits (2025)**   | 1,075+                                                                      | 📈 +23% | This Year    |
-
-### 🔥 Trending Technologies (Real Data)
-
-#### JavaScript Ecosystem Leaders
-
-| Framework                 | Stars   | Trend     | Piyush's Usage    |
-| ------------------------- | ------- | --------- | ----------------- |
-| **React**                 | 238K ⭐ | 🟢 Hot    | Primary Frontend  |
-| **Next.js**               | 134K ⭐ | 🟢 Rising | Full-Stack Apps   |
-| **JavaScript Algorithms** | 193K ⭐ | 🟢 Stable | Learning Resource |
-| **Airbnb Style Guide**    | 147K ⭐ | 🟢 Stable | Code Standards    |
-
-#### 🚀 Emerging Technologies
-
-- **Astro** - Modern web framework (Piyush's specialty)
-- **TypeScript** - Industry standard (Piyush's expertise)
-- **WebAssembly** - High-performance web apps
-- **Edge Computing** - Distributed computing paradigm
-
-### 🎯 Current Focus & Availability
-
-<div align="center">
-
-#### ⏰ Response Times
-
-- **Email**: <4 hours ⏱️
-- **LinkedIn**: <24 hours ⏱️
-- **GitHub Issues**: <12 hours ⏱️
-- **Consultation**: <48 hours ⏱️
-
-#### 🎮 Current Status
-
-- **Open to Opportunities**: ✅ Yes
-- **Available for Consulting**: ✅ Yes
-- **Accepting Projects**: ✅ Yes
-- **Remote Work**: ✅ Preferred
-
-</div>
-
-</div>
-
-## 🤝 Community & Collaboration
-
-<div align="center">
-
-### 🌟 Community Impact
-
-<img src="https://img.shields.io/badge/GitHub%20Followers-1.2K+-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers"/>
-<img src="https://img.shields.io/badge/LinkedIn%20Connections-5K+-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connections"/>
-
-### 🤝 Collaboration Network
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook" alt="Top Languages" width="300"/>
-
-### 📈 Community Engagement
-
-- **📚 Open Source**: Active contributor to 25+ projects
-- **💬 Community**: Regular speaker at tech meetups
-- **🌍 Global Reach**: Content viewed in 50+ countries
-
-</div>
-
-### 💬 What People Say
-
-<div align="center">
-
-> "Piyush's technical expertise and problem-solving skills are exceptional. His guidance helped our team deliver complex projects successfully!" - Sarah M., Software Developer
-
-> "The depth of knowledge and practical examples in his blog posts are outstanding. Highly recommended!" - Alex K., Tech Lead
-
-> "Piyush's open source contributions have been invaluable to our development community." - Maria L., OSS Contributor
-
-</div>
+1. 🗣 Commented on [#21701](https://github.com/xbmc/xbmc/issues/21701#issuecomment-2755175497) in [xbmc/xbmc](https://github.com/xbmc/xbmc)
+2. 💪 Opened PR [#20](https://github.com/SlideFusion/SlideFusion/pull/20) in [SlideFusion/SlideFusion](https://github.com/SlideFusion/SlideFusion)
+3. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2735012152) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
+4. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2734984237) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
+5. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
+<!--END_SECTION:activity-->
 
 ---
 
-<details>
-<summary><strong>📈 GitHub Analytics</strong></summary>
-<br>
-
-### Languages Overview
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook" alt="Top Programming Languages" width="300"/>
-
-### GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true&show_icons=true" alt="GitHub Statistics" width="400"/>
-
-### 📊 Detailed Contribution Insights
-
 <div align="center">
 
-#### 🗓️ Contribution Calendar
+### Let's build something great together
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush97&theme=radical&hide_border=true&height=300" alt="Contribution Graph" width="400"/>
-
-#### 📈 Repository Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=piyush97&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="Repository Stats" width="400"/>
-
-#### 🏆 Achievement Highlights
-
-- **Most Active Day**: Thursday (19.67% of contributions)
-- **Peak Coding Hours**: 35.85% of work done during daytime
-- **Language Diversity**: 8+ programming languages mastered
-- **Project Categories**: Full-stack, DevOps, AI/ML, Cloud Architecture
+<a href="mailto:me@piyushmehta.com?subject=Let's%20Collaborate&body=Hi%20Piyush,"><img src="https://img.shields.io/badge/Hire%20Me-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Me"/></a>
+<a href="https://calendly.com/piyushmehta"><img src="https://img.shields.io/badge/Book%20a%20Call-blue?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a Call"/></a>
+<a href="https://piyushmehta.com/resume"><img src="https://img.shields.io/badge/View%20Resume-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/></a>
 
 </div>
-
----
-
-## 📈 Advanced Progress Tracking
-
-<div align="center">
-
-### 🎯 2025 Development Goals
-
-#### 📊 Quantitative Metrics
-
-| Goal Category           | Current       | Target        | Progress         | Status             |
-| ----------------------- | ------------- | ------------- | ---------------- | ------------------ |
-| **Code Contributions**  | 1,075 commits | 1,500 commits | ████████░░ 72%   | 🔄 On Track        |
-| **Repository Stars**    | 40 ⭐         | 100 ⭐        | ████████░░ 40%   | 🔄 In Progress     |
-| **Public Repositories** | 117 📁        | 125 📁        | ██████████░░ 94% | 🟢 Almost Complete |
-| **GitHub Followers**    | 390 👥        | 500 👥        | ████████░░ 78%   | 🔄 In Progress     |
-
-#### 🚀 Qualitative Achievements
-
-| Achievement              | Progress            | Status      | Next Milestone  |
-| ------------------------ | ------------------- | ----------- | --------------- |
-| **Open Source Champion** | 25/25 projects      | ✅ Complete | Maintain & Grow |
-| **Content Creator**      | 100/150 articles   | 🔄 67%      | Reach 120       |
-| **Technical Author**     | 7/10 articles       | 🔄 70%      | 3 more articles |
-| **Community Builder**    | 390/500 followers   | 🔄 78%      | Reach 450       |
-
-### 💪 Skill Development Progress
-
-<div align="center">
-
-#### 🔧 Technical Skills Radar
-
-| Skill Category           | Current Level      | XP Progress  | Next Level |
-| ------------------------ | ------------------ | ------------ | ---------- |
-| **Frontend Development** | Expert (85%)       | ██████████░░ | Master     |
-| **Backend Development**  | Advanced (78%)     | ████████░░░░ | Expert     |
-| **DevOps & Cloud**       | Advanced (72%)     | ████████░░░░ | Expert     |
-| **AI/ML Integration**    | Intermediate (65%) | ███████░░░░░ | Advanced   |
-| **System Architecture**  | Advanced (71%)     | ████████░░░░ | Expert     |
-
-#### 📚 Learning & Growth
-
-| Learning Area           | Progress         | Status         | Time Invested |
-| ----------------------- | ---------------- | -------------- | ------------- |
-| **Economics**           | ███████░░░ 70%   | 🔄 In Progress | 25 hours      |
-| **Advanced TypeScript** | ██████████░░ 85% | 🔄 In Progress | 40 hours      |
-| **Cloud Architecture**  | ████████░░░ 75%  | 🔄 In Progress | 35 hours      |
-| **AI/ML Fundamentals**  | ███████░░░░ 65%  | 🔄 In Progress | 20 hours      |
-
-</div>
-
-### 🏆 Achievement Unlocks Progress
-
-<div align="center">
-
-#### 🎖️ Rare Achievements
-
-- **Century Club** (117/100 repos) ✅ **UNLOCKED**
-- **Star Commander** (40/50 stars) 🔄 80% Complete
-- **Community Leader** (390/500 followers) 🔄 78% Complete
-- **Content Influencer** (100/200 articles) 🔄 50% Complete
-
-#### 🏅 Epic Achievements
-
-- **Full-Stack Architect** (8/8 stacks) ✅ **UNLOCKED**
-- **Open Source Veteran** (9/10 years) 🔄 90% Complete
-- **Global Educator** (500/1000 students) 🔄 50% Complete
-- **Technical Mentor** (6/10 mentees) 🔄 60% Complete
-
-</div>
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>😄 Random Tech Joke</strong></summary>
-<br>
-
-<img src="https://readme-jokes.vercel.app/api" alt="Random Tech Joke" width="400"/>
-
-</details>
 
 [website]: https://piyushmehta.com
-[twitter]: https://twitter.com/PiyushMehtas
+[twitter]: https://x.com/PiyushMehtas
 [instagram]: https://instagram.com/coderwhoknows
 [linkedin]: https://linkedin.com/in/piyush24
 [webdev]: https://piyushmehta.com
