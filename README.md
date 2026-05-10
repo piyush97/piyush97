@@ -85,10 +85,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true" alt="Top Languages" width="40%"/>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush97&theme=radical&hide_border=true&height=300" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush97&theme=radical&hide_border=true&height=300" alt="Contribution Graph"/>
 
 </div>
 
@@ -98,18 +106,32 @@
 
 <div align="center">
 
-<a href="https://github.com/piyush97/awesome-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" width="49%"/>
-</a>
-<a href="https://github.com/piyush97/GitCompete">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=GitCompete&theme=radical&hide_border=true" width="49%"/>
-</a>
-<a href="https://github.com/piyush97/Slika-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=Slika-API&theme=radical&hide_border=true" width="49%"/>
-</a>
-<a href="https://github.com/piyush97/saas-startup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=saas-startup&theme=radical&hide_border=true" width="49%"/>
-</a>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/piyush97/awesome-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" alt="awesome-portfolio"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/piyush97/GitCompete">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=GitCompete&theme=radical&hide_border=true" alt="GitCompete"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/piyush97/Slika-API">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=Slika-API&theme=radical&hide_border=true" alt="Slika-API"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/piyush97/saas-startup">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=saas-startup&theme=radical&hide_border=true" alt="saas-startup"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
