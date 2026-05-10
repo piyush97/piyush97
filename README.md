@@ -88,10 +88,10 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -110,24 +110,24 @@
   <tr>
     <td align="center">
       <a href="https://github.com/piyush97/awesome-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" alt="awesome-portfolio"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" alt="awesome-portfolio"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/piyush97/GitCompete">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=GitCompete&theme=radical&hide_border=true" alt="GitCompete"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=GitCompete&theme=radical&hide_border=true" alt="GitCompete"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/piyush97/Slika-API">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=Slika-API&theme=radical&hide_border=true" alt="Slika-API"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=Slika-API&theme=radical&hide_border=true" alt="Slika-API"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/piyush97/saas-startup">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=saas-startup&theme=radical&hide_border=true" alt="saas-startup"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=saas-startup&theme=radical&hide_border=true" alt="saas-startup"/>
       </a>
     </td>
   </tr>
