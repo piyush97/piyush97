@@ -227,7 +227,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 - [Astro 5.9: Revolutionizing Web Security with Built-in Content Security Policy Support](https://piyushmehta.com/blog/astro-v5-9-content-security-policy/)
 - [Migrating a 6-Year-Old Codebase to Astro: A Strategic Architecture Journey](https://piyushmehta.com/blog/migrating-legacy-codebase-to-astro/)
 - [Building a Hare-raisingly Good Queue-based Messaging System with NestJS, RabbitMQ, and Azure](https://piyushmehta.com/blog/rabbit-mq/)
-- [🔥 A Beginner's Guide to ChatGPT and Ai based Chat bot solutions for individuals and enterprise](https://piyushmehta.com/blog/chat-bot/)
+- [🔥 A Beginner’s Guide to ChatGPT and Ai based Chat bot solutions for individuals and enterprise](https://piyushmehta.com/blog/chat-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
