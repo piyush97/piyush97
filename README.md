@@ -184,6 +184,8 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What I Learned About AI Agents, MCP, and the Next Supply Chain Risk](https://piyushmehta.com/blog/ai-agents-mcp-security-crisis/)
+- [What Happens to the Economy When Tech Companies Mass Lay Off Workers?](https://piyushmehta.com/blog/tech-layoffs-economy-analysis/)
 - [From macOS to Arch Linux with Omarchy: A Developer&#39;s Journey to True Productivity](https://piyushmehta.com/blog/macos-to-arch-linux-omarchy-developer-productivity/)
 - [Zero-Downtime Database Migration: Scaling from 10M to 100M Users](https://piyushmehta.com/blog/zero-downtime-database-migration-at-scale/)
 - [The 30-Year-Old &#39;Impossible&#39; Algorithm That Makes Netflix Instant &lpar;And Why Your Computer Still Sucks&rpar;](https://piyushmehta.com/blog/bloom-filters/)
@@ -192,8 +194,6 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 - [How to Stay Ahead by Leveraging AI in Your Coding Workflow](https://piyushmehta.com/blog/leveraging-ai-in-coding-workflow/)
 - [Astro 5.9: Revolutionizing Web Security with Built-in Content Security Policy Support](https://piyushmehta.com/blog/astro-v5-9-content-security-policy/)
 - [Migrating a 6-Year-Old Codebase to Astro: A Strategic Architecture Journey](https://piyushmehta.com/blog/migrating-legacy-codebase-to-astro/)
-- [Building a Hare-raisingly Good Queue-based Messaging System with NestJS, RabbitMQ, and Azure](https://piyushmehta.com/blog/rabbit-mq/)
-- [🔥 A Beginner’s Guide to ChatGPT and Ai based Chat bot solutions for individuals and enterprise](https://piyushmehta.com/blog/chat-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
