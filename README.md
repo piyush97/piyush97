@@ -145,13 +145,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72.33%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C719%20hrs%201%20min-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72.44%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 210 Contributions in the Year 2026
+> 🏆 212 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -159,6 +161,36 @@
  > 
 > 🔑 255 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                13282 commits       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+🌆 Daytime                22229 commits       █████████░░░░░░░░░░░░░░░░   36.16 % 
+🌃 Evening                11594 commits       █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+🌙 Night                  14367 commits       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   6652 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Tuesday                  7054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Wednesday                9211 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Thursday                 12008 commits       █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Friday                   11002 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Saturday                 7285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Sunday                   8260 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    2 hrs 4 mins        ██████████████████████░░░   86.30 % 
+Kotlin                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -176,7 +208,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 02:11:31 UTC
+ Last Updated on 25/05/2026 02:25:03 UTC
 <!--END_SECTION:waka-->
 
 ---
