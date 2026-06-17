@@ -8,8 +8,8 @@
 <a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet" alt="Profile Views"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<br/>
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
