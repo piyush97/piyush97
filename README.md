@@ -145,7 +145,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C723%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C723%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79.56%20million%20lines%20of%20code-blue?style=flat)
 
@@ -186,11 +186,11 @@ Sunday                   8877 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 32 mins       ███████████████████████░░   91.65 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TypeScript               2 hrs 32 mins       █████████████████████░░░░   84.26 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +210,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2026 03:23:27 UTC
+ Last Updated on 20/06/2026 02:40:25 UTC
 <!--END_SECTION:waka-->
 
 ---
