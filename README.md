@@ -186,9 +186,7 @@ Sunday                   8877 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 33 mins        ███████████████░░░░░░░░░░   60.11 % 
-Other                    1 hr                ██████████░░░░░░░░░░░░░░░   39.17 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other                    1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -208,7 +206,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 02:35:26 UTC
+ Last Updated on 26/06/2026 02:44:53 UTC
 <!--END_SECTION:waka-->
 
 ---
