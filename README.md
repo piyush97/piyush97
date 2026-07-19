@@ -186,11 +186,7 @@ Sunday                   9212 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 30 mins       ██████████████░░░░░░░░░░░   56.84 % 
-Markdown                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Image (svg)              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +206,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 01:54:47 UTC
+ Last Updated on 19/07/2026 02:07:33 UTC
 <!--END_SECTION:waka-->
 
 ---
