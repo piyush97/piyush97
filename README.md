@@ -242,16 +242,16 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The ATS Resume That Actually Lands Interviews: A 2026 Software Engineer Guide](https://piyushmehta.com/blog/ats-resume-software-engineer/)
+- [How I Designed an AI Chat App That Handles a Million Users &lpar;And the Mistakes That Almost Killed It&rpar;](https://piyushmehta.com/blog/ai-chat-system-design-million-users/)
+- [Senior Software Engineering Interview Questions — What Actually Gets Asked](https://piyushmehta.com/blog/senior-swe-interview-questions/)
+- [System Design Patterns That Show Up In Every Senior Interview &lpar;With Diagrams &amp; Math&rpar;](https://piyushmehta.com/blog/system-design-patterns-cheatsheet/)
+- [STAR+R: The Behavioral Interview Framework That Lands Senior Offers &lpar;With 5 Real Stories&rpar;](https://piyushmehta.com/blog/star-r-behavioral-interviews/)
+- [The First 90 Days At A New Software Engineering Job: A Week-By-Week Playbook](https://piyushmehta.com/blog/first-90-days-new-software-engineer-job/)
 - [Building an MCP Server in TypeScript: From Zero to Tool-Calling Agent in 90 Minutes](https://piyushmehta.com/blog/building-mcp-server-typescript/)
 - [What I Learned About AI Agents, MCP, and the Next Supply Chain Risk](https://piyushmehta.com/blog/ai-agents-mcp-security-crisis/)
 - [What Happens to the Economy When Tech Companies Mass Lay Off Workers?](https://piyushmehta.com/blog/tech-layoffs-economy-analysis/)
 - [From macOS to Arch Linux with Omarchy: A Developer&#39;s Journey to True Productivity](https://piyushmehta.com/blog/macos-to-arch-linux-omarchy-developer-productivity/)
-- [Zero-Downtime Database Migration: Scaling from 10M to 100M Users](https://piyushmehta.com/blog/zero-downtime-database-migration-at-scale/)
-- [The 30-Year-Old &#39;Impossible&#39; Algorithm That Makes Netflix Instant &lpar;And Why Your Computer Still Sucks&rpar;](https://piyushmehta.com/blog/bloom-filters/)
-- [AI Killed My Impostor Syndrome &lpar;And It Might Kill Yours Too&rpar;](https://piyushmehta.com/blog/ai-killed-my-impostor-syndrome/)
-- [From Nginx Proxy Manager to SWAG: A Powerful Migration Journey](https://piyushmehta.com/blog/migrating-nginx-proxy-manager-to-swag/)
-- [How to Stay Ahead by Leveraging AI in Your Coding Workflow](https://piyushmehta.com/blog/leveraging-ai-in-coding-workflow/)
-- [Astro 5.9: Revolutionizing Web Security with Built-in Content Security Policy Support](https://piyushmehta.com/blog/astro-v5-9-content-security-policy/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
