@@ -188,33 +188,13 @@ Sunday                   9279 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 8 mins       ███████████████████████░░   93.58 % 
-HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    16 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (2.67%)
-
-✍️ 39 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 3,269,366 Input Tokens, 12,483 Output Tokens
-
-💵 $10.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Sonnet                   39 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,779 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -234,7 +214,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 02:06:40 UTC
+ Last Updated on 31/07/2026 02:16:05 UTC
 <!--END_SECTION:waka-->
 
 ---
