@@ -163,62 +163,6 @@
  > 
 > 🔑 262 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14810 commits       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-🌆 Daytime                26137 commits       █████████░░░░░░░░░░░░░░░░   37.52 % 
-🌃 Evening                13173 commits       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-🌙 Night                  15544 commits       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   7149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Tuesday                  8244 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Wednesday                10529 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Thursday                 13707 commits       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Friday                   12469 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Saturday                 8220 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Sunday                   9346 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    8 hrs 56 mins       ███████████████████░░░░░░   76.51 % 
-Bash                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 12 mins (27.5%)
-
-✍️ 502 lines written by AI, 39 lines written by hand (92.79% AI-written)
-
-🔤 32,953,403 Input Tokens, 140,900 Output Tokens
-
-💵 $139.74 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 19 AI Prompts
-
-GPT                      502 lines           █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 92.79% of written lines came from AI
-📚 Verbose Prompter — average 4,279 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.06% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -236,7 +180,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 01:48:28 UTC
+ Last Updated on 05/08/2026 01:53:25 UTC
 <!--END_SECTION:waka-->
 
 ---
