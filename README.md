@@ -145,6 +145,10 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C300%20hrs%2038%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2048%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84.48%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -159,6 +163,61 @@
  > 
 > 🔑 262 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                15095 commits       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+🌆 Daytime                26920 commits       █████████░░░░░░░░░░░░░░░░   37.78 % 
+🌃 Evening                13466 commits       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+🌙 Night                  15766 commits       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   7248 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Tuesday                  8463 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Wednesday                10802 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Thursday                 14049 commits       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Friday                   12748 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Saturday                 8390 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Sunday                   9547 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    7 hrs 1 min         ██████████████████░░░░░░░   71.90 % 
+Bash                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 12 mins (32.9%)
+
+✍️ 502 lines written by AI, 39 lines written by hand (92.79% AI-written)
+
+🔤 32,953,403 Input Tokens, 140,900 Output Tokens
+
+💵 $139.45 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 19 AI Prompts
+
+GPT                      502 lines           █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 92.79% of written lines came from AI
+📚 Verbose Prompter — average 4,279 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 8.06% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -176,7 +235,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:37:03 UTC
+ Last Updated on 08/08/2026 01:23:06 UTC
 <!--END_SECTION:waka-->
 
 ---
