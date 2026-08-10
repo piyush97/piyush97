@@ -188,35 +188,35 @@ Sunday                   9547 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 43 mins      █████████████████████░░░░   84.80 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    13 hrs 32 mins      ████████████████████████░   97.92 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Astro                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+MDX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (18.11%)
+⏱ AI Coding Time: 15 mins (1.85%)
 
-✍️ 512 lines written by AI, 56 lines written by hand (90.14% AI-written)
+✍️ 10 lines written by AI, 17 lines written by hand (37.04% AI-written)
 
-🔤 10,766,801 Input Tokens, 109,293 Output Tokens
+🔤 163,197 Input Tokens, 10,712 Output Tokens
 
-💵 $73.90 Estimated AI Cost This Week
+💵 $38.23 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 13 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-GPT                      512 lines           █████████████████████████   100.00 % 
+GPT                      10 lines            █████████████████████████   100.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.14% of written lines came from AI
-📚 Verbose Prompter — average 2,990 characters per prompt
+⚖️ Balanced with AI — 37.04% of written lines came from AI
+📚 Verbose Prompter — average 2,071 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 10.65% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 62.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -236,7 +236,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 01:16:33 UTC
+ Last Updated on 10/08/2026 01:18:35 UTC
 <!--END_SECTION:waka-->
 
 ---
