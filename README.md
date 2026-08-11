@@ -147,7 +147,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C300%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-215%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-225%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84.48%20million%20lines%20of%20code-blue?style=flat)
 
@@ -188,25 +188,25 @@ Sunday                   9547 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 32 mins      ████████████████████████░   97.92 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Astro                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    26 hrs 50 mins      █████████████████████████   98.94 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Astro                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 MDX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (1.85%)
+⏱ AI Coding Time: 11 hrs 3 mins (40.77%)
 
 ✍️ 10 lines written by AI, 17 lines written by hand (37.04% AI-written)
 
-🔤 163,197 Input Tokens, 10,712 Output Tokens
+🔤 36,842,630 Input Tokens, 183,676 Output Tokens
 
-💵 $38.23 Estimated AI Cost This Week
+💵 $118.07 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 11 AI Sessions, 205 AI Prompts
 
 GPT                      10 lines            █████████████████████████   100.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -214,8 +214,8 @@ Github-Copilot-Cli       0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 37.04% of written lines came from AI
-📚 Verbose Prompter — average 2,071 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 3,101 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
 🔍 Hands-On Reviewer — 62.96% of changed lines were hand-edited
 ```
 
@@ -236,7 +236,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 01:18:35 UTC
+ Last Updated on 11/08/2026 01:27:35 UTC
 <!--END_SECTION:waka-->
 
 ---
