@@ -1,9 +1,9 @@
 name: Waka Readme
 
+# Disabled automatically after the profile README redesign. The README no
+# longer includes WakaTime statistics.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
 
 jobs:
   update-readme:

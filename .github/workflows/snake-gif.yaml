@@ -1,9 +1,7 @@
 # Generates pretty snake animation, using @Platane's awesome snk action
 name: 🐍 Generate Snake Contribution
 on:
-  workflow_dispatch: # Manual dispatch
-  schedule:
-    - cron: '30 23 * * *' # Runs at 23:30 every day.
+  workflow_dispatch: # Manual dispatch; the refreshed README no longer embeds the snake.
 jobs:
   snake:
     runs-on: ubuntu-latest

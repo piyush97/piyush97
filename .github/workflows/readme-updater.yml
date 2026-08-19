@@ -1,9 +1,9 @@
 name: Update README
 
+# Disabled automatically after the profile README redesign. The activity feed
+# is intentionally replaced by curated project evidence.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/30 * * * *'
 
 jobs:
   build:
@@ -15,4 +15,3 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH }}
-

@@ -1,290 +1,53 @@
-<div align="center">
+# Piyush Mehta
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Piyush+Mehta+%F0%9F%91%8B;Senior+Software+Engineer;TypeScript+%C2%B7+React+%C2%B7+Next.js;Node.js+%C2%B7+NestJS+%C2%B7+Azure;AI%2FLLM+Integrations+%26+Architecture;Building+for+Scale)
+**Senior Software Engineer** building reliable full-stack and AI-enabled products.
 
-<a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/Portfolio-piyushmehta.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/PiyushMehtas"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+I work across TypeScript, React/Next.js, Node.js/NestJS, PostgreSQL, Azure, and practical AI systems—from product interfaces through APIs, workflows, and deployment.
 
-<img src="https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet" alt="Profile Views"/>
-<br/>
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+**Based in Canada · Open to full-time Senior Software Engineering roles (remote or hybrid).**
 
-</div>
+[Portfolio](https://piyushmehta.com) · [LinkedIn](https://www.linkedin.com/in/piyush24/) · [Resume](https://piyushmehta.com/resume) · [Email](mailto:me@piyushmehta.com)
 
----
+## What I focus on
 
-<img align="right" alt="Coding GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="250" height="180" />
+- Building clear, dependable full-stack products with TypeScript end to end.
+- Designing AI-assisted workflows with useful guardrails, human oversight, and failure-aware systems.
+- Making architecture decisions that improve maintainability, observability, and delivery speed.
 
-## 🚀 About Me
+## Selected work
 
-| | |
-|---|---|
-| 💼 **Role** | Senior Software Engineer |
-| 🔥 **Focus** | Full-Stack · AI/LLM · Architecture |
-| 🌐 **Stack** | TypeScript · React · Next.js · Node.js · NestJS |
-| ☁️ **Cloud** | Azure · Vercel · Docker |
-| 📝 **Writing** | [piyushmehta.com](https://piyushmehta.com) |
-| 💬 **Open to** | Consulting · Mentoring · Collaboration |
+### [Proxmox DR MCP](https://github.com/piyush97/proxmox-dr-mcp)
 
-### What I'm building
+An MCP server for safer Proxmox disaster-recovery workflows: pre-flight checks, snapshots, health verification, and rollback. Built with Python, FastMCP, Pydantic, Docker, and a packaged CLI. [Project page](https://mcpize.com/mcp/proxmox-dr-mcp)
 
-- 🤖 Integrating **AI/LLM** capabilities into production apps (Claude, OpenAI, RAG pipelines)
-- 🏗️ Designing scalable **distributed systems** and cloud architectures
-- 🌐 Full-stack apps with **Next.js**, NestJS, TypeScript end-to-end
-- 📦 Contributing to **open source** and writing technical deep-dives
+### [Interview Prep Portal](https://github.com/piyush97/interview-prep-portal)
 
----
+A local-first AI workflow application for job search and interview preparation, with deterministic offline fallbacks, a Python backend, MCP integration, tests, and architecture documentation. [Live demo](https://piyush97.github.io/interview-prep-portal/)
 
-## 🐍 Contribution Snake
+### [WatchBot](https://github.com/piyush97/watchbot)
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
+A modular Python monitoring plugin that brings Proxmox, Home Assistant, Docker, RSS, system health, and agent tooling into one operational dashboard and CLI.
 
----
+### [PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
 
-## 🛠️ Tech Stack
+The source for my portfolio and technical writing—an actively maintained Astro site focused on engineering, systems design, and AI development.
 
-### Languages & Frameworks
+## Open source
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I also maintain [awesome-portfolio](https://github.com/piyush97/awesome-portfolio), a free, deployable portfolio starter for developers.
 
-### AI / LLM
+## How I work
 
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+I prefer evidence-rich engineering: small, testable changes; explicit trade-offs; useful telemetry; and documentation that makes a system easier for the next engineer to operate.
 
-### Cloud, DevOps & Tools
-
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush97&theme=radical&hide_border=true&height=300" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/piyush97/awesome-portfolio">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" alt="awesome-portfolio"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/piyush97/GitCompete">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=GitCompete&theme=radical&hide_border=true" alt="GitCompete"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/piyush97/Slika-API">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=Slika-API&theme=radical&hide_border=true" alt="Slika-API"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/piyush97/saas-startup">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=saas-startup&theme=radical&hide_border=true" alt="saas-startup"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## ⏱️ Coding Activity
-
-<div align="center">
-<img src="https://wakatime.com/share/@piyush97/45fc79fd-9f27-4e60-b777-a2143000a0ba.png" width="350" alt="Wakatime Languages"/>
-<img src="https://wakatime.com/share/@piyush97/b809684b-ced7-42f9-a27f-baebac423df9.png" width="350" alt="Wakatime Activity"/>
-</div>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C312%20hrs%2031%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-243%20hrs%2051%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.94%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 2.3 MB Used in GitHub's Storage 
- > 
-> 🏆 484 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 123 Public Repositories 
- > 
-> 🔑 263 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                15599 commits       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-🌆 Daytime                28250 commits       ██████████░░░░░░░░░░░░░░░   38.21 % 
-🌃 Evening                13957 commits       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-🌙 Night                  16136 commits       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   7418 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Tuesday                  8839 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Wednesday                11286 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Thursday                 14624 commits       █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Friday                   13213 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Saturday                 8677 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Sunday                   9885 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    14 hrs 11 mins      ██████████████░░░░░░░░░░░   55.56 % 
-Markdown                 5 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-JavaScript               2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-TOML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 15 hrs 29 mins (60.68%)
-
-✍️ 1,398 lines written by AI, 98 lines written by hand (93.45% AI-written)
-
-🔤 44,259,528 Input Tokens, 331,222 Output Tokens
-
-💵 $148.86 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 91 AI Prompts
-
-GPT                      1,564 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.45% of written lines came from AI
-📚 Verbose Prompter — average 2,048 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.35% of changed lines were hand-edited
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               110 repos           ████████░░░░░░░░░░░░░░░░░   30.47 % 
-TypeScript               40 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-HTML                     36 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Python                   19 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
-
-
- Last Updated on 19/08/2026 01:05:47 UTC
-<!--END_SECTION:waka-->
-
----
-
-## 📝 Latest Blog Posts
+## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
-- [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com//blog/agents-md-repository-context/)
-- [Running a Coding Agent on DeepSeek V4 Flash: The 1M-Context Cheap Workhorse](https://piyushmehta.com//blog/deepseek-v4-flash-0731/)
-- [Kimi K3 Is Open Weight, but You Still Need a Datacenter to Run It](https://piyushmehta.com//blog/kimi-k3-open-weights-datacenter/)
-- [AI Agents Didn&#39;t Kill Junior Developer Jobs. They Killed the Reason to Hire Them.](https://piyushmehta.com//blog/ai-agents-killed-junior-developer-jobs/)
-- [The ATS Resume That Actually Lands Interviews: A 2026 Software Engineer Guide](https://piyushmehta.com//blog/ats-resume-software-engineer/)
-- [How I Designed an AI Chat App That Handles a Million Users &lpar;And the Mistakes That Almost Killed It&rpar;](https://piyushmehta.com//blog/ai-chat-system-design-million-users/)
-- [Senior Software Engineering Interview Questions — What Actually Gets Asked](https://piyushmehta.com//blog/senior-swe-interview-questions/)
-- [System Design Patterns That Show Up In Every Senior Interview &lpar;With Diagrams &amp; Math&rpar;](https://piyushmehta.com//blog/system-design-patterns-cheatsheet/)
-- [STAR+R: The Behavioral Interview Framework That Lands Senior Offers &lpar;With 5 Real Stories&rpar;](https://piyushmehta.com//blog/star-r-behavioral-interviews/)
-- [The First 90 Days At A New Software Engineering Job: A Week-By-Week Playbook](https://piyushmehta.com//blog/first-90-days-new-software-engineer-job/)
+- [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com/blog/agents-md-repository-context/)
+- [How I Designed an AI Chat App That Handles a Million Users (And the Mistakes That Almost Killed It)](https://piyushmehta.com/blog/ai-chat-system-design-million-users/)
+- [System Design Patterns That Show Up In Every Senior Interview (With Diagrams & Math)](https://piyushmehta.com/blog/system-design-patterns-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-➡️ <a href="https://piyushmehta.com"><strong>Read all posts on my blog</strong></a>
-</div>
+## Let’s connect
 
----
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#21701](https://github.com/xbmc/xbmc/issues/21701#issuecomment-2755175497) in [xbmc/xbmc](https://github.com/xbmc/xbmc)
-2. 💪 Opened PR [#20](https://github.com/SlideFusion/SlideFusion/pull/20) in [SlideFusion/SlideFusion](https://github.com/SlideFusion/SlideFusion)
-3. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2735012152) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
-4. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2734984237) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
-5. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-
-### Let's build something great together
-
-<a href="mailto:me@piyushmehta.com?subject=Let's%20Collaborate&body=Hi%20Piyush,"><img src="https://img.shields.io/badge/Hire%20Me-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Me"/></a>
-<a href="https://calendly.com/piyushmehta"><img src="https://img.shields.io/badge/Book%20a%20Call-blue?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a Call"/></a>
-<a href="https://piyushmehta.com/resume"><img src="https://img.shields.io/badge/View%20Resume-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/></a>
-
-</div>
-
-[website]: https://piyushmehta.com
-[twitter]: https://x.com/PiyushMehtas
-[instagram]: https://instagram.com/coderwhoknows
-[linkedin]: https://linkedin.com/in/piyush24
-[webdev]: https://piyushmehta.com
+If you are hiring for a senior engineering role or want to discuss a technical problem, reach me through [email](mailto:me@piyushmehta.com) or [LinkedIn](https://www.linkedin.com/in/piyush24/).
