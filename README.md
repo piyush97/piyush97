@@ -145,42 +145,42 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C314%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C325%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-246%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-259%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.27%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 563 Contributions in the Year 2026
+> 🏆 575 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 363 Private Repositories 
+> 🔑 364 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15988 commits       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-🌆 Daytime                29144 commits       ██████████░░░░░░░░░░░░░░░   38.31 % 
-🌃 Evening                14475 commits       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-🌙 Night                  16476 commits       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+🌞 Morning                16165 commits       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+🌆 Daytime                29665 commits       ██████████░░░░░░░░░░░░░░░   38.49 % 
+🌃 Evening                14655 commits       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+🌙 Night                  16596 commits       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   7640 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Tuesday                  9119 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Wednesday                11683 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Thursday                 15133 commits       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Friday                   13470 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Saturday                 8936 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Sunday                   10102 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Monday                   7702 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Tuesday                  9258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Wednesday                11876 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Thursday                 15363 commits       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Friday                   13658 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Saturday                 9011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Sunday                   10213 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 ```
 
 
@@ -188,43 +188,45 @@ Sunday                   10102 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 44 mins      █████████████████░░░░░░░░   67.03 % 
-Markdown                 7 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-JavaScript               2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-INI                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Other                    29 hrs 43 mins      ███████████████░░░░░░░░░░   60.68 % 
+Markdown                 9 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Python                   5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+JavaScript               1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 4 mins (46.29%)
+⏱ AI Coding Time: 25 hrs 17 mins (51.64%)
 
-✍️ 1,624 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,156 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 50,274,731 Input Tokens, 332,472 Output Tokens
+🔤 400,385,689 Input Tokens, 1,952,128 Output Tokens
 
-💵 $184.14 Estimated AI Cost This Week
+💵 $958.86 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 91 AI Prompts
+🧠 165 AI Sessions, 243 AI Prompts
 
-GPT                      1,744 lines         █████████████████████████   100.00 % 
+GPT                      11,207 lines        █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,089 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 17,801 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               110 repos           ████████░░░░░░░░░░░░░░░░░   30.30 % 
-TypeScript               41 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-HTML                     36 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Python                   20 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TypeScript               41 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+HTML                     36 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Python                   20 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Shell                    11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 
@@ -234,7 +236,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 01:16:04 UTC
+ Last Updated on 23/08/2026 01:13:00 UTC
 <!--END_SECTION:waka-->
 
 ---
