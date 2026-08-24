@@ -24,4 +24,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "True"
           SHOW_OS: "False"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
           LOCALE: "en"
