@@ -244,6 +244,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OmaSwitch: The Alt+Tab Omarchy Has Been Missing](https://piyushmehta.com//blog/omaswitch-alt-tab-omarchy/)
 - [From Cron to Event-Driven: A Migration Playbook](https://piyushmehta.com//blog/cron-to-event-driven/)
 - [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com//blog/agents-md-repository-context/)
 - [Running a Coding Agent on DeepSeek V4 Flash: The 1M-Context Cheap Workhorse](https://piyushmehta.com//blog/deepseek-v4-flash-0731/)
@@ -253,7 +254,6 @@ Astro                    1 repo              ░░░░░░░░░░░�
 - [How I Designed an AI Chat App That Handles a Million Users &lpar;And the Mistakes That Almost Killed It&rpar;](https://piyushmehta.com//blog/ai-chat-system-design-million-users/)
 - [Senior Software Engineering Interview Questions — What Actually Gets Asked](https://piyushmehta.com//blog/senior-swe-interview-questions/)
 - [System Design Patterns That Show Up In Every Senior Interview &lpar;With Diagrams &amp; Math&rpar;](https://piyushmehta.com//blog/system-design-patterns-cheatsheet/)
-- [STAR+R: The Behavioral Interview Framework That Lands Senior Offers &lpar;With 5 Real Stories&rpar;](https://piyushmehta.com//blog/star-r-behavioral-interviews/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
