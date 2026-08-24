@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet" alt="Profile Views"/>
 <br/>
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -22,18 +22,20 @@
 | | |
 |---|---|
 | 💼 **Role** | Senior Software Engineer |
-| 🔥 **Focus** | Full-Stack · AI/LLM · Architecture |
-| 🌐 **Stack** | TypeScript · React · Next.js · Node.js · NestJS |
-| ☁️ **Cloud** | Azure · Vercel · Docker |
+| 🔥 **Focus** | Full-Stack · AI/Langchain · Infra/Automation · Architecture |
+| 🌐 **Stack** | TypeScript · React · Next.js · Python · QML |
+| ☁️ **Cloud** | Azure · Vercel · Docker · Proxmox |
+| 🤖 **AI Agents** | MCP servers · AI-driven DevOps/monitoring · LLM integrations |
 | 📝 **Writing** | [piyushmehta.com](https://piyushmehta.com) |
 | 💬 **Open to** | Consulting · Mentoring · Collaboration |
 
 ### What I'm building
 
-- 🤖 Integrating **AI/LLM** capabilities into production apps (Claude, OpenAI, RAG pipelines)
-- 🏗️ Designing scalable **distributed systems** and cloud architectures
-- 🌐 Full-stack apps with **Next.js**, NestJS, TypeScript end-to-end
-- 📦 Contributing to **open source** and writing technical deep-dives
+- 🤖 **MCP + agent tooling** — MCP servers (Proxmox disaster recovery, TS starter) and multi-agent monitoring plugins (WatchBot)
+- 🏗️ **AI/LLM in production apps** — Claude, OpenAI, RAG pipelines, AI-assisted chat/system design
+- 🌐 **Full-stack apps** — Next.js, NestJS, TypeScript end-to-end, scaled for millions of users
+- 🖥️ **Homelab & compositor tooling** — Proxmox/Home Assistant automation, a Hyprland Alt-Tab plugin (OmaSwitch)
+- 📦 **Open source** — shipping current, maintained repos; writing technical deep-dives
 
 ---
 
@@ -54,6 +56,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -88,10 +91,10 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
     </td>
     <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -110,24 +113,24 @@
   <tr>
     <td align="center">
       <a href="https://github.com/piyush97/awesome-portfolio">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" alt="awesome-portfolio"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" alt="awesome-portfolio"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/piyush97/GitCompete">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=GitCompete&theme=radical&hide_border=true" alt="GitCompete"/>
+      <a href="https://github.com/piyush97/omaswitch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=omaswitch&theme=radical&hide_border=true" alt="omaswitch"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/piyush97/Slika-API">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=Slika-API&theme=radical&hide_border=true" alt="Slika-API"/>
+      <a href="https://github.com/piyush97/PiyushMehta.com">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=PiyushMehta.com&theme=radical&hide_border=true" alt="PiyushMehta.com"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/piyush97/saas-startup">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=saas-startup&theme=radical&hide_border=true" alt="saas-startup"/>
+      <a href="https://github.com/piyush97/watchbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=watchbot&theme=radical&hide_border=true" alt="watchbot"/>
       </a>
     </td>
   </tr>
@@ -146,8 +149,6 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C325%20hrs%2042%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-259%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -195,30 +196,6 @@ JavaScript               1 hr 58 mins        █░░░░░░░░░░�
 JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 25 hrs 17 mins (51.64%)
-
-✍️ 11,156 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 400,385,689 Input Tokens, 1,952,128 Output Tokens
-
-💵 $958.86 Estimated AI Cost This Week
-
-🧠 165 AI Sessions, 243 AI Prompts
-
-GPT                      11,207 lines        █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 17,801 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -244,16 +221,16 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OmaSwitch: The Alt+Tab Omarchy Has Been Missing](https://piyushmehta.com//blog/omaswitch-alt-tab-omarchy/)
-- [From Cron to Event-Driven: A Migration Playbook](https://piyushmehta.com//blog/cron-to-event-driven/)
-- [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com//blog/agents-md-repository-context/)
-- [Running a Coding Agent on DeepSeek V4 Flash: The 1M-Context Cheap Workhorse](https://piyushmehta.com//blog/deepseek-v4-flash-0731/)
-- [Kimi K3 Is Open Weight, but You Still Need a Datacenter to Run It](https://piyushmehta.com//blog/kimi-k3-open-weights-datacenter/)
-- [AI Agents Didn&#39;t Kill Junior Developer Jobs. They Killed the Reason to Hire Them.](https://piyushmehta.com//blog/ai-agents-killed-junior-developer-jobs/)
-- [The ATS Resume That Actually Lands Interviews: A 2026 Software Engineer Guide](https://piyushmehta.com//blog/ats-resume-software-engineer/)
-- [How I Designed an AI Chat App That Handles a Million Users &lpar;And the Mistakes That Almost Killed It&rpar;](https://piyushmehta.com//blog/ai-chat-system-design-million-users/)
-- [Senior Software Engineering Interview Questions — What Actually Gets Asked](https://piyushmehta.com//blog/senior-swe-interview-questions/)
-- [System Design Patterns That Show Up In Every Senior Interview &lpar;With Diagrams &amp; Math&rpar;](https://piyushmehta.com//blog/system-design-patterns-cheatsheet/)
+- [OmaSwitch: The Alt+Tab Omarchy Has Been Missing](https://piyushmehta.com/blog/omaswitch-alt-tab-omarchy/)
+- [From Cron to Event-Driven: A Migration Playbook](https://piyushmehta.com/blog/cron-to-event-driven/)
+- [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com/blog/agents-md-repository-context/)
+- [Running a Coding Agent on DeepSeek V4 Flash: The 1M-Context Cheap Workhorse](https://piyushmehta.com/blog/deepseek-v4-flash-0731/)
+- [Kimi K3 Is Open Weight, but You Still Need a Datacenter to Run It](https://piyushmehta.com/blog/kimi-k3-open-weights-datacenter/)
+- [AI Agents Didn&#39;t Kill Junior Developer Jobs. They Killed the Reason to Hire Them.](https://piyushmehta.com/blog/ai-agents-killed-junior-developer-jobs/)
+- [The ATS Resume That Actually Lands Interviews: A 2026 Software Engineer Guide](https://piyushmehta.com/blog/ats-resume-software-engineer/)
+- [How I Designed an AI Chat App That Handles a Million Users &lpar;And the Mistakes That Almost Killed It&rpar;](https://piyushmehta.com/blog/ai-chat-system-design-million-users/)
+- [Senior Software Engineering Interview Questions — What Actually Gets Asked](https://piyushmehta.com/blog/senior-swe-interview-questions/)
+- [System Design Patterns That Show Up In Every Senior Interview &lpar;With Diagrams &amp; Math&rpar;](https://piyushmehta.com/blog/system-design-patterns-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
