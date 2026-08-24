@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet" alt="Profile Views"/>
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -91,10 +91,10 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -113,24 +113,24 @@
   <tr>
     <td align="center">
       <a href="https://github.com/piyush97/awesome-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" alt="awesome-portfolio"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" alt="awesome-portfolio"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/piyush97/omaswitch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=omaswitch&theme=radical&hide_border=true" alt="omaswitch"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=omaswitch&theme=radical&hide_border=true" alt="omaswitch"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/piyush97/PiyushMehta.com">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=PiyushMehta.com&theme=radical&hide_border=true" alt="PiyushMehta.com"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=PiyushMehta.com&theme=radical&hide_border=true" alt="PiyushMehta.com"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/piyush97/watchbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush97&repo=watchbot&theme=radical&hide_border=true" alt="watchbot"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=watchbot&theme=radical&hide_border=true" alt="watchbot"/>
       </a>
     </td>
   </tr>
