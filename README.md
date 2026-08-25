@@ -221,16 +221,16 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OmaSwitch: The Alt+Tab Omarchy Has Been Missing](https://piyushmehta.com/blog/omaswitch-alt-tab-omarchy/)
-- [From Cron to Event-Driven: A Migration Playbook](https://piyushmehta.com/blog/cron-to-event-driven/)
-- [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com/blog/agents-md-repository-context/)
-- [Running a Coding Agent on DeepSeek V4 Flash: The 1M-Context Cheap Workhorse](https://piyushmehta.com/blog/deepseek-v4-flash-0731/)
-- [Kimi K3 Is Open Weight, but You Still Need a Datacenter to Run It](https://piyushmehta.com/blog/kimi-k3-open-weights-datacenter/)
-- [AI Agents Didn&#39;t Kill Junior Developer Jobs. They Killed the Reason to Hire Them.](https://piyushmehta.com/blog/ai-agents-killed-junior-developer-jobs/)
-- [The ATS Resume That Actually Lands Interviews: A 2026 Software Engineer Guide](https://piyushmehta.com/blog/ats-resume-software-engineer/)
-- [How I Designed an AI Chat App That Handles a Million Users &lpar;And the Mistakes That Almost Killed It&rpar;](https://piyushmehta.com/blog/ai-chat-system-design-million-users/)
-- [Senior Software Engineering Interview Questions — What Actually Gets Asked](https://piyushmehta.com/blog/senior-swe-interview-questions/)
-- [System Design Patterns That Show Up In Every Senior Interview &lpar;With Diagrams &amp; Math&rpar;](https://piyushmehta.com/blog/system-design-patterns-cheatsheet/)
+- [OmaSwitch: The Alt+Tab Omarchy Has Been Missing](https://piyushmehta.com//blog/omaswitch-alt-tab-omarchy/)
+- [From Cron to Event-Driven: A Migration Playbook](https://piyushmehta.com//blog/cron-to-event-driven/)
+- [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com//blog/agents-md-repository-context/)
+- [Running a Coding Agent on DeepSeek V4 Flash: The 1M-Context Cheap Workhorse](https://piyushmehta.com//blog/deepseek-v4-flash-0731/)
+- [Kimi K3 Is Open Weight, but You Still Need a Datacenter to Run It](https://piyushmehta.com//blog/kimi-k3-open-weights-datacenter/)
+- [AI Agents Didn&#39;t Kill Junior Developer Jobs. They Killed the Reason to Hire Them.](https://piyushmehta.com//blog/ai-agents-killed-junior-developer-jobs/)
+- [The ATS Resume That Actually Lands Interviews: A 2026 Software Engineer Guide](https://piyushmehta.com//blog/ats-resume-software-engineer/)
+- [How I Designed an AI Chat App That Handles a Million Users &lpar;And the Mistakes That Almost Killed It&rpar;](https://piyushmehta.com//blog/ai-chat-system-design-million-users/)
+- [Senior Software Engineering Interview Questions — What Actually Gets Asked](https://piyushmehta.com//blog/senior-swe-interview-questions/)
+- [System Design Patterns That Show Up In Every Senior Interview &lpar;With Diagrams &amp; Math&rpar;](https://piyushmehta.com//blog/system-design-patterns-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
