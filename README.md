@@ -221,6 +221,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My 12TB Drive Failed. ZFS Saved 3.4TB of Data](https://piyushmehta.com//blog/zfs-saved-my-data-seagate-warranty/)
 - [OmaSwitch: The Alt+Tab Omarchy Has Been Missing](https://piyushmehta.com//blog/omaswitch-alt-tab-omarchy/)
 - [From Cron to Event-Driven: A Migration Playbook](https://piyushmehta.com//blog/cron-to-event-driven/)
 - [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com//blog/agents-md-repository-context/)
@@ -230,7 +231,6 @@ Astro                    1 repo              ░░░░░░░░░░░�
 - [The ATS Resume That Actually Lands Interviews: A 2026 Software Engineer Guide](https://piyushmehta.com//blog/ats-resume-software-engineer/)
 - [How I Designed an AI Chat App That Handles a Million Users &lpar;And the Mistakes That Almost Killed It&rpar;](https://piyushmehta.com//blog/ai-chat-system-design-million-users/)
 - [Senior Software Engineering Interview Questions — What Actually Gets Asked](https://piyushmehta.com//blog/senior-swe-interview-questions/)
-- [System Design Patterns That Show Up In Every Senior Interview &lpar;With Diagrams &amp; Math&rpar;](https://piyushmehta.com//blog/system-design-patterns-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
