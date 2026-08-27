@@ -148,40 +148,40 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C325%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C331%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 575 Contributions in the Year 2026
+> 🏆 713 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 27 Public Repositories 
  > 
-> 🔑 364 Private Repositories 
+> 🔑 365 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16165 commits       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-🌆 Daytime                29665 commits       ██████████░░░░░░░░░░░░░░░   38.49 % 
-🌃 Evening                14655 commits       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-🌙 Night                  16596 commits       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+🌞 Morning                16516 commits       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+🌆 Daytime                30938 commits       ██████████░░░░░░░░░░░░░░░   38.92 % 
+🌃 Evening                15207 commits       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+🌙 Night                  16824 commits       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   7702 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Tuesday                  9258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Wednesday                11876 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Thursday                 15363 commits       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Friday                   13658 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Saturday                 9011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Sunday                   10213 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Monday                   7827 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Tuesday                  9568 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Wednesday                12395 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Thursday                 15691 commits       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Friday                   14136 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Saturday                 9275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Sunday                   10593 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 
@@ -189,21 +189,21 @@ Sunday                   10213 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 43 mins      ███████████████░░░░░░░░░░   60.68 % 
-Markdown                 9 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Python                   5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-JavaScript               1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    19 hrs 54 mins      █████████████░░░░░░░░░░░░   53.93 % 
+Python                   5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+INI                      3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Markdown                 2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+JavaScript               1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               41 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-HTML                     36 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Python                   20 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Shell                    11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TypeScript               42 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+HTML                     36 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Python                   20 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Shell                    11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+QML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 
@@ -213,7 +213,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 01:13:00 UTC
+ Last Updated on 27/08/2026 06:07:03 UTC
 <!--END_SECTION:waka-->
 
 ---
