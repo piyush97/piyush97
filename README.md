@@ -221,6 +221,7 @@ QML                      1 repo              ░░░░░░░░░░░�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Moved This Site From Vercel to Cloudflare. Here Is What Broke.](https://piyushmehta.com//blog/vercel-to-cloudflare-migration/)
 - [Herdr Is the Runtime Your Coding Agents Live On](https://piyushmehta.com//blog/herdr-terminal-multiplexer-coding-agents/)
 - [My 12TB Drive Failed. ZFS Saved 3.4TB of Data](https://piyushmehta.com//blog/zfs-saved-my-data-seagate-warranty/)
 - [OmaSwitch: The Alt+Tab Omarchy Has Been Missing](https://piyushmehta.com//blog/omaswitch-alt-tab-omarchy/)
@@ -230,7 +231,6 @@ QML                      1 repo              ░░░░░░░░░░░�
 - [Kimi K3 Is Open Weight, but You Still Need a Datacenter to Run It](https://piyushmehta.com//blog/kimi-k3-open-weights-datacenter/)
 - [AI Agents Didn&#39;t Kill Junior Developer Jobs. They Killed the Reason to Hire Them.](https://piyushmehta.com//blog/ai-agents-killed-junior-developer-jobs/)
 - [The ATS Resume That Actually Lands Interviews: A 2026 Software Engineer Guide](https://piyushmehta.com//blog/ats-resume-software-engineer/)
-- [How I Designed an AI Chat App That Handles a Million Users &lpar;And the Mistakes That Almost Killed It&rpar;](https://piyushmehta.com//blog/ai-chat-system-design-million-users/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
