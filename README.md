@@ -150,13 +150,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C331%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 719 Contributions in the Year 2026
+> 🏆 730 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -167,21 +167,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16840 commits       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-🌆 Daytime                31770 commits       ██████████░░░░░░░░░░░░░░░   39.14 % 
-🌃 Evening                15512 commits       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-🌙 Night                  17046 commits       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+🌞 Morning                16955 commits       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+🌆 Daytime                32047 commits       ██████████░░░░░░░░░░░░░░░   39.21 % 
+🌃 Evening                15615 commits       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+🌙 Night                  17120 commits       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   7926 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Tuesday                  9796 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Wednesday                12715 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Thursday                 16064 commits       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Friday                   14421 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Saturday                 9446 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Sunday                   10800 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Monday                   7959 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Tuesday                  9872 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Wednesday                12823 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Thursday                 16186 commits       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Friday                   14525 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Saturday                 9503 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Sunday                   10869 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 ```
 
 
@@ -189,11 +189,11 @@ Sunday                   10800 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   40.28 % 
-Python                   5 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-INI                      3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Markdown                 2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-JavaScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Other                    8 hrs 14 mins       ███████████████░░░░░░░░░░   58.66 % 
+INI                      3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+TOML                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -213,7 +213,7 @@ QML                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 07:56:21 UTC
+ Last Updated on 29/08/2026 05:08:48 UTC
 <!--END_SECTION:waka-->
 
 ---
