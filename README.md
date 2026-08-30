@@ -189,11 +189,11 @@ Sunday                   10869 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 14 mins       ███████████████░░░░░░░░░░   58.66 % 
-INI                      3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-TOML                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+INI                      3 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.30 % 
+TOML                     1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -213,7 +213,7 @@ QML                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 05:08:48 UTC
+ Last Updated on 30/08/2026 02:35:14 UTC
 <!--END_SECTION:waka-->
 
 ---
