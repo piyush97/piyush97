@@ -217,6 +217,7 @@ QML                      1 repo              ░░░░░░░░░░░�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing AI Agent Actions: A Runnable Approval and Retry Harness](https://piyushmehta.com//blog/testing-ai-agent-actions/)
 - [RAG vs Long Context: When Do You Actually Need Retrieval?](https://piyushmehta.com//blog/rag-vs-long-context/)
 - [I Moved This Site From Vercel to Cloudflare. Here Is What Broke.](https://piyushmehta.com//blog/vercel-to-cloudflare-migration/)
 - [Herdr Is the Runtime Your Coding Agents Live On](https://piyushmehta.com//blog/herdr-terminal-multiplexer-coding-agents/)
@@ -226,7 +227,6 @@ QML                      1 repo              ░░░░░░░░░░░�
 - [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com//blog/agents-md-repository-context/)
 - [Running a Coding Agent on DeepSeek V4 Flash: The 1M-Context Cheap Workhorse](https://piyushmehta.com//blog/deepseek-v4-flash-0731/)
 - [Kimi K3 Is Open Weight, but You Still Need a Datacenter to Run It](https://piyushmehta.com//blog/kimi-k3-open-weights-datacenter/)
-- [AI Agents Didn&#39;t Kill Junior Developer Jobs. They Killed the Reason to Hire Them.](https://piyushmehta.com//blog/ai-agents-killed-junior-developer-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
