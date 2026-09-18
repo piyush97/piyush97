@@ -217,6 +217,7 @@ QML                      1 repo              ░░░░░░░░░░░�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building FocusTube with TypeSafe Jev](https://piyushmehta.com/blog/building-focustube-typesafe-jev)
 - [Testing AI Agent Actions: A Runnable Approval and Retry Harness](https://piyushmehta.com/blog/testing-ai-agent-actions)
 - [RAG vs Long Context: When Do You Actually Need Retrieval?](https://piyushmehta.com/blog/rag-vs-long-context)
 - [I Moved This Site From Vercel to Cloudflare. Here Is What Broke.](https://piyushmehta.com/blog/vercel-to-cloudflare-migration)
@@ -226,7 +227,6 @@ QML                      1 repo              ░░░░░░░░░░░�
 - [From Cron to Event-Driven: A Migration Playbook](https://piyushmehta.com/blog/cron-to-event-driven)
 - [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com/blog/agents-md-repository-context)
 - [Running a Coding Agent on DeepSeek V4 Flash: The 1M-Context Cheap Workhorse](https://piyushmehta.com/blog/deepseek-v4-flash-0731)
-- [Kimi K3 Is Open Weight, but You Still Need a Datacenter to Run It](https://piyushmehta.com/blog/kimi-k3-open-weights-datacenter)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
