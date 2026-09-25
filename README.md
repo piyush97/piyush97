@@ -15,9 +15,7 @@ I build durable product systems at the seam between ambitious ideas and operatio
 
 ## The thesis, and the proof
 
-Most profile READMEs assert a claim. This one shows one.
-
-I moved [this site](https://piyushmehta.com) off Vercel and onto Cloudflare Workers, then wrote up everything that broke. It is the clearest example I have of the thing I am asking to be hired for: not whether a system works on day one, but whether someone can see what it cost and what changed.
+I moved [this site](https://piyushmehta.com) off Vercel and onto Cloudflare Workers, then wrote up what broke. It is the clearest example I have of the kind of work I am asking to be hired for.
 
 <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/record-01.svg" width="180" height="20" alt="01 constraint" />
 
@@ -29,7 +27,7 @@ I moved [this site](https://piyushmehta.com) off Vercel and onto Cloudflare Work
 
 <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/record-03.svg" width="180" height="20" alt="03 outcome" />
 
-**Outcome.** Shipped on the Workers Free plan. Along the way: a native-module failure, an Upstash client rewrite, and a blank-social-card regression that reached production social unfurls. All three are written up, not smoothed over.
+**Outcome.** Shipped on the Workers Free plan. Along the way: a native-module failure, an Upstash client rewrite, and a blank-social-card regression that reached production social unfurls. The write-up covers all three.
 
 [Read the migration write-up](https://piyushmehta.com/blog/vercel-to-cloudflare-migration)
 
@@ -44,9 +42,9 @@ I moved [this site](https://piyushmehta.com) off Vercel and onto Cloudflare Work
 
 ## What I build
 
-**AI that survives production.** Agent and MCP systems, retrieval pipelines, and LLM integrations designed past the prototype — with evaluation, guardrails, and observability. See [FocusTube](https://github.com/piyush97/focus-tube) and the [MCP server starter](https://github.com/piyush97/mcp-server-typescript-starter).
+**AI that survives production.** Agent and MCP systems, retrieval pipelines, and LLM integrations built past the prototype stage, with evaluation and guardrails. See [FocusTube](https://github.com/piyush97/focus-tube) and the [MCP server starter](https://github.com/piyush97/mcp-server-typescript-starter).
 
-**Content platforms as engineering proof.** This site is a real deployment: Astro 7, React islands, MDX, Tailwind v4, Pagefind search, build-time social cards, and release gates that fail the build rather than let a broken artifact ship.
+**Content platforms as engineering proof.** This site is a real deployment: Astro 7, React islands, MDX, Tailwind v4, Pagefind search, build-time social cards, and release gates that fail the build when an artifact is broken.
 
 **Infrastructure in public.** A homelab run with GitOps, real disaster recovery after a 12TB drive failed, and [OmaSwitch](https://github.com/piyush97/omaswitch), an Alt-Tab overlay for [Omarchy](https://omarchy.org).
 
@@ -54,31 +52,31 @@ I moved [this site](https://piyushmehta.com) off Vercel and onto Cloudflare Work
 
 ## Selected work
 
-**[PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)** — portfolio and technical blog on Cloudflare Workers.
+**[PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)**: portfolio and technical blog on Cloudflare Workers.
 32 stars · 223 prerendered pages · 2 runtime routes · [v5.0.0](https://github.com/piyush97/PiyushMehta.com/releases)
 
-**[awesome-portfolio](https://github.com/piyush97/awesome-portfolio)** — deploy-ready portfolio template in TypeScript.
-23 stars · the starting point other portfolios are built from
+**[awesome-portfolio](https://github.com/piyush97/awesome-portfolio)**: a deploy-ready portfolio template in TypeScript.
+23 stars
 
-**[OmaSwitch](https://github.com/piyush97/omaswitch)** — Alt-Tab overlay for Omarchy with MRU ordering.
+**[OmaSwitch](https://github.com/piyush97/omaswitch)**: Alt-Tab overlay for Omarchy with MRU ordering.
 8 stars · QML · ships as a tagged release
 
-**[Homelab](https://github.com/piyush97/Homelab)** and **[GitOps](https://github.com/piyush97/homelab-gitops)** — self-hosted infrastructure, documented in public.
+**[Homelab](https://github.com/piyush97/Homelab)** and **[GitOps](https://github.com/piyush97/homelab-gitops)**: self-hosted infrastructure, documented in public.
 5 stars · Shell and HCL · survived a real disk failure
 
-**[GitCompete](https://github.com/piyush97/GitCompete)** — compares two public GitHub profiles.
+**[GitCompete](https://github.com/piyush97/GitCompete)**: compares two public GitHub profiles.
 10 stars · JavaScript
 
-**[interview-prep-portal](https://github.com/piyush97/interview-prep-portal)** — application tracker and interview preparation.
+**[interview-prep-portal](https://github.com/piyush97/interview-prep-portal)**: application tracker and interview preparation.
 4 stars · TypeScript
 
-**Stack, honestly.** Across the 24 repositories that carry a language: **TypeScript** in 7, JavaScript in 4, Shell in 3, Python in 2, HTML in 2, and one each of C, QML, HCL, and Dart. Day to day: Astro, React, TypeScript, MDX, Tailwind CSS, Cloudflare Workers, Node.js, PostgreSQL, Azure, OpenAI, LangChain, Docker, Proxmox, QML.
+**Stack.** Across the 24 repositories that carry a language: **TypeScript** in 7, JavaScript in 4, Shell in 3, Python in 2, HTML in 2, and one each of C, QML, HCL, and Dart. Day to day: Astro, React, TypeScript, MDX, Tailwind CSS, Cloudflare Workers, Node.js, PostgreSQL, Azure, OpenAI, LangChain, Docker, Proxmox, QML.
 
 ---
 
 ## Writing
 
-I write about the parts that bite. Twenty-two posts since May, including the migration above.
+Twenty-two posts since May, including the migration above. The list below updates itself from the site feed.
 
 <!-- BLOG-POST-LIST:START -->
 *Latest posts appear here automatically from the site feed.*
@@ -108,4 +106,5 @@ I write about the parts that bite. Twenty-two posts since May, including the mig
 Open to senior software engineering and technical leadership roles, and to consulting engagements on AI workflows, platform reliability, and architecture review.
 
 <a href="https://calendly.com/piyushmehta"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:me@piyushmehta.com?subject=Let's%20collaborate"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a> <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-171a2f?style=for-the-badge&logo=linkedin&logoColor=ffcc68" alt="LinkedIn" /></a> <a href="https://x.com/PiyushMehtas"><img src="https://img.shields.io/badge/X-171a2f?style=for-the-badge&logo=x&logoColor=ffcc68" alt="X" /></a>
+
 **Piyush Mehta** · Senior Software Engineer · [piyushmehta.com](https://piyushmehta.com)
