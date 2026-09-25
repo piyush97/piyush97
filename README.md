@@ -1,265 +1,111 @@
-<div align="center">
+<div align="left">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Piyush+Mehta+%F0%9F%91%8B;Senior+Software+Engineer;TypeScript+%C2%B7+React+%C2%B7+Next.js;Node.js+%C2%B7+NestJS+%C2%B7+Azure;AI%2FLLM+Integrations+%26+Architecture;Building+for+Scale)
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/mark.svg" width="52" height="52" alt="Piyush Mehta monogram" />
 
-<a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/Portfolio-piyushmehta.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/PiyushMehtas"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+# Piyush Mehta
 
-<img src="https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet" alt="Profile Views"/>
-<br/>
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+**Senior Software Engineer · Canada**
 
+I build durable product systems at the seam between ambitious ideas and operational reality — with judgment that can be inspected, challenged, and trusted.
+
+<a href="https://calendly.com/piyushmehta"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a> <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-171a2f?style=for-the-badge&logo=linkedin&logoColor=ffcc68" alt="LinkedIn" /></a> <a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/Portfolio-171a2f?style=for-the-badge&logo=google-chrome&logoColor=ffcc68" alt="Portfolio" /></a>
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="250" height="180" />
+## The thesis, and the proof
 
-## 🚀 About Me
+Most profile READMEs assert a claim. This one shows one.
 
-| | |
-|---|---|
-| 💼 **Role** | Senior Software Engineer |
-| 🔥 **Focus** | Full-Stack · AI/Langchain · Infra/Automation · Architecture |
-| 🌐 **Stack** | TypeScript · React · Next.js · Python · QML |
-| ☁️ **Cloud** | Azure · Vercel · Docker · Proxmox |
-| 🤖 **AI Agents** | MCP servers · AI-driven DevOps/monitoring · LLM integrations |
-| 📝 **Writing** | [piyushmehta.com](https://piyushmehta.com) |
-| 💬 **Open to** | Consulting · Mentoring · Collaboration |
+I moved [this site](https://piyushmehta.com) off Vercel and onto Cloudflare Workers, then wrote up everything that broke. It is the clearest example I have of the thing I am asking to be hired for: not whether a system works on day one, but whether someone can see what it cost and what changed.
 
-### What I'm building
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/record-01.svg" width="180" height="20" alt="01 constraint" />
 
-- 🤖 **MCP + agent tooling** — MCP servers (Proxmox disaster recovery, TS starter) and multi-agent monitoring plugins (WatchBot)
-- 🏗️ **AI/LLM in production apps** — Claude, OpenAI, RAG pipelines, AI-assisted chat/system design
-- 🌐 **Full-stack apps** — Next.js, NestJS, TypeScript end-to-end, scaled for millions of users
-- 🖥️ **Homelab & compositor tooling** — Proxmox/Home Assistant automation, a Hyprland Alt-Tab plugin (OmaSwitch)
-- 📦 **Open source** — shipping current, maintained repos; writing technical deep-dives
+**Constraint.** Vercel's edge model was reaching its ceiling on cost, and a native binary dependency could not run inside a Worker at all.
 
----
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/record-02.svg" width="180" height="20" alt="02 decision" />
 
-## 🐍 Contribution Snake
+**Decision.** Swap `@astrojs/vercel` for `@astrojs/cloudflare` and keep `output: 'server'`, but prerender every public page so only the two API routes execute Worker code.
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/record-03.svg" width="180" height="20" alt="03 outcome" />
 
----
+**Outcome.** Shipped on the Workers Free plan. Along the way: a native-module failure, an Upstash client rewrite, and a blank-social-card regression that reached production social unfurls. All three are written up, not smoothed over.
 
-## 🛠️ Tech Stack
+[Read the migration write-up](https://piyushmehta.com/blog/vercel-to-cloudflare-migration)
 
-### Languages & Frameworks
+<picture>
+  <source media="(max-width: 560px)" srcset="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics-compact.svg">
+  <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics.svg" width="880" height="104" alt="Outcomes: 5+ years building production software; 30% workflow efficiency gain; 35% vulnerability reduction; 1,500+ developers mentored" />
+</picture>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI / LLM
-
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Cloud, DevOps & Tools
-
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+*Published outcomes, sourced from the portfolio: enterprise AI workflow delivery, secure-coding and review loops, and Google Developer Student Clubs and workshop leadership.*
 
 ---
 
-## 📊 GitHub Stats
+## What I build
 
-<div align="center">
+**AI that survives production.** Agent and MCP systems, retrieval pipelines, and LLM integrations designed past the prototype — with evaluation, guardrails, and observability. See [FocusTube](https://github.com/piyush97/focus-tube) and the [MCP server starter](https://github.com/piyush97/mcp-server-typescript-starter).
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+**Content platforms as engineering proof.** This site is a real deployment: Astro 7, React islands, MDX, Tailwind v4, Pagefind search, build-time social cards, and release gates that fail the build rather than let a broken artifact ship.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush97&theme=radical&hide_border=true&height=300" alt="Contribution Graph"/>
+**Infrastructure in public.** A homelab run with GitOps, real disaster recovery after a 12TB drive failed, and [OmaSwitch](https://github.com/piyush97/omaswitch), an Alt-Tab overlay for [Omarchy](https://omarchy.org).
 
-</div>
+**Developer education.** 1,500+ developers mentored through Google Developer Student Clubs, workshops, and long-form technical writing.
 
----
+## Selected work
 
-## 📌 Featured Projects
+**[PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)** — portfolio and technical blog on Cloudflare Workers.
+32 stars · 223 prerendered pages · 2 runtime routes · [v5.0.0](https://github.com/piyush97/PiyushMehta.com/releases)
 
-<div align="center">
+**[awesome-portfolio](https://github.com/piyush97/awesome-portfolio)** — deploy-ready portfolio template in TypeScript.
+23 stars · the starting point other portfolios are built from
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/piyush97/awesome-portfolio">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" alt="awesome-portfolio"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/piyush97/omaswitch">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=omaswitch&theme=radical&hide_border=true" alt="omaswitch"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/piyush97/PiyushMehta.com">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=PiyushMehta.com&theme=radical&hide_border=true" alt="PiyushMehta.com"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/piyush97/watchbot">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=watchbot&theme=radical&hide_border=true" alt="watchbot"/>
-      </a>
-    </td>
-  </tr>
-</table>
+**[OmaSwitch](https://github.com/piyush97/omaswitch)** — Alt-Tab overlay for Omarchy with MRU ordering.
+8 stars · QML · ships as a tagged release
 
-</div>
+**[Homelab](https://github.com/piyush97/Homelab)** and **[GitOps](https://github.com/piyush97/homelab-gitops)** — self-hosted infrastructure, documented in public.
+5 stars · Shell and HCL · survived a real disk failure
+
+**[GitCompete](https://github.com/piyush97/GitCompete)** — compares two public GitHub profiles.
+10 stars · JavaScript
+
+**[interview-prep-portal](https://github.com/piyush97/interview-prep-portal)** — application tracker and interview preparation.
+4 stars · TypeScript
+
+**Stack, honestly.** Across the 24 repositories that carry a language: **TypeScript** in 7, JavaScript in 4, Shell in 3, Python in 2, HTML in 2, and one each of C, QML, HCL, and Dart. Day to day: Astro, React, TypeScript, MDX, Tailwind CSS, Cloudflare Workers, Node.js, PostgreSQL, Azure, OpenAI, LangChain, Docker, Proxmox, QML.
 
 ---
 
-## ⏱️ Coding Activity
+## Writing
 
-<div align="center">
-<img src="https://wakatime.com/share/@piyush97/45fc79fd-9f27-4e60-b777-a2143000a0ba.png" width="350" alt="Wakatime Languages"/>
-<img src="https://wakatime.com/share/@piyush97/b809684b-ced7-42f9-a27f-baebac423df9.png" width="350" alt="Wakatime Activity"/>
-</div>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C331%20hrs%2031%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.16%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 2.3 MB Used in GitHub's Storage 
- > 
-> 🏆 811 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 365 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                18872 commits       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-🌆 Daytime                37003 commits       ██████████░░░░░░░░░░░░░░░   40.41 % 
-🌃 Evening                17312 commits       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-🌙 Night                  18376 commits       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   8907 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Tuesday                  11130 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Wednesday                14586 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Thursday                 18234 commits       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Friday                   16128 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Saturday                 10531 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Sunday                   12047 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               111 repos           ████████░░░░░░░░░░░░░░░░░   30.00 % 
-TypeScript               43 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Python                   20 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Shell                    11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-QML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
-
-
- Last Updated on 25/09/2026 03:06:44 UTC
-<!--END_SECTION:waka-->
-
----
-
-## 📝 Latest Blog Posts
+I write about the parts that bite. Twenty-two posts since May, including the migration above.
 
 <!-- BLOG-POST-LIST:START -->
-- [Building FocusTube with TypeSafe Jev](https://piyushmehta.com/blog/building-focustube-typesafe-jev)
-- [Testing AI Agent Actions: A Runnable Approval and Retry Harness](https://piyushmehta.com/blog/testing-ai-agent-actions)
-- [RAG vs Long Context: When Do You Actually Need Retrieval?](https://piyushmehta.com/blog/rag-vs-long-context)
-- [I Moved This Site From Vercel to Cloudflare. Here Is What Broke.](https://piyushmehta.com/blog/vercel-to-cloudflare-migration)
-- [Herdr Is the Runtime Your Coding Agents Live On](https://piyushmehta.com/blog/herdr-terminal-multiplexer-coding-agents)
-- [My 12TB Drive Failed. ZFS Saved 3.4TB of Data](https://piyushmehta.com/blog/zfs-saved-my-data-seagate-warranty)
-- [OmaSwitch: The Alt+Tab Omarchy Has Been Missing](https://piyushmehta.com/blog/omaswitch-alt-tab-omarchy)
-- [From Cron to Event-Driven: A Migration Playbook](https://piyushmehta.com/blog/cron-to-event-driven)
-- [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com/blog/agents-md-repository-context)
-- [Running a Coding Agent on DeepSeek V4 Flash: The 1M-Context Cheap Workhorse](https://piyushmehta.com/blog/deepseek-v4-flash-0731)
+*Latest posts appear here automatically from the site feed.*
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-➡️ <a href="https://piyushmehta.com"><strong>Read all posts on my blog</strong></a>
-</div>
+[Read all posts on piyushmehta.com](https://piyushmehta.com)
 
 ---
 
-## ⚡ Recent Activity
+## Contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg">
+  <img alt="GitHub contribution graph rendered as a snake" src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake.svg" width="100%">
+</picture>
+
+## Recent activity
 
 <!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#21701](https://github.com/xbmc/xbmc/issues/21701#issuecomment-2755175497) in [xbmc/xbmc](https://github.com/xbmc/xbmc)
-2. 💪 Opened PR [#20](https://github.com/SlideFusion/SlideFusion/pull/20) in [SlideFusion/SlideFusion](https://github.com/SlideFusion/SlideFusion)
-3. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2735012152) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
-4. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2734984237) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
-5. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
+*Recent GitHub activity appears here automatically.*
 <!--END_SECTION:activity-->
 
 ---
 
-<div align="center">
+## Let's talk
 
-### Let's build something great together
+Open to senior software engineering and technical leadership roles, and to consulting engagements on AI workflows, platform reliability, and architecture review.
 
-<a href="mailto:me@piyushmehta.com?subject=Let's%20Collaborate&body=Hi%20Piyush,"><img src="https://img.shields.io/badge/Hire%20Me-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Me"/></a>
-<a href="https://calendly.com/piyushmehta"><img src="https://img.shields.io/badge/Book%20a%20Call-blue?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a Call"/></a>
-<a href="https://piyushmehta.com/resume"><img src="https://img.shields.io/badge/View%20Resume-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/></a>
-
-</div>
-
-[website]: https://piyushmehta.com
-[twitter]: https://x.com/PiyushMehtas
-[instagram]: https://instagram.com/coderwhoknows
-[linkedin]: https://linkedin.com/in/piyush24
-[webdev]: https://piyushmehta.com
+<a href="https://calendly.com/piyushmehta"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:me@piyushmehta.com?subject=Let's%20collaborate"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a> <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-171a2f?style=for-the-badge&logo=linkedin&logoColor=ffcc68" alt="LinkedIn" /></a> <a href="https://x.com/PiyushMehtas"><img src="https://img.shields.io/badge/X-171a2f?style=for-the-badge&logo=x&logoColor=ffcc68" alt="X" /></a>
+**Piyush Mehta** · Senior Software Engineer · [piyushmehta.com](https://piyushmehta.com)

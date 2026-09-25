@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="20" viewBox="0 0 190 20" role="img" aria-label="01 constraint">
+  <style>
+  :root{
+    --ink:#171a2f;
+    --surface:#222640;
+    --text:#f6f7ff;
+    --secondary:#b4bad8;
+    --muted:#8f96ba;
+    --rule:#343a5f;
+    --signal:#ffcc68;
+    --paper:#f6f3ea;
+    --paper-surface:#fffaf0;
+    --ink-text:#121827;
+    --paper-rule:#ddd3c2;
+    --paper-signal:#8d3d1f;
+  }
+  @media (prefers-color-scheme: light){
+    :root{
+      --ink:#f6f3ea;
+      --surface:#fffaf0;
+      --text:#121827;
+      --secondary:#5a5f70;
+      --muted:#7c8093;
+      --rule:#ddd3c2;
+      --signal:#8d3d1f;
+    }
+  }
+    .n{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:13px;font-weight:700;fill:var(--signal)}
+    .l{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:13px;font-weight:700;letter-spacing:0.12em;fill:var(--text)}
+  </style>
+  <text class="n" x="0" y="14">01</text>
+  <line x1="26" y1="4" x2="26" y2="16" stroke="var(--rule)" stroke-width="1"/>
+  <text class="l" x="36" y="14">CONSTRAINT</text>
+</svg>
