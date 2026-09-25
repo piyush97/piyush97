@@ -8,7 +8,7 @@
 
 ### I build durable product systems at the seam between ambitious ideas and operational reality — with judgment that can be inspected, challenged, and trusted.
 
-<a href="https://calendly.com/piyushmehta/15min"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a> <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-171a2f?style=for-the-badge&logo=linkedin&logoColor=ffcc68" alt="LinkedIn" /></a> <a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/Writing-171a2f?style=for-the-badge&logo=google-chrome&logoColor=ffcc68" alt="Writing" /></a>
+<a href="https://calendly.com/piyushmehta/15min"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:contact@piyushmehta.com"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a> <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-171a2f?style=for-the-badge&logo=linkedin&logoColor=ffcc68" alt="LinkedIn" /></a> <a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/Writing-171a2f?style=for-the-badge&logo=google-chrome&logoColor=ffcc68" alt="Writing" /></a>
 
 </div>
 
@@ -145,6 +145,6 @@ Twenty-two posts since May, on AI agents, MCP, system design, career decisions, 
 
 Open to senior software engineering and technical leadership roles, and to consulting on AI workflows, platform reliability, and architecture review.
 
-<a href="https://calendly.com/piyushmehta/15min"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:me@piyushmehta.com?subject=Let's%20collaborate"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a>
+<a href="https://calendly.com/piyushmehta/15min"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:contact@piyushmehta.com?subject=Let's%20collaborate"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a>
 
 **Piyush Mehta** · Senior Software Engineer · [piyushmehta.com](https://piyushmehta.com)
