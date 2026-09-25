@@ -160,9 +160,29 @@ These are GitHub's, not choices, and are recorded rather than papered over:
   one place the masthead's grounds disagree. The alternative was no action row,
   which is worse on a Persuade surface.
 - **`<hr>` is heavier than the 1px hairline** the contract specifies, and `h1`/`h2`
-  underlines are GitHub's `--borderColor`. Three rule weights exist on the page.
-  Every top-level section receives the same `---` so at least the rhythm is
-  uniform.
+  underlines are GitHub's `--borderColor`. Two rule weights, not three.
+
+- **The contribution graph is off-palette and fails contrast.** `Platane/snk`
+  renders GitHub greens (`#00c647`, `#7ee787`, `#4ac26b`, `#0f6d31`) plus a
+  purple snake stub, six inks and none of them the ledger's, and the generator
+  takes no palette argument for the cell fills. In light mode it is by a wide
+  margin the most saturated object on the page, which inverts "the accent stays
+  rare": the accent's competitor is enormous.
+
+  It is also an accessibility failure, and this one is not a matter of taste.
+  WCAG 1.4.11 requires 3:1 for meaningful graphics. Measured against their
+  grounds, `#7ee787` is **1.54:1**, `#00c647` is **2.29:1**, and dark-mode
+  `#0f6d31` is **2.93:1**. The lowest-activity cells are effectively invisible,
+  so the graph flatters its own subject by hiding absence.
+
+  **Open decision.** Every other breach on this list is GitHub refusing to render
+  something. This one is a third-party asset that is kept on purpose. The
+  alternatives are recolouring the generator, replacing it with a
+  ledger-native contribution view, or cutting it. Cutting also removes the
+  `START_SECTION:activity` block, which is four issue comments and one PR —
+  two of them on the same issue — sitting in the last 15% of the page, directly
+  before the call to action. For a hiring manager that reads as drive-by
+  commenting rather than as evidence.
 
 ## Automation
 

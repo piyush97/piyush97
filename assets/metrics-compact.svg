@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="460" height="208" viewBox="0 0 460 208" role="img" aria-label="Outcomes: 5+ years shipping production software; 1,500+ developers mentored; 30% workflow efficiency gain; 35% vulnerabilities reduced">
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="208" viewBox="0 0 460 208" role="img" aria-label="Outcomes: 7+ years of professional work; 1,500+ developers mentored; 30% workflow efficiency gain; 35% vulnerabilities reduced">
   <style>
   :root{
     --ink:#171a2f;
@@ -32,9 +32,9 @@
   </style>
   <line class="r" x1="0" y1="0.5" x2="460" y2="0.5"/>
   
-  <text class="v" x="0" y="46">5+</text>
-  <text class="l" x="0" y="70">YEARS SHIPPING</text>
-  <text class="s" x="0" y="86">production software</text>
+  <text class="v" x="0" y="46">7+</text>
+  <text class="l" x="0" y="70">YEARS OF</text>
+  <text class="s" x="0" y="86">professional work</text>
   <line class="r" x1="230" y1="18" x2="230" y2="88"/>
   <text class="v" x="254" y="46">1,500+</text>
   <text class="l" x="254" y="70">DEVELOPERS</text>

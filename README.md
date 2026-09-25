@@ -1,12 +1,12 @@
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/mark.svg" width="52" height="52" alt="Piyush Mehta monogram" />
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/mark.svg" alt="Piyush Mehta monogram" />
 
 # Piyush Mehta
 
 **Senior Software Engineer · Toronto, Canada**
 
-I build durable product systems at the seam between ambitious ideas and operational reality — with judgment that can be inspected, challenged, and trusted.
+### I build durable product systems at the seam between ambitious ideas and operational reality — with judgment that can be inspected, challenged, and trusted.
 
 <a href="https://calendly.com/piyushmehta"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a> <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-171a2f?style=for-the-badge&logo=linkedin&logoColor=ffcc68" alt="LinkedIn" /></a> <a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/Writing-171a2f?style=for-the-badge&logo=google-chrome&logoColor=ffcc68" alt="Writing" /></a>
 
@@ -16,36 +16,36 @@ I build durable product systems at the seam between ambitious ideas and operatio
 
 ## Where I've worked
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-01.svg" alt="01 Tundra Technical Solutions 2025" />
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-01.svg" alt="01, 2025" />
 
-**Senior Software Engineer** · Remote · Jul 2025 to present
+**Senior Software Engineer**, Tundra Technical Solutions · Remote · Jul 2025 to present
 
 Enterprise software and AI delivery for a major Ontario energy client. I lead architecture for LLM systems that have to survive contact with production: RAG pipelines, MCP tools, and agentic workflows. Part of the job is coaching teams on secure, durable engineering practice.
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-02.svg" alt="02 BDO Canada LLP 2023" />
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-02.svg" alt="02, 2023" />
 
-**Senior Software Consultant** · Oakville, ON · Jan 2023 to Jun 2025
+**Senior Software Consultant**, BDO Canada LLP · Oakville, ON · Jan 2023 to Jun 2025
 
 Internal and client-facing platforms across AI, automation, and secure application delivery. Worked with teams including OPG, GreenShield Canada, and BDO USA. Built AI dashboards and chatbots on Azure, OpenAI, Node.js, TypeScript, and PostgreSQL. Workflow efficiency up 30%, tracked vulnerabilities down 35%. Received BDO's Golden Recognition Award for delivery impact.
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-03.svg" alt="03 Nuclei 2020" />
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-03.svg" alt="03, 2020" />
 
-**Full Stack Developer** · Bangalore, India · Jan 2020 to Dec 2021
+**Full Stack Developer**, Nuclei · Bangalore, India · Jan 2020 to Dec 2021
 
 Product engineering on a progressive web application and its supporting services. React, Node.js, and SQL, with the application structure kept understandable as features accumulated. Cut tracked vulnerabilities 40%, and automated the analytics pipeline on AWS microservices to take 25% out of its operating cost.
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-04.svg" alt="04 Google Developer Student Clubs 2018" />
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-04.svg" alt="04, 2018" />
 
-**DSC Lead Intern** · Bangalore, India · Dec 2018 to May 2020
+**DSC Lead Intern**, Google · Bangalore, India · Dec 2018 to May 2020
 
 Developer education and community leadership. Mentored 1,500+ developers on web engineering and system design, supported 200+ job placements through teaching and coaching, and ran DevFest events and hands-on programs.
 
 <picture>
   <source media="(max-width: 560px)" srcset="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics-compact.svg">
-  <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics.svg" width="880" height="104" alt="Outcomes: 5+ years shipping production software; 1,500+ developers mentored; 30% workflow efficiency gain; 35% vulnerabilities reduced" />
+  <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics.svg" alt="Outcomes: 5+ years shipping production software; 1,500+ developers mentored; 30% workflow efficiency gain; 35% vulnerabilities reduced" />
 </picture>
 
-*Each figure comes from a role above: the mentoring numbers from the Google years, the efficiency and security results from the BDO years.*
+*The mentoring figures come from the Google years, the efficiency and security results from the BDO years. The span comes from the first role to now.*
 
 ---
 
@@ -53,7 +53,7 @@ Developer education and community leadership. Mentored 1,500+ developers on web 
 
 **MCP servers and agent tooling.** [Proxmox disaster recovery over MCP](https://github.com/piyush97/proxmox-dr-mcp) with pre-flight checks, a [production-grade TypeScript MCP starter](https://github.com/piyush97/mcp-server-typescript-starter), [WatchBot](https://github.com/piyush97/watchbot) for homelab and social monitoring, and an [OpenCode plugin](https://github.com/piyush97/opencode-omniroute-v2) for live model routing.
 
-**Infrastructure I actually operate.** A 24-container Proxmox homelab run as code: [GitOps and IaC in HCL](https://github.com/piyush97/homelab-gitops), [dotfiles](https://github.com/piyush97/dotfiles-arch) for Arch and Hyprland, and a setup that has survived a real disk failure. [OmaSwitch](https://github.com/piyush97/omaswitch) is an Alt-Tab overlay for [Omarchy](https://omarchy.org), written in QML.
+**Infrastructure I actually operate.** A 24-container Proxmox homelab run as code: [GitOps and IaC in HCL](https://github.com/piyush97/homelab-gitops), a macOS-inspired [Arch dotfiles](https://github.com/piyush97/dotfiles-arch) setup on KDE, tmux, and ghostty, and infrastructure that has survived a real disk failure. [OmaSwitch](https://github.com/piyush97/omaswitch) is an Alt-Tab overlay for [Omarchy](https://omarchy.org), written in QML.
 
 **AI products past the prototype.** [FocusTube](https://github.com/piyush97/focus-tube), a distraction-free learning feed, and [health-visualizer](https://github.com/piyush97/health-visualizer), which turns an Apple Health export into something you can ask questions of. [SlideFusion](https://github.com/piyush97/SlideFusion) is an AI-assisted presentation workspace on Next.js, tRPC, and Prisma.
 
@@ -83,13 +83,16 @@ Developer education and community leadership. Mentored 1,500+ developers on web 
 **[OmaSwitch](https://github.com/piyush97/omaswitch)**: Alt-Tab overlay for Omarchy, with MRU ordering and type-to-search.
 8 stars · QML
 
-**[Homelab](https://github.com/piyush97/Homelab)** and **[homelab-gitops](https://github.com/piyush97/homelab-gitops)**: the homelab, documented in public.
-5 stars · Shell and HCL
+**[Homelab](https://github.com/piyush97/Homelab)**: the homelab, documented in public.
+5 stars · Shell
+
+**[homelab-gitops](https://github.com/piyush97/homelab-gitops)**: the same homelab as infrastructure as code.
+2 stars · HCL
 
 **[interview-prep-portal](https://github.com/piyush97/interview-prep-portal)**: application tracker and interview preparation.
 4 stars · TypeScript
 
-**Stack.** Across the 24 repositories that carry a language: **TypeScript** in 8, JavaScript in 4, Shell in 3, HTML in 2, Python in 2, and one each of C, Jupyter Notebook, HCL, Dart, and QML. Day to day: TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Redis, Python, Azure, AWS, Cloudflare, Docker, Kubernetes, Terraform.
+**Stack.** Across the 23 repositories I wrote that carry a language: **TypeScript** in 8, Shell and JavaScript in 3 each, HTML and Python in 2 each, and one each of C, Jupyter Notebook, HCL, Dart, and QML. Also worked with: React, Node.js, PostgreSQL, Redis, Python, Azure, AWS, Cloudflare, Docker, Kubernetes, Terraform.
 
 **Education.** Master of Applied Computing, University of Windsor. B.E. in Information Science and Engineering, Ramaiah Institute of Technology.
 
@@ -142,6 +145,6 @@ Twenty-two posts since May, on AI agents, MCP, system design, career decisions, 
 
 Open to senior software engineering and technical leadership roles, and to consulting on AI workflows, platform reliability, and architecture review.
 
-<a href="https://calendly.com/piyushmehta"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:me@piyushmehta.com?subject=Let's%20collaborate"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a> <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-171a2f?style=for-the-badge&logo=linkedin&logoColor=ffcc68" alt="LinkedIn" /></a> <a href="https://x.com/PiyushMehtas"><img src="https://img.shields.io/badge/X-171a2f?style=for-the-badge&logo=x&logoColor=ffcc68" alt="X" /></a>
+<a href="https://calendly.com/piyushmehta"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:me@piyushmehta.com?subject=Let's%20collaborate"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a>
 
 **Piyush Mehta** · Senior Software Engineer · [piyushmehta.com](https://piyushmehta.com)

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="470" height="20" viewBox="0 0 470 20" role="img" aria-label="03 nuclei 2020">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="20" viewBox="0 0 128 20" role="img" aria-label="03, 2020">
   <style>
   :root{
     --ink:#171a2f;
@@ -26,11 +26,9 @@
     }
   }
     .n{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:13px;font-weight:700;fill:var(--signal)}
-    .l{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:13px;font-weight:700;letter-spacing:0.12em;fill:var(--text)}
-    .y{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:13px;font-weight:400;fill:var(--muted)}
+    .y{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:13px;font-weight:400;letter-spacing:0.12em;fill:var(--muted)}
   </style>
   <text class="n" x="0" y="14">03</text>
   <line x1="26" y1="4" x2="26" y2="16" stroke="var(--rule)" stroke-width="1"/>
-  <text class="l" x="36" y="14">NUCLEI</text>
-  <text class="y" x="470" y="14" text-anchor="end">2020</text>
+  <text class="y" x="128" y="14" text-anchor="end">2020</text>
 </svg>
