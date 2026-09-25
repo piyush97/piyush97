@@ -17,17 +17,17 @@ I build durable product systems at the seam between ambitious ideas and operatio
 
 I moved [this site](https://piyushmehta.com) off Vercel and onto Cloudflare Workers, then wrote up what broke. It is the clearest example I have of the kind of work I am asking to be hired for.
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/record-01.svg" width="180" height="20" alt="01 constraint" />
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/record-01.svg" alt="01 constraint" />
 
-**Constraint.** Vercel's edge model was reaching its ceiling on cost, and a native binary dependency could not run inside a Worker at all.
+Vercel's edge model was reaching its ceiling on cost, and a native binary dependency could not run inside a Worker at all.
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/record-02.svg" width="180" height="20" alt="02 decision" />
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/record-02.svg" alt="02 decision" />
 
-**Decision.** Swap `@astrojs/vercel` for `@astrojs/cloudflare` and keep `output: 'server'`, but prerender every public page so only the two API routes execute Worker code.
+Swap `@astrojs/vercel` for `@astrojs/cloudflare` and keep `output: 'server'`, but prerender every public page so only the two API routes execute Worker code.
 
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/record-03.svg" width="180" height="20" alt="03 outcome" />
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/record-03.svg" alt="03 outcome" />
 
-**Outcome.** Shipped on the Workers Free plan. Along the way: a native-module failure, an Upstash client rewrite, and a blank-social-card regression that reached production social unfurls. The write-up covers all three.
+Shipped on the Workers Free plan. Along the way: a native-module failure, an Upstash client rewrite, and a blank-social-card regression that reached production social unfurls. The write-up covers all three.
 
 [Read the migration write-up](https://piyushmehta.com/blog/vercel-to-cloudflare-migration)
 
@@ -50,6 +50,8 @@ I moved [this site](https://piyushmehta.com) off Vercel and onto Cloudflare Work
 
 **Developer education.** 1,500+ developers mentored through Google Developer Student Clubs, workshops, and long-form technical writing.
 
+---
+
 ## Selected work
 
 **[PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)**: portfolio and technical blog on Cloudflare Workers.
@@ -70,7 +72,7 @@ I moved [this site](https://piyushmehta.com) off Vercel and onto Cloudflare Work
 **[interview-prep-portal](https://github.com/piyush97/interview-prep-portal)**: application tracker and interview preparation.
 4 stars · TypeScript
 
-**Stack.** Across the 24 repositories that carry a language: **TypeScript** in 7, JavaScript in 4, Shell in 3, Python in 2, HTML in 2, and one each of C, QML, HCL, and Dart. Day to day: Astro, React, TypeScript, MDX, Tailwind CSS, Cloudflare Workers, Node.js, PostgreSQL, Azure, OpenAI, LangChain, Docker, Proxmox, QML.
+**Stack.** Across the 24 repositories that carry a language: **TypeScript** in 8, JavaScript in 4, Shell in 3, HTML in 2, Python in 2, and one each of C, Jupyter Notebook, HCL, Dart, and QML. Day to day: Astro, React, TypeScript, MDX, Tailwind CSS, Cloudflare Workers, Node.js, PostgreSQL, Azure, OpenAI, LangChain, Docker, Proxmox, QML.
 
 ---
 
@@ -79,7 +81,16 @@ I moved [this site](https://piyushmehta.com) off Vercel and onto Cloudflare Work
 Twenty-two posts since May, including the migration above. The list below updates itself from the site feed.
 
 <!-- BLOG-POST-LIST:START -->
-*Latest posts appear here automatically from the site feed.*
+- [Building FocusTube with TypeSafe Jev](https://piyushmehta.com/blog/building-focustube-typesafe-jev)
+- [Testing AI Agent Actions: A Runnable Approval and Retry Harness](https://piyushmehta.com/blog/testing-ai-agent-actions)
+- [RAG vs Long Context: When Do You Actually Need Retrieval?](https://piyushmehta.com/blog/rag-vs-long-context)
+- [I Moved This Site From Vercel to Cloudflare. Here Is What Broke.](https://piyushmehta.com/blog/vercel-to-cloudflare-migration)
+- [Herdr Is the Runtime Your Coding Agents Live On](https://piyushmehta.com/blog/herdr-terminal-multiplexer-coding-agents)
+- [My 12TB Drive Failed. ZFS Saved 3.4TB of Data](https://piyushmehta.com/blog/zfs-saved-my-data-seagate-warranty)
+- [OmaSwitch: The Alt+Tab Omarchy Has Been Missing](https://piyushmehta.com/blog/omaswitch-alt-tab-omarchy)
+- [From Cron to Event-Driven: A Migration Playbook](https://piyushmehta.com/blog/cron-to-event-driven)
+- [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com/blog/agents-md-repository-context)
+- [Running a Coding Agent on DeepSeek V4 Flash: The 1M-Context Cheap Workhorse](https://piyushmehta.com/blog/deepseek-v4-flash-0731)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all posts on piyushmehta.com](https://piyushmehta.com)
@@ -93,10 +104,17 @@ Twenty-two posts since May, including the migration above. The list below update
   <img alt="GitHub contribution graph rendered as a snake" src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake.svg" width="100%">
 </picture>
 
+---
+
 ## Recent activity
 
 <!--START_SECTION:activity-->
-*Recent GitHub activity appears here automatically.*
+
+1. 🗣 Commented on [#21701](https://github.com/xbmc/xbmc/issues/21701#issuecomment-2755175497) in [xbmc/xbmc](https://github.com/xbmc/xbmc)
+2. 💪 Opened PR [#20](https://github.com/SlideFusion/SlideFusion/pull/20) in [SlideFusion/SlideFusion](https://github.com/SlideFusion/SlideFusion)
+3. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2735012152) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
+4. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2734984237) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
+5. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
 ---

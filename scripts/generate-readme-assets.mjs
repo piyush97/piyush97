@@ -62,7 +62,7 @@ const TOKENS = `
       --surface:${INK.paperSurface};
       --text:${INK.inkText};
       --secondary:#5a5f70;
-      --muted:#7c8093;
+      --muted:#666c7d;
       --rule:${INK.paperBorder};
       --signal:${INK.rust};
     }
@@ -78,8 +78,16 @@ const write = (name, svg) => {
 // mark rather than a pill, per the world's shape language.
 const mark = `
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Piyush Mehta monogram">
-  <style>${TOKENS}</style>
-  <rect x="1" y="1" width="62" height="62" rx="8" fill="var(--surface)" stroke="var(--rule)" stroke-width="1"/>
+  <style>${TOKENS}
+    /* In light mode the mark's own surface is #fffaf0 on a #ffffff page, about
+       2% luminance apart, so the tile was carried entirely by a 1px #ddd3c2
+       border at 1.48:1 and effectively disappeared. Give the light scheme a
+       border dark enough to read as an edge. */
+    @media (prefers-color-scheme: light){
+      .mk{fill:${INK.paperSurface};stroke:#9a8f7c}
+    }
+  </style>
+  <rect class="mk" x="1" y="1" width="62" height="62" rx="8" fill="var(--surface)" stroke="var(--rule)" stroke-width="1"/>
   <text x="32" y="33" text-anchor="middle" dominant-baseline="central"
         font-family="${SANS}" font-size="24" font-weight="800" letter-spacing="0.02em"
         fill="var(--signal)">PM</text>
@@ -177,10 +185,16 @@ const RECORDS = [
   { n: '03', label: 'OUTCOME' },
 ];
 
+// A uniform canvas, not a per-label one. The three markers share a single
+// font-size/weight/tracking rule, so they must render at one scale: an earlier
+// version sized each canvas to its own label length and the README then forced
+// all three to width="180", which stretched OUTCOME by 1.146x and squeezed
+// CONSTRAINT by 0.947x. Fixed canvas plus no forced width in the README means
+// one scale, and the ragged right edge of the labels reads as intentional.
+const REC_W = 200;
 for (const { n, label } of RECORDS) {
-  const w = 34 + label.length * 11 + 46;
   const marker = `
-<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="20" viewBox="0 0 ${w} 20" role="img" aria-label="${n} ${label.toLowerCase()}">
+<svg xmlns="http://www.w3.org/2000/svg" width="${REC_W}" height="20" viewBox="0 0 ${REC_W} 20" role="img" aria-label="${n} ${label.toLowerCase()}">
   <style>${TOKENS}
     .n{font-family:${MONO};font-size:13px;font-weight:700;fill:var(--signal)}
     .l{font-family:${MONO};font-size:13px;font-weight:700;letter-spacing:0.12em;fill:var(--text)}

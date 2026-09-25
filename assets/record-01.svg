@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="190" height="20" viewBox="0 0 190 20" role="img" aria-label="01 constraint">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="20" viewBox="0 0 200 20" role="img" aria-label="01 constraint">
   <style>
   :root{
     --ink:#171a2f;
@@ -20,7 +20,7 @@
       --surface:#fffaf0;
       --text:#121827;
       --secondary:#5a5f70;
-      --muted:#7c8093;
+      --muted:#666c7d;
       --rule:#ddd3c2;
       --signal:#8d3d1f;
     }

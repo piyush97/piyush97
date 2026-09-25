@@ -20,7 +20,7 @@
       --surface:#fffaf0;
       --text:#121827;
       --secondary:#5a5f70;
-      --muted:#7c8093;
+      --muted:#666c7d;
       --rule:#ddd3c2;
       --signal:#8d3d1f;
     }
