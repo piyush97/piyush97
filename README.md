@@ -1,220 +1,108 @@
-<div align="center">
+<div align="left">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Piyush+Mehta+%F0%9F%91%8B;Senior+Software+Engineer;TypeScript+%C2%B7+React+%C2%B7+Next.js;Node.js+%C2%B7+NestJS+%C2%B7+Azure;AI%2FLLM+Integrations+%26+Architecture;Building+for+Scale)
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/mark.svg" alt="Piyush Mehta monogram" />
 
-<a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/Portfolio-piyushmehta.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/PiyushMehtas"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+# Piyush Mehta
 
-<img src="https://komarev.com/ghpvc/?username=piyush97&style=flat-square&color=blueviolet" alt="Profile Views"/>
-<br/>
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=piyush97&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+**Senior Software Engineer · Toronto, Canada**
 
-</div>
+### I build durable product systems at the seam between ambitious ideas and operational reality — with judgment that can be inspected, challenged, and trusted.
 
----
-
-<img align="right" alt="Coding GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="250" height="180" />
-
-## 🚀 About Me
-
-| | |
-|---|---|
-| 💼 **Role** | Senior Software Engineer |
-| 🔥 **Focus** | Full-Stack · AI/Langchain · Infra/Automation · Architecture |
-| 🌐 **Stack** | TypeScript · React · Next.js · Python · QML |
-| ☁️ **Cloud** | Azure · Vercel · Docker · Proxmox |
-| 🤖 **AI Agents** | MCP servers · AI-driven DevOps/monitoring · LLM integrations |
-| 📝 **Writing** | [piyushmehta.com](https://piyushmehta.com) |
-| 💬 **Open to** | Consulting · Mentoring · Collaboration |
-
-### What I'm building
-
-- 🤖 **MCP + agent tooling** — MCP servers (Proxmox disaster recovery, TS starter) and multi-agent monitoring plugins (WatchBot)
-- 🏗️ **AI/LLM in production apps** — Claude, OpenAI, RAG pipelines, AI-assisted chat/system design
-- 🌐 **Full-stack apps** — Next.js, NestJS, TypeScript end-to-end, scaled for millions of users
-- 🖥️ **Homelab & compositor tooling** — Proxmox/Home Assistant automation, a Hyprland Alt-Tab plugin (OmaSwitch)
-- 📦 **Open source** — shipping current, maintained repos; writing technical deep-dives
-
----
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI / LLM
-
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Cloud, DevOps & Tools
-
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=piyush97&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=piyush97&layout=compact&hide=JupyterNotebook&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush97&theme=radical&hide_border=true&height=300" alt="Contribution Graph"/>
+<a href="https://calendly.com/piyushmehta/15min"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:contact@piyushmehta.com"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a> <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-171a2f?style=for-the-badge&logo=linkedin&logoColor=ffcc68" alt="LinkedIn" /></a> <a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/Writing-171a2f?style=for-the-badge&logo=google-chrome&logoColor=ffcc68" alt="Writing" /></a>
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## Where I've worked
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-01.svg" alt="01, 2025" />
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/piyush97/awesome-portfolio">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=awesome-portfolio&theme=radical&hide_border=true" alt="awesome-portfolio"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/piyush97/omaswitch">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=omaswitch&theme=radical&hide_border=true" alt="omaswitch"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/piyush97/PiyushMehta.com">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=PiyushMehta.com&theme=radical&hide_border=true" alt="PiyushMehta.com"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/piyush97/watchbot">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=piyush97&repo=watchbot&theme=radical&hide_border=true" alt="watchbot"/>
-      </a>
-    </td>
-  </tr>
-</table>
+**Senior Software Engineer**, Tundra Technical Solutions · Remote · Jul 2025 to present
 
-</div>
+Enterprise software and AI delivery for a major Ontario energy client. I lead architecture for LLM systems that have to survive contact with production: RAG pipelines, MCP tools, and agentic workflows. Part of the job is coaching teams on secure, durable engineering practice.
 
----
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-02.svg" alt="02, 2023" />
 
-## ⏱️ Coding Activity
+**Senior Software Consultant**, BDO Canada LLP · Oakville, ON · Jan 2023 to Jun 2025
 
-<div align="center">
-<img src="https://wakatime.com/share/@piyush97/45fc79fd-9f27-4e60-b777-a2143000a0ba.png" width="350" alt="Wakatime Languages"/>
-<img src="https://wakatime.com/share/@piyush97/b809684b-ced7-42f9-a27f-baebac423df9.png" width="350" alt="Wakatime Activity"/>
-</div>
+Internal and client-facing platforms across AI, automation, and secure application delivery. Worked with teams including OPG, GreenShield Canada, and BDO USA. Built AI dashboards and chatbots on Azure, OpenAI, Node.js, TypeScript, and PostgreSQL. Workflow efficiency up 30%, tracked vulnerabilities down 35%. Received BDO's Golden Recognition Award for delivery impact.
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C331%20hrs%2031%20mins-blue?style=flat)
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-03.svg" alt="03, 2020" />
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.16%20million%20lines%20of%20code-blue?style=flat)
+**Full Stack Developer**, Nuclei · Bangalore, India · Jan 2020 to Dec 2021
 
-**🐱 My GitHub Data** 
+Product engineering on a progressive web application and its supporting services. React, Node.js, and SQL, with the application structure kept understandable as features accumulated. Cut tracked vulnerabilities 40%, and automated the analytics pipeline on AWS microservices to take 25% out of its operating cost.
 
-> 📦 2.3 MB Used in GitHub's Storage 
- > 
-> 🏆 811 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 365 Private Repositories 
- > 
-**I'm an Early 🐤** 
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-04.svg" alt="04, 2018" />
 
-```text
-🌞 Morning                18872 commits       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-🌆 Daytime                37003 commits       ██████████░░░░░░░░░░░░░░░   40.41 % 
-🌃 Evening                17312 commits       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-🌙 Night                  18376 commits       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-```
-📅 **I'm Most Productive on Thursday** 
+**DSC Lead Intern**, Google · Bangalore, India · Dec 2018 to May 2020
 
-```text
-Monday                   8907 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Tuesday                  11130 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Wednesday                14586 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Thursday                 18234 commits       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Friday                   16128 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Saturday                 10531 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Sunday                   12047 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-```
+Developer education and community leadership. Mentored 1,500+ developers on web engineering and system design, supported 200+ job placements through teaching and coaching, and ran DevFest events and hands-on programs.
 
+<picture>
+  <source media="(max-width: 560px)" srcset="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics-compact.svg">
+  <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics.svg" alt="Outcomes: 5+ years shipping production software; 1,500+ developers mentored; 30% workflow efficiency gain; 35% vulnerabilities reduced" />
+</picture>
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               111 repos           ████████░░░░░░░░░░░░░░░░░   30.00 % 
-TypeScript               43 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Python                   20 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Shell                    11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-QML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/piyush97/piyush97/master/assets/bar_graph.png)
-
-
- Last Updated on 25/09/2026 03:06:44 UTC
-<!--END_SECTION:waka-->
+*The mentoring figures come from the Google years, the efficiency and security results from the BDO years. The span comes from the first role to now.*
 
 ---
 
-## 📝 Latest Blog Posts
+## What I build
+
+**MCP servers and agent tooling.** [Proxmox disaster recovery over MCP](https://github.com/piyush97/proxmox-dr-mcp) with pre-flight checks, a [production-grade TypeScript MCP starter](https://github.com/piyush97/mcp-server-typescript-starter), [WatchBot](https://github.com/piyush97/watchbot) for homelab and social monitoring, and an [OpenCode plugin](https://github.com/piyush97/opencode-omniroute-v2) for live model routing.
+
+**Infrastructure I actually operate.** A 24-container Proxmox homelab run as code: [GitOps and IaC in HCL](https://github.com/piyush97/homelab-gitops), a macOS-inspired [Arch dotfiles](https://github.com/piyush97/dotfiles-arch) setup on KDE, tmux, and ghostty, and infrastructure that has survived a real disk failure. [OmaSwitch](https://github.com/piyush97/omaswitch) is an Alt-Tab overlay for [Omarchy](https://omarchy.org), written in QML.
+
+**AI products past the prototype.** [FocusTube](https://github.com/piyush97/focus-tube), a distraction-free learning feed, and [health-visualizer](https://github.com/piyush97/health-visualizer), which turns an Apple Health export into something you can ask questions of. [SlideFusion](https://github.com/piyush97/SlideFusion) is an AI-assisted presentation workspace on Next.js, tRPC, and Prisma.
+
+**Tools other people start from.** [awesome-portfolio](https://github.com/piyush97/awesome-portfolio) is a deploy-ready portfolio template, at 23 stars the second most-starred repo on this account. [GitCompete](https://github.com/piyush97/GitCompete) compares two public GitHub profiles. [Slika-API](https://github.com/piyush97/Slika-API) is a REST API for college note sharing, finished and archived. Earlier: [khel-ke-baat-karen](https://github.com/piyush97/khel-ke-baat-karen), a Dart app for autistic children, and [6thSemISE](https://github.com/piyush97/6thSemISE), lab work in C.
+
+## How I work
+
+- Start with the workflow and the failure modes before choosing the implementation shape.
+- Keep systems observable, typed, and boring where reliability matters most.
+- Document tradeoffs clearly, so teams can change direction without losing context.
+- Use evidence, tests, and operational feedback to decide when an abstraction has earned its keep.
+
+## Selected work
+
+**[PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)**: my portfolio and technical blog, on Astro 7 and Cloudflare Workers.
+32 stars · 223 prerendered pages · two runtime API routes · [v5.0.0](https://github.com/piyush97/PiyushMehta.com/releases)
+
+**[awesome-portfolio](https://github.com/piyush97/awesome-portfolio)**: a deploy-ready portfolio template in TypeScript.
+23 stars
+
+**[Slika-API](https://github.com/piyush97/Slika-API)**: an open source REST API for college and classroom notes, now archived.
+10 stars · JavaScript
+
+**[GitCompete](https://github.com/piyush97/GitCompete)**: compares two public GitHub profiles.
+10 stars · JavaScript
+
+**[OmaSwitch](https://github.com/piyush97/omaswitch)**: Alt-Tab overlay for Omarchy, with MRU ordering and type-to-search.
+8 stars · QML
+
+**[Homelab](https://github.com/piyush97/Homelab)**: the homelab, documented in public.
+5 stars · Shell
+
+**[homelab-gitops](https://github.com/piyush97/homelab-gitops)**: the same homelab as infrastructure as code.
+2 stars · HCL
+
+**[interview-prep-portal](https://github.com/piyush97/interview-prep-portal)**: application tracker and interview preparation.
+4 stars · TypeScript
+
+**Stack.** Across the 23 repositories I wrote that carry a language: **TypeScript** in 8, Shell and JavaScript in 3 each, HTML and Python in 2 each, and one each of C, Jupyter Notebook, HCL, Dart, and QML. Also worked with: React, Node.js, PostgreSQL, Redis, Python, Azure, AWS, Cloudflare, Docker, Kubernetes, Terraform.
+
+**Education.** Master of Applied Computing, University of Windsor. B.E. in Information Science and Engineering, Ramaiah Institute of Technology.
+
+**Credentials.** Microsoft Certified: Azure AI Engineer Associate. Polygon Hackathon winner, 2021. Smart India Hackathon winner, 2018.
+
+---
+
+## Writing
+
+Twenty-two posts since May, on AI agents, MCP, system design, career decisions, and the infrastructure I run.
 
 <!-- BLOG-POST-LIST:START -->
 - [Building FocusTube with TypeSafe Jev](https://piyushmehta.com/blog/building-focustube-typesafe-jev)
@@ -229,13 +117,18 @@ QML                      1 repo              ░░░░░░░░░░░�
 - [Running a Coding Agent on DeepSeek V4 Flash: The 1M-Context Cheap Workhorse](https://piyushmehta.com/blog/deepseek-v4-flash-0731)
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-➡️ <a href="https://piyushmehta.com"><strong>Read all posts on my blog</strong></a>
-</div>
+[Read all posts on piyushmehta.com](https://piyushmehta.com)
 
 ---
 
-## ⚡ Recent Activity
+## Contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg">
+  <img alt="GitHub contribution graph rendered as a snake" src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake.svg" width="100%">
+</picture>
+
+## Recent activity
 
 <!--START_SECTION:activity-->
 
@@ -248,18 +141,10 @@ QML                      1 repo              ░░░░░░░░░░░�
 
 ---
 
-<div align="center">
+## Let's talk
 
-### Let's build something great together
+Open to senior software engineering and technical leadership roles, and to consulting on AI workflows, platform reliability, and architecture review.
 
-<a href="mailto:me@piyushmehta.com?subject=Let's%20Collaborate&body=Hi%20Piyush,"><img src="https://img.shields.io/badge/Hire%20Me-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Me"/></a>
-<a href="https://calendly.com/piyushmehta"><img src="https://img.shields.io/badge/Book%20a%20Call-blue?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a Call"/></a>
-<a href="https://piyushmehta.com/resume"><img src="https://img.shields.io/badge/View%20Resume-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/></a>
+<a href="https://calendly.com/piyushmehta/15min"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:contact@piyushmehta.com?subject=Let's%20collaborate"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a>
 
-</div>
-
-[website]: https://piyushmehta.com
-[twitter]: https://x.com/PiyushMehtas
-[instagram]: https://instagram.com/coderwhoknows
-[linkedin]: https://linkedin.com/in/piyush24
-[webdev]: https://piyushmehta.com
+**Piyush Mehta** · Senior Software Engineer · [piyushmehta.com](https://piyushmehta.com)

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="208" viewBox="0 0 460 208" role="img" aria-label="Outcomes: 7+ years of professional work; 1,500+ developers mentored; 30% workflow efficiency gain; 35% vulnerabilities reduced">
+  <style>
+  :root{
+    --ink:#171a2f;
+    --surface:#222640;
+    --text:#f6f7ff;
+    --secondary:#b4bad8;
+    --muted:#8f96ba;
+    --rule:#343a5f;
+    --signal:#ffcc68;
+    --paper:#f6f3ea;
+    --paper-surface:#fffaf0;
+    --ink-text:#121827;
+    --paper-rule:#ddd3c2;
+    --paper-signal:#8d3d1f;
+  }
+  @media (prefers-color-scheme: light){
+    :root{
+      --ink:#f6f3ea;
+      --surface:#fffaf0;
+      --text:#121827;
+      --secondary:#5a5f70;
+      --muted:#666c7d;
+      --rule:#ddd3c2;
+      --signal:#8d3d1f;
+    }
+  }
+    .v{font-family:'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;font-size:32px;font-weight:800;fill:var(--signal)}
+    .l{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:11px;font-weight:700;letter-spacing:0.12em;fill:var(--text)}
+    .s{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:11px;font-weight:400;letter-spacing:0.02em;fill:var(--muted)}
+    .r{stroke:var(--rule);stroke-width:1}
+  </style>
+  <line class="r" x1="0" y1="0.5" x2="460" y2="0.5"/>
+  
+  <text class="v" x="0" y="46">7+</text>
+  <text class="l" x="0" y="70">YEARS OF</text>
+  <text class="s" x="0" y="86">professional work</text>
+  <line class="r" x1="230" y1="18" x2="230" y2="88"/>
+  <text class="v" x="254" y="46">1,500+</text>
+  <text class="l" x="254" y="70">DEVELOPERS</text>
+  <text class="s" x="254" y="86">mentored</text>
+  
+  <text class="v" x="0" y="150">30%</text>
+  <text class="l" x="0" y="174">WORKFLOW</text>
+  <text class="s" x="0" y="190">efficiency gain</text>
+  <line class="r" x1="230" y1="122" x2="230" y2="192"/>
+  <text class="v" x="254" y="150">35%</text>
+  <text class="l" x="254" y="174">VULNERABILITIES</text>
+  <text class="s" x="254" y="190">reduced</text>
+  <line class="r" x1="0" y1="207.5" x2="460" y2="207.5"/>
+</svg>
