@@ -105,6 +105,7 @@ Developer education and community leadership. Mentored 1,500+ developers on web 
 Twenty-two posts since May, on AI agents, MCP, system design, career decisions, and the infrastructure I run.
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Sonnet 5.5 Beats Opus 5.5 on Terminal-Bench at Half the Price](https://piyushmehta.com/blog/claude-sonnet-5-5)
 - [Why AI Coding Agents Fail at Long Tasks &lpar;And How to Fix It&rpar;](https://piyushmehta.com/blog/context-management-agents)
 - [Building FocusTube with TypeSafe Jev](https://piyushmehta.com/blog/building-focustube-typesafe-jev)
 - [Testing AI Agent Actions: A Runnable Approval and Retry Harness](https://piyushmehta.com/blog/testing-ai-agent-actions)
@@ -114,7 +115,6 @@ Twenty-two posts since May, on AI agents, MCP, system design, career decisions, 
 - [My 12TB Drive Failed. ZFS Saved 3.4TB of Data](https://piyushmehta.com/blog/zfs-saved-my-data-seagate-warranty)
 - [OmaSwitch: The Alt+Tab Omarchy Has Been Missing](https://piyushmehta.com/blog/omaswitch-alt-tab-omarchy)
 - [From Cron to Event-Driven: A Migration Playbook](https://piyushmehta.com/blog/cron-to-event-driven)
-- [AGENTS.md Is Becoming the Most Important File in Your Repository](https://piyushmehta.com/blog/agents-md-repository-context)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all posts on piyushmehta.com](https://piyushmehta.com)
