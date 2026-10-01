@@ -105,6 +105,8 @@ Developer education and community leadership. Mentored 1,500+ developers on web 
 Twenty-two posts since May, on AI agents, MCP, system design, career decisions, and the infrastructure I run.
 
 <!-- BLOG-POST-LIST:START -->
+- [An AI Agent Sandbox Is Not Your Authorization Boundary](https://piyushmehta.com/blog/agent-sandbox-boundary)
+- [Is AI Rotting Your Brain? The Attention and Critical Thinking Trap](https://piyushmehta.com/blog/ai-brain-rot-attention-critical-thinking)
 - [GPT-6.1 Sol vs Astra: 5× Cheaper, But Is It Good Enough?](https://piyushmehta.com/blog/gpt-6-1-sol)
 - [Claude Sonnet 5.5 Beats Opus 5.5 on Terminal-Bench at Half the Price](https://piyushmehta.com/blog/claude-sonnet-5-5)
 - [Why AI Coding Agents Fail at Long Tasks &lpar;And How to Fix It&rpar;](https://piyushmehta.com/blog/context-management-agents)
@@ -113,8 +115,6 @@ Twenty-two posts since May, on AI agents, MCP, system design, career decisions, 
 - [RAG vs Long Context: When Do You Actually Need Retrieval?](https://piyushmehta.com/blog/rag-vs-long-context)
 - [I Moved This Site From Vercel to Cloudflare. Here Is What Broke.](https://piyushmehta.com/blog/vercel-to-cloudflare-migration)
 - [Herdr Is the Runtime Your Coding Agents Live On](https://piyushmehta.com/blog/herdr-terminal-multiplexer-coding-agents)
-- [My 12TB Drive Failed. ZFS Saved 3.4TB of Data](https://piyushmehta.com/blog/zfs-saved-my-data-seagate-warranty)
-- [OmaSwitch: The Alt+Tab Omarchy Has Been Missing](https://piyushmehta.com/blog/omaswitch-alt-tab-omarchy)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all posts on piyushmehta.com](https://piyushmehta.com)
