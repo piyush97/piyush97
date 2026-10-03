@@ -99,6 +99,7 @@ HCL · Terraform · Ansible
 Twenty-two posts since May, on AI agents, MCP, system design, career decisions, and the infrastructure I run.
 
 <!-- BLOG-POST-LIST:START -->
+- [npm Trusted Publishing Now Moves dist-tags: Delete Your Last NPM_TOKEN](https://piyushmehta.com/blog/npm-oidc-dist-tags-release-gate)
 - [An AI Agent Sandbox Is Not Your Authorization Boundary](https://piyushmehta.com/blog/agent-sandbox-boundary)
 - [Is AI Rotting Your Brain? The Attention and Critical Thinking Trap](https://piyushmehta.com/blog/ai-brain-rot-attention-critical-thinking)
 - [GPT-6.1 Sol vs Astra: 5× Cheaper, But Is It Good Enough?](https://piyushmehta.com/blog/gpt-6-1-sol)
@@ -108,7 +109,6 @@ Twenty-two posts since May, on AI agents, MCP, system design, career decisions, 
 - [Testing AI Agent Actions: A Runnable Approval and Retry Harness](https://piyushmehta.com/blog/testing-ai-agent-actions)
 - [RAG vs Long Context: When Do You Actually Need Retrieval?](https://piyushmehta.com/blog/rag-vs-long-context)
 - [I Moved This Site From Vercel to Cloudflare. Here Is What Broke.](https://piyushmehta.com/blog/vercel-to-cloudflare-migration)
-- [Herdr Is the Runtime Your Coding Agents Live On](https://piyushmehta.com/blog/herdr-terminal-multiplexer-coding-agents)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all posts on piyushmehta.com](https://piyushmehta.com)
