@@ -5,7 +5,7 @@
  * GitHub strips CSS from README markdown and blocks data: URIs in images, so
  * colour and rules cannot come from markup. These files are committed and
  * referenced through raw.githubusercontent.com instead, which is the pattern the
- * existing charts/ assets already use.
+ * profile already used for its generated charts.
  *
  * Every asset carries an internal prefers-color-scheme block so it holds the
  * Evidence Ledger's Two-Ink Rule: dark and light each pick their own ink,

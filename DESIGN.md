@@ -175,28 +175,27 @@ These are GitHub's, not choices, and are recorded rather than papered over:
   `#0f6d31` is **2.93:1**. The lowest-activity cells are effectively invisible,
   so the graph flatters its own subject by hiding absence.
 
-  **Open decision.** Every other breach on this list is GitHub refusing to render
+  **Decided: cut.** Every other breach on this list is GitHub refusing to render
   something. This one is a third-party asset that is kept on purpose. The
   alternatives are recolouring the generator, replacing it with a
   ledger-native contribution view, or cutting it. Cutting also removes the
   `START_SECTION:activity` block, which is four issue comments and one PR —
   two of them on the same issue — sitting in the last 15% of the page, directly
   before the call to action. For a hiring manager that reads as drive-by
-  commenting rather than as evidence.
+  commenting rather than as evidence. Both the graph and the activity block
+  were removed, with their workflows.
 
 ## Automation
 
-Three workflows write into this README. Their marker pairs are structural, not
+One workflow writes into this README. Its marker pair is structural, not
 decorative, and must survive any edit:
 
 | Markers | Workflow | Cadence |
 |---|---|---|
 | `<!-- BLOG-POST-LIST:START/END -->` | `gautamkrishnar/blog-post-workflow` | nightly |
-| `<!--START_SECTION:activity-->` | `jamesgeorge007/github-activity-readme` | every 30 min |
-| `charts/github-snake*.svg` | `Platane/snk` | nightly, files only |
 
-None trigger on push. A redesign that empties those regions ships visibly empty
-sections until the next scheduled run, so the populated contents are ported
+It does not trigger on push. A redesign that empties that region ships a visibly empty
+section until the next scheduled run, so the populated contents are ported
 across by hand rather than replaced with placeholders.
 
 `waka-time.yml` was removed with the WakaTime block it maintained. Leaving it

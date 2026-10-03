@@ -30,12 +30,10 @@ Success means a visitor understands within one viewport who Piyush is and what h
 
 ## Operating Context
 
-- The README is **partly machine-written**. Two GitHub Actions inject content into it on a schedule, each bounded by HTML comment markers that must survive any edit:
+- The README is **partly machine-written**. One GitHub Action injects content into it on a schedule, bounded by HTML comment markers that must survive any edit:
   - `<!-- BLOG-POST-LIST:START -->` / `<!-- BLOG-POST-LIST:END -->` — `gautamkrishnar/blog-post-workflow`, pulls 10 posts from the site RSS nightly.
-  - `<!--START_SECTION:activity-->` / `<!--END_SECTION:activity-->` — `jamesgeorge007/github-activity-readme`, every 30 minutes.
-  - A third, `Platane/snk`, writes `charts/github-snake.svg` and `charts/github-snake-dark.svg` nightly. It touches files only, never the README.
-- A third workflow, `anmol098/waka-readme-stats`, used to write a `<!--START_SECTION:waka-->` block into the middle of the document. It was removed along with the block, because a 60-line auto-generated section of ASCII bar charts was the least credible thing on the page and it had already begun reporting "No Activity Tracked This Week". Nothing regenerates it.
-- Neither remaining workflow triggers on push. A change that empties those regions ships visibly empty sections until the next scheduled run, so populated contents are ported across by hand rather than replaced with placeholders.
+- The contribution snake (`Platane/snk`) and the recent-activity feed (`jamesgeorge007/github-activity-readme`) were removed: the snake failed WCAG contrast and was off-palette, and the activity feed was drive-by issue comments whose workflow had been failing on a revoked token. A third workflow, `anmol098/waka-readme-stats`, used to write a `<!--START_SECTION:waka-->` block into the middle of the document. It was removed along with the block, because a 60-line auto-generated section of ASCII bar charts was the least credible thing on the page and it had already begun reporting "No Activity Tracked This Week". Nothing regenerates it.
+- The remaining workflow does not trigger on push. A change that empties those regions ships visibly empty sections until the next scheduled run, so populated contents are ported across by hand rather than replaced with placeholders.
 - The profile's own commit history shows a bot identity (`bot@piyushmehta.com`) pushing automated updates, so the README changes on its own and must stay conflict-free.
 - The portfolio project's own `src/data/portfolio.ts` is the authoritative source for what Piyush actually works on. The README must not drift from it.
 
@@ -57,7 +55,7 @@ Success means a visitor understands within one viewport who Piyush is and what h
 - **Voice:** direct, specific, evidence-led. States what was built, what it does, and what the constraint was. Avoids superlatives and growth-marketing register.
 - **Consistency with piyushmehta.com:** the profile is the same product surface as the site, not a separate brand. Where the site has a house framing, the profile should not contradict it.
 - **Privacy:** the contact email is published in the README for collaborator enquiries. Keep it published; do not add new personal contact details without explicit approval.
-- **Existing assets:** `code.gif`, `_resume_.gif`, `assets/banner.jpg`, `assets/bar_graph.png`, `charts/github-snake*.svg` are committed in the repository and may be used.
+- **Existing assets:** `code.gif`, `_resume_.gif`, `assets/banner.jpg`, `assets/bar_graph.png` are committed in the repository and may be used.
 
 ## Evidence on Hand
 

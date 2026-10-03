@@ -32,7 +32,7 @@ mobile widths, in light and dark theme.
   real language and star counts; 22 blog posts since May 2026.
 - **Constraints:** GitHub strips CSS, so structure comes from `div align`,
   `table`, and `img` only, and colour must arrive as a committed asset. Two
-  automation marker pairs must survive verbatim (`BLOG-POST-LIST`, `activity`).
+  automation marker pairs must survive verbatim (`BLOG-POST-LIST`).
   No fabricated claims, metrics, clients, or testimonials. Every figure traces to
   `PiyushMehta.com/src/data/portfolio.ts`, the GitHub API, or a repo description.
 

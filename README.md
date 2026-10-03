@@ -57,7 +57,7 @@ Developer education and community leadership. Mentored 1,500+ developers on web 
 
 **AI products past the prototype.** [FocusTube](https://github.com/piyush97/focus-tube), a distraction-free learning feed, and [health-visualizer](https://github.com/piyush97/health-visualizer), which turns an Apple Health export into something you can ask questions of. [SlideFusion](https://github.com/piyush97/SlideFusion) is an AI-assisted presentation workspace on Next.js, tRPC, and Prisma.
 
-**Tools other people start from.** [awesome-portfolio](https://github.com/piyush97/awesome-portfolio) is a deploy-ready portfolio template, at 23 stars the second most-starred repo on this account. [GitCompete](https://github.com/piyush97/GitCompete) compares two public GitHub profiles. [Slika-API](https://github.com/piyush97/Slika-API) is a REST API for college note sharing, finished and archived. Earlier: [khel-ke-baat-karen](https://github.com/piyush97/khel-ke-baat-karen), a Dart app for autistic children, and [6thSemISE](https://github.com/piyush97/6thSemISE), lab work in C.
+**Tools other people start from.** [awesome-portfolio](https://github.com/piyush97/awesome-portfolio) is a deploy-ready portfolio template, at 23 stars the second most-starred repo on this account. [GitCompete](https://github.com/piyush97/GitCompete) compares two public GitHub profiles. [Slika-API](https://github.com/piyush97/Slika-API) is a REST API for college note sharing, finished and archived.
 
 ## How I work
 
@@ -69,30 +69,24 @@ Developer education and community leadership. Mentored 1,500+ developers on web 
 ## Selected work
 
 **[PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)**: my portfolio and technical blog, on Astro 7 and Cloudflare Workers.
-32 stars · 223 prerendered pages · two runtime API routes · [v5.0.0](https://github.com/piyush97/PiyushMehta.com/releases)
+34 stars · 223 prerendered pages · two runtime API routes · [v5.0.0](https://github.com/piyush97/PiyushMehta.com/releases)
 
-**[awesome-portfolio](https://github.com/piyush97/awesome-portfolio)**: a deploy-ready portfolio template in TypeScript.
-23 stars
+**[proxmox-dr-mcp](https://github.com/piyush97/proxmox-dr-mcp)**: disaster recovery for Proxmox over MCP: pre-flight checks, snapshots, health verification, rollback.
+Python · [MCPize listing](https://mcpize.com/mcp/proxmox-dr-mcp)
 
-**[Slika-API](https://github.com/piyush97/Slika-API)**: an open source REST API for college and classroom notes, now archived.
-10 stars · JavaScript
+**[mcp-server-typescript-starter](https://github.com/piyush97/mcp-server-typescript-starter)**: production-grade MCP server starter with Zod validation and stdio + HTTP transport.
+TypeScript · [write-up](https://piyushmehta.com/blog/building-mcp-server-typescript)
 
-**[GitCompete](https://github.com/piyush97/GitCompete)**: compares two public GitHub profiles.
-10 stars · JavaScript
+**[homelab-gitops](https://github.com/piyush97/homelab-gitops)**: the Proxmox homelab as infrastructure as code, with drift detection in CI.
+HCL · Terraform · Ansible
 
-**[OmaSwitch](https://github.com/piyush97/omaswitch)**: Alt-Tab overlay for Omarchy, with MRU ordering and type-to-search.
-8 stars · QML
+**[OmaSwitch](https://github.com/piyush97/omaswitch)**: Alt-Tab overlay for Omarchy, with MRU ordering, type-to-search, and live previews.
+8 stars · QML · [write-up](https://piyushmehta.com/blog/omaswitch-alt-tab-omarchy)
 
-**[Homelab](https://github.com/piyush97/Homelab)**: the homelab, documented in public.
-5 stars · Shell
+**[GitCompete](https://github.com/piyush97/GitCompete)**: compares two public GitHub profiles with a visible scoring formula.
+10 stars · React · [live](https://piyush97.github.io/GitCompete/)
 
-**[homelab-gitops](https://github.com/piyush97/homelab-gitops)**: the same homelab as infrastructure as code.
-2 stars · HCL
-
-**[interview-prep-portal](https://github.com/piyush97/interview-prep-portal)**: application tracker and interview preparation.
-4 stars · TypeScript
-
-**Stack.** Across the 23 repositories I wrote that carry a language: **TypeScript** in 8, Shell and JavaScript in 3 each, HTML and Python in 2 each, and one each of C, Jupyter Notebook, HCL, Dart, and QML. Also worked with: React, Node.js, PostgreSQL, Redis, Python, Azure, AWS, Cloudflare, Docker, Kubernetes, Terraform.
+**Stack.** TypeScript first, for products and agent tooling; Terraform, Ansible, and Docker for the infrastructure under them. Also shipped with: React, Node.js, PostgreSQL, Redis, Python, Azure, AWS, Cloudflare, Kubernetes.
 
 **Education.** Master of Applied Computing, University of Windsor. B.E. in Information Science and Engineering, Ramaiah Institute of Technology.
 
@@ -118,26 +112,6 @@ Twenty-two posts since May, on AI agents, MCP, system design, career decisions, 
 <!-- BLOG-POST-LIST:END -->
 
 [Read all posts on piyushmehta.com](https://piyushmehta.com)
-
----
-
-## Contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg">
-  <img alt="GitHub contribution graph rendered as a snake" src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake.svg" width="100%">
-</picture>
-
-## Recent activity
-
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#21701](https://github.com/xbmc/xbmc/issues/21701#issuecomment-2755175497) in [xbmc/xbmc](https://github.com/xbmc/xbmc)
-2. 💪 Opened PR [#20](https://github.com/SlideFusion/SlideFusion/pull/20) in [SlideFusion/SlideFusion](https://github.com/SlideFusion/SlideFusion)
-3. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2735012152) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
-4. 🗣 Commented on [#5466](https://github.com/microsoft/vscode-copilot-release/issues/5466#issuecomment-2734984237) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
-5. 🗣 Commented on [#16525](https://github.com/immich-app/immich/issues/16525#issuecomment-2703049721) in [immich-app/immich](https://github.com/immich-app/immich)
-<!--END_SECTION:activity-->
 
 ---
 
