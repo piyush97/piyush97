@@ -6,7 +6,7 @@
 
 **Senior Software Engineer · Toronto, Canada**
 
-### I build durable product systems at the seam between ambitious ideas and operational reality — with judgment that can be inspected, challenged, and trusted.
+### I build product systems that last, and I make my technical decisions easy to inspect and challenge.
 
 <a href="https://calendly.com/piyushmehta/15min"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a> <a href="mailto:contact@piyushmehta.com"><img src="https://img.shields.io/badge/Email-171a2f?style=for-the-badge&logo=gmail&logoColor=ffcc68" alt="Email" /></a> <a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/LinkedIn-171a2f?style=for-the-badge&logo=linkedin&logoColor=ffcc68" alt="LinkedIn" /></a> <a href="https://piyushmehta.com"><img src="https://img.shields.io/badge/Writing-171a2f?style=for-the-badge&logo=google-chrome&logoColor=ffcc68" alt="Writing" /></a>
 
@@ -20,7 +20,7 @@
 
 **Senior Software Engineer**, Tundra Technical Solutions · Remote · Jul 2025 to present
 
-Enterprise software and AI delivery for a major Ontario energy client. I lead architecture for LLM systems that have to survive contact with production: RAG pipelines, MCP tools, and agentic workflows. Part of the job is coaching teams on secure, durable engineering practice.
+Enterprise software and AI delivery for a major Ontario energy client. I lead architecture for production LLM systems: RAG pipelines, MCP tools, and agentic workflows. I also coach teams on secure engineering practice.
 
 <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-02.svg" alt="02, 2023" />
 
@@ -32,20 +32,20 @@ Internal and client-facing platforms across AI, automation, and secure applicati
 
 **Full Stack Developer**, Nuclei · Bangalore, India · Jan 2020 to Dec 2021
 
-Product engineering on a progressive web application and its supporting services. React, Node.js, and SQL, with the application structure kept understandable as features accumulated. Cut tracked vulnerabilities 40%, and automated the analytics pipeline on AWS microservices to take 25% out of its operating cost.
+Product engineering on a progressive web application and its supporting services, using React, Node.js, and SQL. I cut tracked vulnerabilities 40% and automated the analytics pipeline on AWS microservices, which took 25% out of its operating cost.
 
 <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/career-04.svg" alt="04, 2018" />
 
 **DSC Lead Intern**, Google · Bangalore, India · Dec 2018 to May 2020
 
-Developer education and community leadership. Mentored 1,500+ developers on web engineering and system design, supported 200+ job placements through teaching and coaching, and ran DevFest events and hands-on programs.
+Developer education and community leadership. I mentored 1,500+ developers on web engineering and system design, supported 200+ job placements through teaching and coaching, and ran DevFest events and hands-on programs.
 
 <picture>
   <source media="(max-width: 560px)" srcset="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics-compact.svg">
   <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics.svg" alt="Outcomes: 5+ years shipping production software; 1,500+ developers mentored; 30% workflow efficiency gain; 35% vulnerabilities reduced" />
 </picture>
 
-*The mentoring figures come from the Google years, the efficiency and security results from the BDO years. The span comes from the first role to now.*
+*Mentoring figures are from Google, efficiency and security results from BDO. The 5+ years run from the first role to now.*
 
 ---
 
@@ -53,18 +53,18 @@ Developer education and community leadership. Mentored 1,500+ developers on web 
 
 **MCP servers and agent tooling.** [Proxmox disaster recovery over MCP](https://github.com/piyush97/proxmox-dr-mcp) with pre-flight checks, a [production-grade TypeScript MCP starter](https://github.com/piyush97/mcp-server-typescript-starter), [WatchBot](https://github.com/piyush97/watchbot) for homelab and social monitoring, and an [OpenCode plugin](https://github.com/piyush97/opencode-omniroute-v2) for live model routing.
 
-**Infrastructure I actually operate.** A 24-container Proxmox homelab run as code: [GitOps and IaC in HCL](https://github.com/piyush97/homelab-gitops), a macOS-inspired [Arch dotfiles](https://github.com/piyush97/dotfiles-arch) setup on KDE, tmux, and ghostty, and infrastructure that has survived a real disk failure. [OmaSwitch](https://github.com/piyush97/omaswitch) is an Alt-Tab overlay for [Omarchy](https://omarchy.org), written in QML.
+**Infrastructure I run.** A 24-container Proxmox homelab managed as code ([GitOps and IaC in HCL](https://github.com/piyush97/homelab-gitops)) that has survived a real disk failure, plus macOS-inspired [Arch dotfiles](https://github.com/piyush97/dotfiles-arch) on KDE, tmux, and ghostty. [OmaSwitch](https://github.com/piyush97/omaswitch) is an Alt-Tab overlay for [Omarchy](https://omarchy.org), written in QML.
 
-**AI products past the prototype.** [FocusTube](https://github.com/piyush97/focus-tube), a distraction-free learning feed, and [health-visualizer](https://github.com/piyush97/health-visualizer), which turns an Apple Health export into something you can ask questions of. [SlideFusion](https://github.com/piyush97/SlideFusion) is an AI-assisted presentation workspace on Next.js, tRPC, and Prisma.
+**AI products.** [FocusTube](https://github.com/piyush97/focus-tube), a distraction-free learning feed, and [health-visualizer](https://github.com/piyush97/health-visualizer), which turns an Apple Health export into something you can ask questions of. [SlideFusion](https://github.com/piyush97/SlideFusion) is an AI-assisted presentation workspace on Next.js, tRPC, and Prisma.
 
-**Tools other people start from.** [awesome-portfolio](https://github.com/piyush97/awesome-portfolio) is a deploy-ready portfolio template, at 23 stars the second most-starred repo on this account. [GitCompete](https://github.com/piyush97/GitCompete) compares two public GitHub profiles. [Slika-API](https://github.com/piyush97/Slika-API) is a REST API for college note sharing, finished and archived.
+**Tools and templates.** [awesome-portfolio](https://github.com/piyush97/awesome-portfolio) is a deploy-ready portfolio template, at 23 stars the second most-starred repo on this account. [GitCompete](https://github.com/piyush97/GitCompete) compares two public GitHub profiles. [Slika-API](https://github.com/piyush97/Slika-API) is a REST API for college note sharing, finished and archived.
 
 ## How I work
 
 - Start with the workflow and the failure modes before choosing the implementation shape.
 - Keep systems observable, typed, and boring where reliability matters most.
-- Document tradeoffs clearly, so teams can change direction without losing context.
-- Use evidence, tests, and operational feedback to decide when an abstraction has earned its keep.
+- Document tradeoffs so teams can change direction without losing context.
+- Add an abstraction only after tests and operational feedback show it pays off.
 
 ## Selected work
 
