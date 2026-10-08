@@ -99,6 +99,7 @@ HCL · Terraform · Ansible
 Twenty-two posts since May, on AI agents, MCP, system design, career decisions, and the infrastructure I run.
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-6 Luna Decisions: Typed Probabilities for Real Support Routing](https://piyushmehta.com/blog/gpt-6-luna-decisions)
 - [Python 3.10 End of Life: A Practical Upgrade Guide for 2026](https://piyushmehta.com/blog/python-310-end-of-life-upgrade-guide)
 - [npm Trusted Publishing Now Moves dist-tags: Delete Your Last NPM_TOKEN](https://piyushmehta.com/blog/npm-oidc-dist-tags-release-gate)
 - [An AI Agent Sandbox Is Not Your Authorization Boundary](https://piyushmehta.com/blog/agent-sandbox-boundary)
@@ -108,7 +109,6 @@ Twenty-two posts since May, on AI agents, MCP, system design, career decisions, 
 - [Why AI Coding Agents Fail at Long Tasks &lpar;And How to Fix It&rpar;](https://piyushmehta.com/blog/context-management-agents)
 - [Building FocusTube with TypeSafe Jev](https://piyushmehta.com/blog/building-focustube-typesafe-jev)
 - [Testing AI Agent Actions: A Runnable Approval and Retry Harness](https://piyushmehta.com/blog/testing-ai-agent-actions)
-- [RAG vs Long Context: When Do You Actually Need Retrieval?](https://piyushmehta.com/blog/rag-vs-long-context)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all posts on piyushmehta.com](https://piyushmehta.com)
