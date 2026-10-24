@@ -99,6 +99,7 @@ HCL · Terraform · Ansible
 Twenty-two posts since May, on AI agents, MCP, system design, career decisions, and the infrastructure I run.
 
 <!-- BLOG-POST-LIST:START -->
+- [Kimi K3.1 Pro: Benchmarks, Pricing, API and Open Weights](https://piyushmehta.com/blog/kimi-k3-1-pro-open-weight-gap)
 - [Understory: Engineering Blogs, Explained, With Receipts](https://piyushmehta.com/blog/understory-engineering-blogs-explained)
 - [RoastTube: Let AI Roast Your YouTube Decisions and History](https://piyushmehta.com/blog/roasttube-ai-roast-youtube-history)
 - [Mellum2.1 and the Local Coding Agent Test That Actually Matters](https://piyushmehta.com/blog/mellum21-local-coding-agent-evaluation)
@@ -108,7 +109,6 @@ Twenty-two posts since May, on AI agents, MCP, system design, career decisions, 
 - [An AI Agent Sandbox Is Not Your Authorization Boundary](https://piyushmehta.com/blog/agent-sandbox-boundary)
 - [Is AI Rotting Your Brain? The Attention and Critical Thinking Trap](https://piyushmehta.com/blog/ai-brain-rot-attention-critical-thinking)
 - [GPT-6.1 Sol vs Astra: 5× Cheaper, But Is It Good Enough?](https://piyushmehta.com/blog/gpt-6-1-sol)
-- [Claude Sonnet 5.5 Beats Opus 5.5 on Terminal-Bench at Half the Price](https://piyushmehta.com/blog/claude-sonnet-5-5)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all posts on piyushmehta.com](https://piyushmehta.com)
