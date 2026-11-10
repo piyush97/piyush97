@@ -99,6 +99,7 @@ HCL · Terraform · Ansible
 Twenty-two posts since May, on AI agents, MCP, system design, career decisions, and the infrastructure I run.
 
 <!-- BLOG-POST-LIST:START -->
+- [A 284B Model in 64 GB: What Bits per Weight Actually Buy](https://piyushmehta.com/blog/moe-decode-memory-budget)
 - [One Asterisk: How a Libc Error String Became an OpenSSH Bypass](https://piyushmehta.com/blog/openssh-musl-asterisk-bypass)
 - [Your Agent Sandbox Shares an L3 Cache](https://piyushmehta.com/blog/agent-sandbox-shared-cache)
 - [Your AI Agent Can Pass CI by Deleting the Test. agentgate Blocks That PR](https://piyushmehta.com/blog/agentgate-block-agent-prs-that-weaken-tests)
@@ -108,7 +109,6 @@ Twenty-two posts since May, on AI agents, MCP, system design, career decisions, 
 - [RoastTube: Let AI Roast Your YouTube Decisions and History](https://piyushmehta.com/blog/roasttube-ai-roast-youtube-history)
 - [Mellum2.1 and the Local Coding Agent Test That Actually Matters](https://piyushmehta.com/blog/mellum21-local-coding-agent-evaluation)
 - [GPT-6 Luna Decisions: Typed Probabilities for Real Support Routing](https://piyushmehta.com/blog/gpt-6-luna-decisions)
-- [Python 3.10 End of Life: A Practical Upgrade Guide for 2026](https://piyushmehta.com/blog/python-310-end-of-life-upgrade-guide)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all posts on piyushmehta.com](https://piyushmehta.com)
