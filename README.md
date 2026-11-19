@@ -99,16 +99,16 @@ HCL · Terraform · Ansible
 Twenty-two posts since May, on AI agents, MCP, system design, career decisions, and the infrastructure I run.
 
 <!-- BLOG-POST-LIST:START -->
+- [One Line in site-packages: The Python Startup Hook Nobody Audits](https://piyushmehta.com/blog/python-pth-startup-hook)
+- [The Dead TODO Tax: What Google Measured, and What Its Instrument Misses](https://piyushmehta.com/blog/agent-distraction-dead-todo-tax)
+- [The Clone Was One Line Above the Bug: CVE-2026-119618](https://piyushmehta.com/blog/cve-2026-119618-mod-http2-race)
+- [The Median Agent Request Is 142K Tokens. Only 1.7K Need Computing.](https://piyushmehta.com/blog/kv-cache-restore-vs-recompute)
 - [A 284B Model in 64 GB: What Bits per Weight Actually Buy](https://piyushmehta.com/blog/moe-decode-memory-budget)
 - [One Asterisk: How a Libc Error String Became an OpenSSH Bypass](https://piyushmehta.com/blog/openssh-musl-asterisk-bypass)
+- [The Smallest Rebuild You Can Prove Correct](https://piyushmehta.com/blog/smallest-provably-safe-rebuild)
 - [Your Agent Sandbox Shares an L3 Cache](https://piyushmehta.com/blog/agent-sandbox-shared-cache)
 - [Your AI Agent Can Pass CI by Deleting the Test. agentgate Blocks That PR](https://piyushmehta.com/blog/agentgate-block-agent-prs-that-weaken-tests)
 - [AI Coding Agents Pass Tests, Ship Insecure Code: A CI Gate](https://piyushmehta.com/blog/ai-coding-agent-security-gate)
-- [Kimi K3.1 Pro: Benchmarks, Pricing, API and Open Weights](https://piyushmehta.com/blog/kimi-k3-1-pro-open-weight-gap)
-- [Understory: Engineering Blogs, Explained, With Receipts](https://piyushmehta.com/blog/understory-engineering-blogs-explained)
-- [RoastTube: Let AI Roast Your YouTube Decisions and History](https://piyushmehta.com/blog/roasttube-ai-roast-youtube-history)
-- [Mellum2.1 and the Local Coding Agent Test That Actually Matters](https://piyushmehta.com/blog/mellum21-local-coding-agent-evaluation)
-- [GPT-6 Luna Decisions: Typed Probabilities for Real Support Routing](https://piyushmehta.com/blog/gpt-6-luna-decisions)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all posts on piyushmehta.com](https://piyushmehta.com)
