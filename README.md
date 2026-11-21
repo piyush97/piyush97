@@ -102,6 +102,7 @@ HCL · Terraform · Ansible
 Twenty-two posts since May, on AI agents, MCP, system design, career decisions, and the infrastructure I run.
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Emulator Passes 75% of Its Own Tests. Here Is How to Read the Other 25%](https://piyushmehta.com/blog/aws-emulator-fidelity-score)
 - [One Line in site-packages: The Python Startup Hook Nobody Audits](https://piyushmehta.com/blog/python-pth-startup-hook)
 - [The Dead TODO Tax: What Google Measured, and What Its Instrument Misses](https://piyushmehta.com/blog/agent-distraction-dead-todo-tax)
 - [The Clone Was One Line Above the Bug: CVE-2026-119618](https://piyushmehta.com/blog/cve-2026-119618-mod-http2-race)
@@ -111,7 +112,6 @@ Twenty-two posts since May, on AI agents, MCP, system design, career decisions, 
 - [The Smallest Rebuild You Can Prove Correct](https://piyushmehta.com/blog/smallest-provably-safe-rebuild)
 - [Your Agent Sandbox Shares an L3 Cache](https://piyushmehta.com/blog/agent-sandbox-shared-cache)
 - [Your AI Agent Can Pass CI by Deleting the Test. agentgate Blocks That PR](https://piyushmehta.com/blog/agentgate-block-agent-prs-that-weaken-tests)
-- [AI Coding Agents Pass Tests, Ship Insecure Code: A CI Gate](https://piyushmehta.com/blog/ai-coding-agent-security-gate)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all posts on piyushmehta.com](https://piyushmehta.com)
