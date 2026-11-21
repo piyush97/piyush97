@@ -55,7 +55,7 @@ Developer education and community leadership. I mentored 1,500+ developers on we
 
 **Infrastructure I run.** A 24-container Proxmox homelab managed as code ([GitOps and IaC in HCL](https://github.com/piyush97/homelab-gitops)) that has survived a real disk failure, plus macOS-inspired [Arch dotfiles](https://github.com/piyush97/dotfiles-arch) on KDE, tmux, and ghostty. [OmaSwitch](https://github.com/piyush97/omaswitch) is an Alt-Tab overlay for [Omarchy](https://omarchy.org), written in QML.
 
-**AI products.** [FocusTube](https://github.com/piyush97/focus-tube), a distraction-free learning feed, and [health-visualizer](https://github.com/piyush97/health-visualizer), which turns an Apple Health export into something you can ask questions of. [SlideFusion](https://github.com/piyush97/SlideFusion) is an AI-assisted presentation workspace on Next.js, tRPC, and Prisma.
+**AI products.** [Understory](https://github.com/piyush97/understory) turns engineering blog posts into validated explainers on Cloudflare Workers, D1, Queues, and Workers AI. [RoastTube](https://github.com/piyush97/roasttube) reads your YouTube likes and subscriptions, computes the stats in TypeScript, and has Gemini write the roast. [FocusTube](https://github.com/piyush97/focus-tube) is a distraction-free learning feed. [SlideFusion](https://github.com/piyush97/SlideFusion) is an AI-assisted presentation workspace on Next.js, tRPC, and Prisma.
 
 **Tools and templates.** [awesome-portfolio](https://github.com/piyush97/awesome-portfolio) is a deploy-ready portfolio template, at 23 stars the second most-starred repo on this account. [GitCompete](https://github.com/piyush97/GitCompete) compares two public GitHub profiles. [Slika-API](https://github.com/piyush97/Slika-API) is a REST API for college note sharing, finished and archived.
 
@@ -69,10 +69,13 @@ Developer education and community leadership. I mentored 1,500+ developers on we
 ## Selected work
 
 **[PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)**: my portfolio and technical blog, on Astro 7 and Cloudflare Workers.
-34 stars · 223 prerendered pages · two runtime API routes · [v5.0.0](https://github.com/piyush97/PiyushMehta.com/releases)
+33 stars · 223 prerendered pages · two runtime API routes · [v5.0.0](https://github.com/piyush97/PiyushMehta.com/releases)
 
-**[proxmox-dr-mcp](https://github.com/piyush97/proxmox-dr-mcp)**: disaster recovery for Proxmox over MCP: pre-flight checks, snapshots, health verification, rollback.
-Python · [MCPize listing](https://mcpize.com/mcp/proxmox-dr-mcp)
+**[agentgate](https://github.com/piyush97/agentgate)**: a GitHub Action that blocks AI-agent PRs that weaken tests, edit guardrails, or escalate CI permissions.
+TypeScript · [Marketplace](https://github.com/marketplace/actions/agentgate-by-piyush97)
+
+**[Understory](https://github.com/piyush97/understory)**: engineering blogs, explained. Two Workers share one D1 database; Queues run extraction and generation, and every generated explainer is validated before it publishes.
+TypeScript · Cloudflare Workers · [live](https://understory.piyushmehta.com)
 
 **[mcp-server-typescript-starter](https://github.com/piyush97/mcp-server-typescript-starter)**: production-grade MCP server starter with Zod validation and stdio + HTTP transport.
 TypeScript · [write-up](https://piyushmehta.com/blog/building-mcp-server-typescript)
@@ -81,7 +84,7 @@ TypeScript · [write-up](https://piyushmehta.com/blog/building-mcp-server-typesc
 HCL · Terraform · Ansible
 
 **[OmaSwitch](https://github.com/piyush97/omaswitch)**: Alt-Tab overlay for Omarchy, with MRU ordering, type-to-search, and live previews.
-8 stars · QML · [write-up](https://piyushmehta.com/blog/omaswitch-alt-tab-omarchy)
+14 stars · QML · [write-up](https://piyushmehta.com/blog/omaswitch-alt-tab-omarchy)
 
 **[GitCompete](https://github.com/piyush97/GitCompete)**: compares two public GitHub profiles with a visible scoring formula.
 10 stars · React · [live](https://piyush97.github.io/GitCompete/)
