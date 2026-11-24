@@ -6,23 +6,25 @@
 
 I build product systems that last, and I make my technical decisions easy to inspect and challenge.
 
+Open to senior engineering and technical leadership roles, and to consulting on AI workflows.
+
 <a href="https://calendly.com/piyushmehta/15min"><img src="https://img.shields.io/badge/Book%20a%20call-ffcc68?style=for-the-badge&logo=google-calendar&logoColor=171a2f" alt="Book a call" /></a>
 
-[piyushmehta.com](https://piyushmehta.com) · [LinkedIn](https://www.linkedin.com/in/piyush24/) · [contact@piyushmehta.com](mailto:contact@piyushmehta.com)
+[piyushmehta.com](https://piyushmehta.com) · [LinkedIn](https://www.linkedin.com/in/piyush24/)
 
 <picture>
   <source media="(max-width: 560px)" srcset="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics-compact.svg">
-  <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics.svg" alt="7+ years of professional work; 1,500+ developers mentored; 30% workflow efficiency gain; 35% vulnerabilities reduced" />
+  <img src="https://raw.githubusercontent.com/piyush97/piyush97/master/assets/metrics.svg" alt="5+ years of professional work; 1,500+ developers mentored; 30% workflow efficiency gain; 35% vulnerabilities reduced" />
 </picture>
 
-**Now:** I lead architecture for production LLM systems (RAG pipelines, MCP tools, agentic workflows) at Tundra Technical Solutions for an Ontario energy client.<br>
-**Before:** BDO Canada, Nuclei, and Google Developer Student Clubs lead.
+**Now:** Tundra Technical Solutions. I lead architecture for production LLM systems (RAG pipelines, MCP tools, agentic workflows) for an Ontario energy client.<br>
+**Before:** BDO Canada (the 30% and 35% results), Nuclei, and Google Developer Student Clubs lead (the 1,500+ mentored).
 
 ### Selected work
 
-- **[agentgate](https://github.com/piyush97/agentgate)**: a GitHub Action that blocks AI-agent PRs that weaken tests, edit guardrails, or escalate CI permissions.
-- **[Understory](https://understory.piyushmehta.com)**: engineering blogs, explained, on Cloudflare Workers, D1, Queues and Workers AI.
-- **[OmaSwitch](https://github.com/piyush97/omaswitch)**: Alt+Tab for Omarchy with recent windows first, live previews and on-device OCR search.
+- **[agentgate](https://github.com/piyush97/agentgate)**: a GitHub Action that blocks AI-agent PRs that weaken tests, edit guardrails, or escalate CI permissions. [Marketplace](https://github.com/marketplace/actions/agentgate-by-piyush97)
+- **[Understory](https://github.com/piyush97/understory)**: engineering blogs, explained, on Cloudflare Workers, D1, Queues and Workers AI. [Live](https://understory.piyushmehta.com)
+- **[OmaSwitch](https://github.com/piyush97/omaswitch)**: Alt+Tab for Omarchy with recent windows first, live previews and on-device OCR search. [Write-up](https://piyushmehta.com/blog/omaswitch-alt-tab-omarchy)
 - **[homelab-gitops](https://github.com/piyush97/homelab-gitops)**: my Proxmox homelab as code, with drift detection in CI.
 - **[PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)**: my portfolio and technical blog, on Astro and Cloudflare Workers.
 

@@ -104,7 +104,7 @@ write('mark.svg', mark);
 // Student Clubs years, and the efficiency and security results from the BDO
 // consulting years. Provenance is stated in the README body.
 const METRICS = [
-  { value: '7+', label: 'years of', sub: 'professional work' },
+  { value: '5+', label: 'years of', sub: 'professional work' },
   { value: '1,500+', label: 'developers', sub: 'mentored' },
   { value: '30%', label: 'workflow', sub: 'efficiency gain' },
   { value: '35%', label: 'vulnerabilities', sub: 'reduced' },
