@@ -181,44 +181,4 @@ write('metrics-compact.svg', compact);
 // light-scheme ink swap with everything else.
 //
 // Transparent ground so the marker sits on whatever surface GitHub renders.
-// ── 4. Career markers ───────────────────────────────────────────────────────
-// One marker per role, newest first. These carry the employer and the start
-// year; the role title and the full range sit in the prose beneath, so the
-// marker stays a marker and does not become a second copy of the sentence.
-//
-// A uniform canvas, not a per-label one. All four share a single
-// font-size/weight/tracking rule, so they must render at one scale. An earlier
-// version sized each canvas to its own label length and the README then forced
-// all of them to one width, which stretched the longest label by 1.146x and
-// squeezed the shortest by 0.947x.
-// Year and start index only. The employer moved into the prose on purpose: a
-// reader whose image is blocked, or who is scanning the text, must still get the
-// fact that matters most. Three of four employers previously existed only here,
-// and these markers are the page's smallest text.
-const CAREER = [
-  { n: '01', year: '2025' },
-  { n: '02', year: '2023' },
-  { n: '03', year: '2020' },
-  { n: '04', year: '2018' },
-];
-
-// Compact tab: index, rule, year, close together. The canvas was 470 when the
-// employer still lived in the marker; with the employer in the prose that width
-// stranded the year ~415px from its own index and read as two unrelated
-// fragments. It is now a tab that sits at the head of the record it labels.
-const C_W = 128;
-for (const { n, year } of CAREER) {
-  const marker = `
-<svg xmlns="http://www.w3.org/2000/svg" width="${C_W}" height="20" viewBox="0 0 ${C_W} 20" role="img" aria-label="${n}, ${year}">
-  <style>${TOKENS}
-    .n{font-family:${MONO};font-size:13px;font-weight:700;fill:var(--signal)}
-    .y{font-family:${MONO};font-size:13px;font-weight:400;letter-spacing:0.12em;fill:var(--muted)}
-  </style>
-  <text class="n" x="0" y="14">${n}</text>
-  <line x1="26" y1="4" x2="26" y2="16" stroke="var(--rule)" stroke-width="1"/>
-  <text class="y" x="${C_W}" y="14" text-anchor="end">${year}</text>
-</svg>`;
-  write(`career-${n}.svg`, marker);
-}
-
 console.log('done');

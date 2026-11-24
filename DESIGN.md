@@ -116,7 +116,6 @@ the committed files are byte-identical to a fresh run.
 | Asset | Job |
 |---|---|
 | `mark.svg` | brand monogram, 64x64 |
-| `career-01..04.svg` | numbered mono career markers: employer and start year, uniform 470x20 |
 | `metrics.svg` | four-up outcome rail, 880x104 |
 | `metrics-compact.svg` | 2x2 outcome rail for narrow viewports, 460x208 |
 
