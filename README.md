@@ -31,9 +31,9 @@ Open to senior engineering and technical leadership roles, and to consulting on 
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Your ZDR Flag Binds One Hop. Two Million Canaries Proved It.](https://piyushmehta.com/blog/zdr-flag-binds-one-hop)
 - [AWS Emulator Passes 75% of Its Own Tests. Here Is How to Read the Other 25%](https://piyushmehta.com/blog/aws-emulator-fidelity-score)
 - [One Line in site-packages: The Python Startup Hook Nobody Audits](https://piyushmehta.com/blog/python-pth-startup-hook)
-- [The Dead TODO Tax: What Google Measured, and What Its Instrument Misses](https://piyushmehta.com/blog/agent-distraction-dead-todo-tax)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts](https://piyushmehta.com/blog)
